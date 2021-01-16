@@ -1,9 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## youtubefetch
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-This code will fetch the list of all videos uploaded to a channel. Change the channel ID as per requirement. In this specific code, it fetches from Tseries.
+"This code will fetch the list of all videos uploaded to a channel. Change the channel ID as per requirement. In this specific code, it fetches from Tseries."
 
 <!-- GETTING STARTED -->
 ## Getting Started
