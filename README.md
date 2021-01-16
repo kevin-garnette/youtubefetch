@@ -3,7 +3,7 @@
 
 "This code will fetch the list of all videos uploaded to a channel. Change the channel ID as per requirement. In this specific code, it fetches from"  [BsidesdcOrg](https://www.youtube.com/channel/UCVImyGhRATNFGPmJfxaq1dw).
 
-## Prerequisites
+## prerequisites
 
 1. Get a free API Key for the [YouTube DATA API](https://console.cloud.google.com/apis/credentials)
 
@@ -13,7 +13,7 @@
   sudo apt-get install python3-googleapi python3-oauth2client
   ```
 
-### Installation
+## installation
 
 1. Clone the repo
    ```sh
@@ -29,7 +29,7 @@
    ```
    ![test](https://user-images.githubusercontent.com/58897196/104816263-ee432c00-5811-11eb-8dd2-96b217f7845c.png)
    
-## Usage
+## usage
 
    ```sh
    sudo python3 code.py > BSidesdcOrg.txt
