@@ -5,7 +5,7 @@
 
 ## prerequisites
 
-1. Get a free API Key for the [YouTube data API](https://console.cloud.google.com/apis/credentials)
+1. Get a free API key for the [YouTube data API](https://console.cloud.google.com/apis/credentials)
 
 2. Install the following clients
 
