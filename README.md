@@ -16,14 +16,17 @@
 ## installation
 
 1. Clone the repo
+
    ```sh
    git clone https://github.com/kevin-garnette/youtubefetch.git
    ```
 2. Replace the below api key with yours at ligne 1 of `code.py` 
+
    ```JS
       api_key = 'AIzaSyJFSUbQnFBBQnO8Vbs_9db_wDeeIwCGk8s''; 
    ```
 3. Replace the below channel ID with yours at ligne 29 of `code.py` 
+
    ```JS
       videos = get_channel_videos('UCVImyGhRATNFGPmJfxaq1dw')
    ```
