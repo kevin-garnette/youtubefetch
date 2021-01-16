@@ -3,7 +3,7 @@
 
 "This code will fetch the list of all videos uploaded to a channel. Change the channel ID as per requirement. In this specific code, it fetches from"  [BsidesdcOrg](https://www.youtube.com/channel/UCVImyGhRATNFGPmJfxaq1dw).
 
-### Prerequisites
+## Prerequisites
 
 1. Get a free API Key for the [YouTube DATA API](https://console.cloud.google.com/apis/credentials)
 
