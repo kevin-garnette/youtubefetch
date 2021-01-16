@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## youtubefetch
 
-"This code will fetch the list of all videos uploaded to a channel. Change the channel ID as per requirement. In this specific code, it fetches from Tseries."
+"This code will fetch the list of all videos uploaded to a channel. Change the channel ID as per requirement. In this specific code, it fetches from"  [BsidesdcOrg](https://www.youtube.com/channel/UCVImyGhRATNFGPmJfxaq1dw).
 
 <!-- GETTING STARTED -->
 ## Getting Started
