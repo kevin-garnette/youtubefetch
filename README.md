@@ -3,12 +3,6 @@
 
 "This code will fetch the list of all videos uploaded to a channel. Change the channel ID as per requirement. In this specific code, it fetches from"  [BsidesdcOrg](https://www.youtube.com/channel/UCVImyGhRATNFGPmJfxaq1dw).
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 1. Get a free API Key for the [YouTube DATA API](https://console.cloud.google.com/apis/credentials)
