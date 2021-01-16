@@ -27,13 +27,13 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/kevin-garnette/youtubefetch.git
    ```
-2. Replace the below channel ID at ligne 29 of `code.py` with yours
+2. Replace your API key in at ligne 1 of `code.py` with yours
    ```JS
-   videos = get_channel_videos('UCVImyGhRATNFGPmJfxaq1dw')
+      api_key = 'AIzaSyJFSUbQnFBBQnO8Vbs_9db_wDeeIwCGk8s''; 
    ```
-3. Replace your API key in at ligne 1 of `code.py` with yours
+3. Replace the below channel ID at ligne 29 of `code.py` with yours
    ```JS
-   api_key = 'AIzaSyJFSUbQnFBBQnO8Vbs_9db_wDeeIwCGk8s'';
+      videos = get_channel_videos('UCVImyGhRATNFGPmJfxaq1dw')
    ```
    ![test](https://user-images.githubusercontent.com/58897196/104816263-ee432c00-5811-11eb-8dd2-96b217f7845c.png)
    
