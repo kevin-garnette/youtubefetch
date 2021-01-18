@@ -1,0 +1,85 @@
+Open Source, HacktoberFest et autres carambistouilles
+Allô le monde, est-ce que l’i18n de mon app va bien ?
+Kotlin/Native : mettre du code Kotlin... partout !
+Forgez vos projets avec GitLab CI
+Vous reprendrez bien une tranche d'Actions on Google ?
+I'm so QT ♥
+Travaillez votre bronzage avec Grunt !
+Latence et énergie - Je t'aime, moi non plus
+Orchestrez vos containers avec Kubernetes
+Les choses d'Android Things
+Warp 10, base de données pour les  time series
+Les Ðapps avec Ethereum et Solidity
+Les OS mobiles alternatifs
+Services d'authentification (partie 1)
+Développement iOS
+Services d'authentification (partie 2)
+HTML5 - CSS3 - JavaScript : le Web nouvelle définition
+GWT - HTML et JavaScript codés en Java (partie 2)
+GWT - HTML et JavaScript codés en Java (partie 1)
+PaaS (partie 2)
+PaaS (partie 1)
+Java 9 et 10 en 60' chrono
+L'orchestration de containers pour les nuls
+Les bases du machine learning
+La révolution des blockchains
+Let's React !
+1, 2, Swift 3 !
+Ionic - Framework hybride, fun et addictif !
+Angular : le retour
+La puissance de Scala
+Lua and co
+Découvrir le WebRTC
+Web Animation - Objectif 60 FPS
+Atlangames Gamedev Afterwork
+Service Workers
+Design & Code - a love story
+Kotlin - Programmation fonctionnelle pour JVM et Android !
+Alea jacta test!
+Android, comment réduire l’impact de son code sur la batterie ?
+Backbone JS
+Les sides projects
+Android Wear
+OpenStreetMap
+Ruby on Rails
+Intel XDK, un environnement de développement d’applications multi plates-formes
+openSCAD
+Objets connectés
+Docker
+WebRTC
+Nouveautés #iOS 8
+Google Glass
+Amazon Web Services
+Cobalt, live!
+Android, Intel inside
+Windows 8
+Polymer
+JDK 8 et expressions lambdas
+AngularJS
+Arduino!
+Dart, un langage moderne pour le web
+Eclipse 4 & Acceleo
+Go, Go, Go!
+Survol du Cloud Google
+Introduction au NoSQL avec Couchbase
+Open Source, mode d'emploi
+Parallélisation de code
+Symfony 2
+Startup Weekend Bretagne : Le dimanche 11
+Startup Weekend Bretagne : Le dimanche en 2 minutes
+Startup Weekend Bretagne
+Jury Startup Weekend
+Mais qui ronfle ???
+Startup Weekend Bretagne : Mouette Mouette Style Full version
+Startup Weekend Bretagne : Webcam accélérée 2
+Startup Weekend Bretagne : Webcam accélérée
+Startup Weekend Bretagne : Typad
+Startup Weekend Bretagne : Breizh connect
+Startup Weekend Bretagne : Ludispace
+Startup Weekend Bretagne : Checkingmachine
+Startup Weekend Bretagne : Atik
+Startup Weekend Bretagne : Slide U
+Startup Weekend Bretagne : Buddy sports
+Startup Weekend Bretagne : Union création
+Startup Weekend Bretagne : Go event
+Startup Weekend Bretagne : direct menu

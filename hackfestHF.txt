@@ -1,0 +1,205 @@
+Hacking Android & iOS apps with Deep Links and XSS
+Introduction to Burp Suite and Web hacking (Bilingual FR+EN)
+The ReZer0 loader: a malicious Dot Net based loader with a flaw
+Noel au pays des firmwares (workshop)
+ByeBye Sécurité Informatique - Québec 2020
+Trust, but Verify: Maintaining Democracy In Spite (Allie Mellen)
+Table ronde: comment créer un programme de sécurité
+QuebecSec Septembre 2020: Évasion d'antivirus next-generation avec Martin Dubé
+The ABCs of 'Cloud Hacking'
+Actually useful measurement and reporting (for appsec and vulnerability management)
+Escalade de Privilèges dans le Cloud: D'une simple vulnérabilité SSRF à Administrateur Cloud Global
+Using open-source data from the MITRE ATT&CK framework to better understand your closed-source EDR s
+Ransomware: quand les pirates informatiques deviennent des pros duchantage 3.0
+Les aventures en construction de SOC
+QuebecSec Avril 2020 - CVE-2020-0601 'Chain Of Fools'
+Hackfest Reloaded - 2009 edition - flashback CTF
+Avez-vous confiance en votre PKI? (Joniel Gagné Laurin)
+Recent developments in designing price-stable cryptocurrencies (Mahsa Moosavi)
+A more secure management of front-end dependencies (Jérémy Matos)
+Cybersécurité et pays en voie de développement:Amérique Latine et Caraïbes (Blaise Arbouet)
+Adventures in obfuscated mobile adware (Kristina Balaam)
+Introduction to Security and Machine Learning (Wendy Edwards)
+Gone Calishing: A Red Team Approach to Weaponizing Google Calendar (Antonio Piazza)
+Unveiling the not-PowerShell cult (Mangatas Tondang)
+Dark What? Démystifier le buzz via la présentation d’un outil open-source (Félix Lehoux)
+Gold nuggeting: Intuition, apprentissage machine et test d’intrusion (Serge Olivier Paquette)
+Design: The Art of Building Security Programs (J. Wolfgang Goerlich)
+Techniques d’attaque et de défense dans AWS (Cédric Thibault)
+You shall not pass, even if you look like a hobbit-an appeal to smarter physical sec (Remy Baccino)
+F2P - Free to pawn (Marc André Bélanger)
+Capture de traffic réseau - haute vitesse et filtre avancés (Martin Dubois)
+Curiosity Killed the Cat: Legal Implications of Off-Duty Vulnerability Exposure (Anna Manley)
+Initiation à la sociologie au service du SE et de l’OSINT (Hugo Benoist)
+Conclusions from Tracking Server attacks at scale (Ophir Harpaz & Daniel Golberg)
+Mind the gap - managing insecurity in enterprise IoT (Cheryl Biswas)
+Cérémonie de fermeture - Stats et Social Engineering (Patrick & Crew)
+Cérémonie de fermeture - CTF (Franck & Crew)
+7 habits of highly effective adversaries (Joe Gray)
+The OSINT Space is Growing! Are we Ready? (Adrian Korn)
+The Mechanics of Malware’s Darkside (Yagnesh Waran P & Laura Harris)
+Brokers Guild Incident Response (Vincent Marcus)
+Comment bâtir un labo pour détonations de malware (Jean-Philippe Taggart & Jerome Segura)
+Zero-trust à l’ère des fuites massives d’informations (Nicolas-Loïc Fortin)
+A comparative analysis of Open Source Web Application vulnerability scanners (Rana Khalil)
+Quand les mails du gouvernement se promènent dans le darknet (Damien Bancal)
+Everyone is hackable. How long will it take you to notice (Shira Shamban)
+War in the fifth dimension - An overview of the Weaponization of Information (Alana Stazz)
+Surface d’attaque du gouvernement (Steve Waterhouse)
+Architecture d’entreprise. What!?! (Nicolas-Loïc Fortin)
+La chasse aux menaces est ouverte - Débuter le Threat Hunting (Éric Gagnon)
+ICS: A deeper dive into defending and attacking operational technology (Liam Graves)
+Harakiri: Manipulating binaries to optimize closed source fuzzing (Sebastien Feldman)
+QuebecSec - Mai 2019 - My experience hacking video games (Partie 2/2)
+Exploiting Connected Medical Devices: Lessons Learned & Data Earned (Saurabh Harit)
+Vibing Your Way Through an Enterprise – How Attackers are Becoming More Sneaky (Matt Eidelberg)
+RGPD en Europe : 6 mois d’expériences (Damien Bancal)
+Hacking COMBUS in a Paradox security system (Kirils Solovjovs)
+Utilisation de GPU pour l’inspection de trafic réseau (Martin Dubois)
+CAN Signal Extraction from Openxc with Radare2 (Ben Gardiner)
+Digital Certificate Cybercrime Exploitation and Decentralizing using Blockchain (Mahsa Moosavi)
+RHme3 : hacking through failure (Colin DeWinter & Jonathan Beverley & Ben Gardiner)
+How to bypass an IDS with netcat and linux (Kirill Shipulin)
+Shut Up and Take My Money: Scraping the Venmo Public Feed (Johnny Xmas)
+Your Bank’s Digital Side Door (Steven Danneman)
+More MitM Makes Mana Mostly Mediate Mischievous Message (Dominic White)
+Throwing it out the Windows: Exfiltration d’identifiants Active Directory (Léanne Dutil)
+Automatisation de la réponse, introduction au standard OpenC2 (David Girard)
+“Blazing Secure” Egress Traffic with Smokescreen ( Marc-André Tremblay)
+Finding Valuable Needles in Global Source Code Haystacks with Automation (Jay Lagorio)
+Mise à jour des menaces et des risques informatique au Canada (Steve Waterhouse)
+Breach Analytica: Exploring the history & design of hacked data services (Trevor and Pamela)
+Surviving a Cat-astrophe: The Art of Crisis Management as told through LOLcatz (Jen Ellis)
+Who wrote this smart contract? Privacy and Anonymity in Blockchain (Alina Matyukhina)
+QuebecSec - Avril 2019 - SDR Medley: Introduction aux Software-Defined Radios (Maxime Leblanc)
+Don’t Bring Me Down: Weaponized Botnets Anyone? (Cheryl Biswas)
+So You Want To Be A Consultant? Here’s The Fine Print… (Justin Ryder)
+Explorons le malspam avec Emotet - QuébecSec janvier 2019
+Parlons d’enjeux nationaux sécurité informatique envers la démocratie: Un état de situation (panel)
+Discours d'ouverture du Hackfest 2018 avec l'honorable Karina Gould
+My experience hacking video games (Partie 1/2)
+RansomeWare Lands Futures Weird Awakens (3/3) (Franck Desert)
+Propriétés des preuves numériques et considérations à leur cueillette (Sylvain Desharnais)
+Static-Analysis Tools: Now you’re Playing with Power! (Philippe Arteau)
+The Black Art of Wireless Post-Exploitation (Gabriel Ryan)
+Hadoop safari : Hunting for vulnerabilities (Mahdi Braik & Thomas Debize)
+Les véhicules autonomes, leur télémétrie et l’impact sur la sécurité (Marc-André Bélanger)
+Fingerprinting Android malware packaging thru static analysis identify creator (François Gagnon)
+How To Pwn an Enterprise in 2017 (or 2016, or 2015. . .) (Johnny Xmas)
+Attack Driven Development: Getting Started in Application Security (Keith Hoodlet)
+Lessons Learned Hunting IoT Malware (Olivier Bilodeau)
+Selenium: dark side of the moon (Adam Reiser)
+Genetic Algorithms for Brute Forcing (Christopher Ellis)
+Dissecting a Metamorphic File-Infecting Ransomware (Raul Alvarez)
+Rage Against the Weaponized A.I. Propaganda Machine (Chris Sumner)
+BITSInject - control your BITS, get SYSTEM (Dor Azouri)
+Élection présidentielle Française 2 0 (Damien Bancal)
+SniffAir – OpenSource Framework for WiFi Security Assessments (Matthew Eidelberg & Steven Daracott)
+Vaccination - An Anti-Honeypot Approach (Gal Bitensky)
+Stantinko : Un botnet aux multiples facettes  (Matthieu Faou & Frédéric Vachon)
+100 Facebooks accounts per day through internet searches (Guillermo Buendia & Yael Basurto)
+Between You and Me and the Network Security Boundary (Patrick Fussell)
+Banking on Insecurity: Why Attackers Can Take the Money and Run (Cheryl Biswas)
+Creating a Professional-Quality Embedded Device on a Budget (Michael Vieau & Kevin Bong)
+Superhéros Tous! Comment l’empathie peut aider l’inclusion des personnel avec ASD-ADHD (Michelle)
+Practical Analysis of Awareness (Kendra Coooley)
+Introducing CSE’s open source AssemblyLine (Steve Garon & John O’Brien)
+RansomeWare Lands (2/3) (Franck Desert)
+Ian-Kyle Wagner présente Darknets, sécurité et anonymité
+RansomeWare Lands (1/2) (Franck Desert)
+HackerSpace - Vie privée, cet illustre inconnu
+HackerSpace - Réseau Zéro Confiance
+HackerSpace - Retour sur le Hackfest 2016
+iHack 2017 - Promo
+La vie dans un SOC (Éric Gagnon)
+Le meilleur ami du pentester: les mots de passe (Martin Dubé)
+Web hacking workshop (Patrick R. Mathieu)
+BurpSmartBuster - A smart way to find hidden treasures, the next steps (Patrick R. Mathieu)
+The New Wave Of Account Checkers And Underground Rewards Fraud (Benjamin Brown)
+Your configs are bad and you should feel bad (Stephen Hall)
+Unveiling One of the World’s Biggest and Oldest Cybercrime Gangs (Sun Huang & Wayne Huang)
+This Phish Goes To 11 (Stephanie “Snow” Carruthers)
+How I Darkweb Economies (and You Can Too!) (Johnny Xmas & Benjamin Brown)
+Game Hacking Exposed (Mickael Nadeau)
+Adversarial Simulation: Why your defenders are the Fighter Pilots (Chris Nickerson)
+De-anonymizing Bitcoin one transaction at a time (Mathieu Lavoie & David Décary-Hétu)
+A Stuxnet for Mainframes (Cheryl Biswas)
+Come Bring all your Drones to the Yard (Blake Cornell)
+Windows systems & code signing protection (Paul Rascagnères)
+Histoire d'un hack (Bernard Bolduc)
+Abusing PHP 7’s OPcache to Spawn Webshells (Ian Bouchard)
+Make iOS Hacking Great Again: The Easy Wins! (Aaron Guzman)
+Pentesting Cruise Ships OR Hacking the High Seas (Chad M. Dewey)
+Exploit Kits: The Biggest Threat You Know Nothing About (Sunny Wear)
+Hypotheses on burnout and stress related illnesses in relation to Cyber Security practitioners
+Blue Team Reboot (Cheryl Biswas & Haydn Johnson)
+Sécurité Docker en production (Alexandre Guédon)
+Stratégies de fouille et recherches de preuves (Nadia Vigneault & Sylvain Desharnais)
+Clogging the Futures Series of Tubes: A look at HTTP2 DDoS Attacks (Michael Bennet)
+Hacking the Internet of Dongs (RenderMan and Murdoch_Monkey)
+Hunting with LimaCharlie (Maxime Lamothe-Brassard)
+Fixing the Java Serialization mess (Pierre Ernst)
+Untangling the Dark Web: Unmasking Onion Services (Sarah Jamie Lewis)
+Racing the Web (Aaron Hnatiw)
+Catching IMSI Catchers (Geoffrey Vaughan)
+Encoding vs Hashing vs Encrypting vs Obfuscating et la suite
+Dumpster diving du 21ème siècle - The garbage is leaking juice
+iHack 2016
+Data Exfiltration
+Blue team pour PME
+Relever les empreintes d'une application web
+HackerSpace  25 Février 2016 - SSL/TLS pour les non-cryptologues
+HackerSpace  28 Janvier 2016 - Is your Application DDoS Ready?
+Hackerspace Septembre 2015 - Introduction au développement sécuritaire
+Hackfest 2015: Olivier Bilodeau & Thomas Dupuy presented Internet of {Things,Threats}
+Hackfest 2015: Julien Mbony & Patrick Roy presented "L’impact du blockchain dans le monde virtuel"
+Hackfest 2015: Nadia Vigneault presented "Forensic 201"
+Hackfest 2015: François Harvey presented "WordPress : attaque, audit et protection"
+Hackfest 2015; John McAfee presented "The unconventional truth"
+Hackfest 2015: Shane MacDougall presented "A SE Journey Through An IT Pro’s Social Media Profile"
+Hackfest 2015: François Gagnon presented "Les communications dans les applications mobiles"
+Hackfest 2015: Nicolas Grégoire presented "Server Side Browsing"
+Hackfest 2015: Roy Firestein presented "Cymon – An Open Threat Intelligence System"
+Hackfest 2015: Mike Larkin presented "Kernel W^X Improvements In OpenBSD"
+Hackfest 2015: Theo de Raadt presented "Pledge: A new security technology in openbsd"
+Hackfest 2015: Marc André Bélanger "Top 5 des façons d’être responsable de la perte de 1M $"
+Hackfest 2015: Johnny Xmas presented "1993 BC: Get Off my LAN!"
+Hackerspace Juillet 2015 (Techniques d'enquête et outils)
+Hackerspace Juin 2015 - Atelier/Workshop: Analyse de packet avec Python
+Hackfest 2005 - Ani spoofing by Sekcore
+iHack 2015
+Vie privée en ligne, soyez anonyme
+iHack 2015 (Ecosystème Développement Android – Reversing et Debuggage d’applications Android!)
+iHack2015 : Network Forensics
+Hackerspace Mars 2015 (Attaquer les applications Malware Android)
+Hackerspace Février 2015 (How to secure a web server like a boss)
+Hackerspace - Janvier 2015 (Return Oriented Programming)
+Hackerspace - Novembre 2014 (Retour sur le Hackfest et CTF 2014)
+Hackfest 2014: François Lajeunesse-Robert a présenté "Web Scrambler Reloaded"
+Hackfest 2014: RenderMan aka Brad Haines presented "They are doing WHAT! with Air Traffic Control?"
+Hackfest 2014: Jason Gillam presented "Web Penetration Testing with Burp and CO2"
+Hackfest 2014: Ian Amit presented "Red white and blue. Making sense of Red Teaming for good"
+Hackfest 2014: Nadim Kobeissi presented "miniLock - Advances in Usable Cryptography"
+Hackfest 2014: Theo de Raadt presented "arc4random - randomization for all occasions"
+Hackfest 2014: Lockpicking NerfGun Challenge
+HackerSpace 25 septembre 2014 -  L’héritage et futur proche des techniques de survies Viral
+Hackerspace - August 2014 - Mon pot de miel
+HackerSpace Juin 2014, Radiocommunication pour tous
+Hackerspace - July 2014 - We clean up shit
+Hackerspace May 2014 - BeEF me UP!
+HackerSpace 24 avril 2014 - HeartBleed De A à Z
+HackerSpace 27 mars - Hacking Jam Session
+Hackerspace 27 fevrier 2014 - Initiation aux buffer overflows
+Hackerspace 27 février 2014 - Initiation aux buffer overflows
+Hackerspace 23 janvier 2014 - Sécurité par revendication
+HackerSpace 28 novembre - Retour sur le Hackfest 2013
+Privilege escalation using SMBRelay & a network share
+HackerSpace 26 sept - Hacker les aires
+HackerSpace 27 juin - Assembleur x86 - Reverse - Shellcode
+iHack Night 2013 Time lapse
+HackerSpace 25 avril 2013 (Attaques contre les serveurs DNS et contre-mesures)
+Hackerspace - Mar 2013 - Tor
+Abusing Terminal Server SSO to pwn more boxes - Demo 1
+Abusing Terminal Server SSO to pwn more boxes - Demo 2
+Hackerspace - Jan 2013 - Why NTLM sucks part 1
+Hackerspace - Jan 2013 - Why NTLM sucks part 2

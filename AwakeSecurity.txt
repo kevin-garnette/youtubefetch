@@ -1,0 +1,41 @@
+Detecting Threats like Sunburst / SolarWinds / Solorigate
+Responding to Ransomware: Containing the Threat and Preventing Encryption
+Understand Your Attack Surface: What Organizations Can Learn from Election Security Challenges
+Security for the New Network SaaS, Cloud, IoT, Core, Perimeter,… Oh My!
+Encrypted Traffic Analysis (Part 2): Hype vs. Reality from the Trenches
+Encrypted Traffic Analysis (Part 1): Detect, Don’t Decrypt
+CISO Perspectives: Preventing Ransomware While Prepping for the Worst
+TAG Cyber interviews Rahul Kashyap on the Business Problems & Challenges of the New Network
+TAG Cyber interviews Rahul Kashyap on the Technical Aspects of the New Network
+Unmanaged Device Security: Defending IoT and the Expanding Attack Surface
+Winning the Battle Against False Positives – Working Smarter, Not Harder
+How to Detect and Contain Maze Ransomware Before It Wreaks Havoc
+CISO Perspectives: People are the Perimeter – Managing Risk in a Zero Trust World
+Awake Security Platform: Technology Walkthrough
+Closing the Critical Skills Gap for Modern and Effective Security Operations Centers: Survey Results
+CISO Perspectives: Security Budgeting – Selling Your Priorities Internally
+The New Rootkit: How Malicious Chrome Extensions Enabled a Global Surveillance Campaign
+CISO Perspectives: Top 5 Considerations for CISOs as Post-COVID19 Reentry Progresses
+Visualize the Entire Kill Chain & Kiss Alert Fatigue Goodbye
+Who’s in the Browser? Exploring Malicious Browser Extensions & Data Mining
+CISO Perspectives: Ethical and Policy Implications for AI in Cyber Security
+The Security Team is WFH Too. How To Deliver Great Security Outcomes While Working Remotely.
+CISO Priorities: Top Considerations for Rapidly Securing the Remote Workforce
+Network Traffic Analysis Customer Testimonial - John Chesson
+Haskell Benchmarking, Profiling, and Optimization
+Happy Holidays from Our Family to Yours
+Evaluating Network Traffic Analysis Systems – Requirements and Challenges
+Man in the Browser: Lateral Movement for the Cloud Era
+IoT Security in 2019: Risks and Cyber Resilience
+Interview by Chuck Harold from Security Guy TV on Awake Security
+CISO Challenges and Tips for a More Secure Enterprise
+AI For Security: What can we Learn from the Human Brain?
+Awake Security Explained
+Awake and Carbon Black Integration in Action
+(JA)3 Reasons to Rethink Your Encrypted Traffic Analysis Strategies
+Crouching Miner, Hidden Exfil
+Remote Access Tools: The Hidden Threats Inside Your Network
+Awake Personal Email Phishing Use Case
+Awake integrates with Splunk Adaptive Response
+SOC Capabilities and Usefulness  -  SANS SOC Survey Results Webcast
+The Goldilocks Problem of AI in Security: How to Find the “Just Right” Use Cases

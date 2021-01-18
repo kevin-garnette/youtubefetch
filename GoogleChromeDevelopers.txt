@@ -1,0 +1,1181 @@
+Chrome 88 - What’s New in DevTools
+Submission shoutout for Centering
+The best of Chrome games | Chrome Developer Summit 2020
+3x3 SEO tips for JavaScript web apps
+Patterns for privacy
+Payment and address form best practices
+Upgrading DevTools' architecture to the modern web
+Canvas2D is getting an update
+Design at scale with Web Components (and ducks)
+PWA patterns for window and service worker communication
+Love your cache: Optimize for the second load
+The web ahead
+Making the web more visual with Web Stories
+Structured data for developers
+Connecting hardware devices to the web
+Extending Workbox: Custom strategies and plugins
+What’s new for web apps in Play
+New logic to detect PWA offline support
+Next-level web apps on desktop
+Transitioning to modern JavaScript
+Debugging WebAssembly with modern tools
+Extending CSS with Houdini
+Submission shoutout for Stories | GUI Challenges
+What's new in DevTools
+Updating the way we work
+SMS OTP form best practices
+Sign-up form best practices
+Thinking on ways to solve CENTERING
+Optimize for interactivity using Web Vitals (FID/TBT)
+A more private way to measure ad conversions
+Enable and debug cross-origin isolated
+Introducing the Privacy Budget
+Chrome OS Terminal
+Superpowers for next gen web apps: Machine learning
+Beyond fast with new performance features
+Core Web Vitals and SEO
+Exploring the future of Core Web Vitals
+Chrome Dev Summit Adventure: How we built it
+UX patterns optimized for Core Web Vitals
+Fixing common Web Vitals issues
+State of speed tooling
+Extensions patterns for Manifest V3
+Partner spotlight: Experience Adobe Spark on Chromebooks
+Design, UX & Advanced PWAs highlights (CDS 2020)
+Chrome and the web in 2020
+Keynote, Performance & Privacy highlights (CDS 2020)
+Validating your Trusted Web Activity’s Digital Asset Links
+Port forwarding on Chrome OS
+Chrome 84 - What’s New in DevTools
+Thinking on ways to solve STORIES | GUI Challenges
+New in Chrome 87: Camera PTZ, SW Range Requests, and more!
+Chrome 87 - What’s New in DevTools
+Web animation gotchas - HTTP 203
+WebAssembly Threads - HTTP 203
+Chrome Dev Summit 2020 - Save the date
+Slashing layout cost with content-visibility - HTTP 203
+Chrome 83 - What’s New in DevTools
+New in Chrome 86: File System Access, WebHID, new CSS features, and more!
+Chrome 86 - What’s New in DevTools
+Accessible Animation - Designing in the Browser
+Working with Media - Designing in the Browser
+Google Chrome Developers thanks you for reaching 500K subscribers!
+3.143 ways to synchronize data across documents - HTTP 203
+Navigating Navigation - Designing in the Browser
+Accessible Color Standards - Designing in the Browser
+Weak JavaScript - HTTP 203
+Semantic markup - Designing in the Browser
+Chrome 85 - What’s New in DevTools
+New in Chrome 85: CSS Properties, content-visibility, getInstalledRelatedApps(), and lots more!
+Streaming requests with fetch - HTTP 203
+App-Like UX for PWAs
+Socially Distant HTTP 203
+What’s new in Web Payments
+Sign-in form best practice
+Just the data you need
+Prevent Info leaks and enable powerful features: COOP and COEP
+Find and fix problems with the Chrome DevTools Issues tab
+Cookie recipes - SameSite and beyond
+How to stay fast and fresh with Angular
+Security and privacy for the open web
+Writing build plugins
+Image compression deep-dive
+10 modern layouts in 1 line of CSS
+Building better in the world of build tools!
+Welcome to Day Three
+Storage for the web
+Zoom on Web: getting connected with advanced web technology
+Chrome Developers Channel Trailer
+Quieter notifications permissions
+Progressively enhancing like it’s 2003
+New in Chrome 84: App Shortcuts, Web Animations, Wake Lock, and lots more!
+Advanced PWA patterns
+Giving your PWA superpowers
+How to define your install strategy
+Shipping a PWA as an Android app
+What’s new in V8/JavaScript
+Welcome to Day Two
+What’s new in Puppeteer
+What’s new in DevTools
+Debugging JavaScript SEO issues
+AMP at your service
+Core Web Vitals in the DevTools timeline
+Workerized JS made easy
+Implementing structured data with JavaScript
+Optimize for Core Web Vitals
+What’s new in speed tooling
+Welcome to Day One
+How to analyze your JavaScript bundles
+Mastering the Chrome UX Report on BigQuery
+web.dev LIVE 2020: Day Three
+web.dev LIVE 2020: Day Two
+web.dev LIVE 2020: Day One
+Top Tips for Web Performance trailer
+New in Chrome 83: Trusted types, updated form controls, and more!
+Introducing podcasts - The State of the Web
+Supercharged Kinda Live — Paul teaches Surma DevTools
+FUGU Best Practices - #AskChrome
+New in Chrome 81: App icon badging lands in stable, new origin trials, hit testing for WebXR & more!
+Cross-origin fetches - HTTP 203
+FUGU Capabilities: Favorite new APIs? - #AskChrome
+Surma’s Interop Adventure - HTTP 203
+FUGU Capabilities: Ready today? - #AskChrome
+Chrome 81 - What’s New in DevTools
+Schematics as a 2nd language (Chrome University 2019)
+FUGU Capabilities: Standards & Fallbacks - #AskChrome
+Testing 101 (Chrome University 2019)
+Sensors in Chrome OS (Chrome University 2019)
+Chrome OS Graphics 101 (Chrome University 2019)
+Chrome OS hardware-backed security and verified boot 101 (Chrome University 2019)
+Life of a codec (Chrome University 2019)
+Android WebView 101 (Chrome University 2019)
+C++ Memory (Chrome University 2019)
+History of WebAssembly (Chrome University 2019)
+Security 201 (Chrome University 2019)
+Security 101 (Chrome University 2019)
+Life of a script (Chrome University 2019)
+C++ as a second language (Chrome University 2019)
+Life of a commit (Chrome University 2019)
+Life of a process (Chrome University 2019)
+Life of a pixel (Chrome University 2019)
+Life of a navigation (Chrome University 2019)
+Anatomy of the browser 201 (Chrome University 2019)
+Mojo - Chrome’s inter-process communication system (Chrome University 2019)
+Anatomy of the browser 101 (Chrome University 2019)
+The history of the web (Chrome University 2019)
+Design Systems with Brad Frost - The State of the Web
+New in Chrome 80: Module Workers, Optional Chaining, New Origin Trials, and more!
+SameSite Cookies - Chrome Update
+Chrome 80 - What’s New in DevTools
+Media - #AskChrome
+Humans can't read URLs. How can we fix it? - HTTP 203
+Is reduce() bad? - HTTP 203
+Accessibility with Marcy Sutton - The State of the Web
+The best web feature of 2019: Part 4/4 - HTTP 203
+Typography and variable fonts - Designing in the Browser
+The best web feature of 2019: Part 3/4 - HTTP 203
+Web Almanac - #AskChrome
+The best web feature of 2019: Part 2/4 - HTTP 203
+The best web feature of 2019: Part 1/4 - HTTP 203
+Developer tools for designers - Designing in the Browser
+Chrome 79 - What’s New in DevTools
+New in Chrome 79: Maskable icons, WebXR, Wake Lock, and more!
+Allan's story - Using the web to help young people find work
+Building responsive layouts - Designing in the Browser
+Live at CDS '19 - #AskChrome
+Predictive prefetching for the Web (Chrome Dev Summit 2019)
+Machine Learning magic for your web application with TensorFlow.js (Chrome Dev Summit 2019)
+Web development on Chrome OS (Chrome Dev Summit 2019)
+5 tips to make your PWA stand out (Chrome Dev Summit 2019)
+Developing for enterprise with Chrome (Chrome Dev Summit 2019)
+Blending PWA into native environments (Chrome Dev Summit 2019)
+Tools for fast Angular applications (Chrome Dev Summit 2019)
+What’s new in Material Design for the web (Chrome Dev Summit 2019)
+Facilitating payments on the web (Chrome Dev Summit 2019)
+Faster apps with JSON.parse (Chrome Dev Summit 2019)
+Hello dark mode, my old friend (Chrome Dev Summit 2019)
+Web bingo at Chrome Dev Summit '19
+Color & custom properties - Designing in the Browser
+What’s new in Canvas - Offscreen Canvas and Text Metric use cases (Chrome Dev Summit 2019)
+You should focus — supporting different devices on the web (Chrome Dev Summit 2019)
+WebP in its 10th year (Chrome Dev Summit 2019)
+Chrome’s ecosystem collaboration (Chrome Dev Summit 2019)
+User-first interactive sites with AMP (Chrome Dev Summit 2019)
+Getting permission: Patterns for making fluent permission requests (Chrome Dev Summit 2019)
+Ready player web: Building modern web games (Chrome Dev Summit 2019)
+3D, VR and AR on the web (Chrome Dev Summit 2019)
+Success from the frontline (Chrome Dev Summit 2019)
+PWAs and capability highlights (Chrome Dev Summit 2019)
+The gift of giving up (Chrome Dev Summit 2019)
+Designing for speed and hacking user perception (Chrome Dev Summit 2019)
+Extending CSS — Designing in the Browser
+Speed highlights (Chrome Dev Summit 2019)
+Trust & safety highlights (Chrome Dev Summit 2019)
+How to make your content shine on Google Search (Chrome Dev Summit 2019)
+Chrome extensions and the world of tomorrow (Chrome Dev Summit 2019)
+Web as a building block for user experience (Chrome Dev Summit 2019)
+In which we make loading disappear with 'portal' and friends (Chrome Dev Summit 2019)
+Oh the things you’ll compile - modern WebAssembly (Chrome Dev Summit 2019)
+Advancing the web framework ecosystem (Chrome Dev Summit 2019)
+HTML isn’t done! (Chrome Dev Summit 2019)
+Intent to explain: Demystifying the Blink shipping process (Chrome Dev Summit 2019)
+Bridging the native app gap (Chrome Dev Summit 2019)
+PWA and the installable web (Chrome Dev Summit 2019)
+Next-generation web styling (Chrome Dev Summit 2019)
+Adaptive Loading - Improving web performance on slow devices (Chrome Dev Summit 2019)
+The main thread is overworked & underpaid (Chrome Dev Summit 2019)
+Speed tooling evolutions: 2019 and beyond (Chrome Dev Summit 2019)
+What’s new in sign-up and sign-in (Chrome Dev Summit 2019)
+Protecting users on a thriving web (Chrome Dev Summit 2019)
+Keynote (Chrome Dev Summit 2019)
+Motion design in UI - Designing in the Browser
+Don’t miss #AskChrome live at #ChromeDevSummit 2019!
+Video - The State of the Web
+Importing JSON - ABANDONED - HTTP 203
+DevTools - #AskChrome
+Intro to Designing in the Browser
+WebAssembly Interface Types - HTTP 203
+New in Chrome 78: New origin trials, CSS Properties & Values API, and fresher service workers!
+Chrome 78 - What’s New in DevTools
+Chrome Dev Summit 2019 - Livestream Registration
+Optimise page load time: icon font or SVG?
+AMP - The State of the Web
+Load your page faster: high performance image carousels
+Images - #AskChrome
+#AskChrome - Answering your Web questions
+Optimise your code: load code at the right time
+Import maps - HTTP 203
+New in Chrome 77: Native Lazy Loading, Largest Contentful Paint, and New Forms Capabilities
+Globalization Tools - The State of the Web
+Chrome 77 - What’s New in DevTools
+Push Notifications - HTTP 203
+Is postMessage slow? - HTTP 203
+Load your page faster: remove unused code
+BigQuery Demo - The State of the Web
+Scope in JavaScript - HTTP 203
+New in Chrome 76: Better install experiences for PWAs, dark mode, and more!
+Reduce image size: use the correct format — PNG or JPEG
+Implementing the Web Payments API - Progressive Web App Training
+Responsive design - Progressive Web App Training
+Responsive images - Progressive Web App Training
+IndexedDB - Progressive Web App Training
+Chrome 76 - What’s New in DevTools
+Reduce image size: optimize image compression
+BigQuery - The State of the Web
+Reduce image size: use media queries for background images
+Handling updates offline-first - HTTP 203
+Faster Web Navigation with Predictive Prefetching
+Web as a building block for emerging technologies
+Web Components: The Secret Ingredient Helping Power The Web
+Easier payments for Progressive Web Apps - Progressive Web App Training
+Send and receive push messages - Progressive Web App Training
+Use VAPID to secure push messages - Progressive Web App Training
+Display notifications - Progressive Web App Training
+Introduction to the Web Perception Toolkit
+Reduce image size: use srcset to automatically choose the right image
+Four silly browser hacks - HTTP 203
+The State of Images - The State of the Web
+Introduction to Web Push & Notifications - Progressive Web App Training
+Implementing OAuth 2 in PWAs - Progressive Web App Training
+Chrome 75 - What’s New in DevTools
+New in Chrome 75: Reduced latency on canvas, web share gets better, and more!
+Find your biggest website problems quickly with Chrome DevTools
+How we got into web development - HTTP 203
+Working with live data in the service worker - Progressive Web App Training
+Indexing your PWA (Discoverability & SEO) - Progressive Web App Training
+Installing Google Analytics - Progressive Web App Training
+Incorporating Google Analytics into web applications - Progressive Web App Training
+Authentication for Progressive Web Apps - Progressive Web App Training
+Speed at Scale: Web Performance Tips and Tricks from the Trenches (Google I/O ’19)
+Securing Web Apps with Modern Platform Features (Google I/O ’19)
+Anatomy of a Web Media Experience (Google I/O ’19)
+Next-Generation 3D Graphics on the Web (Google I/O ’19)
+Going Big: PWAs Come to Desktop and Chrome OS (Google I/O ’19)
+Taking Chrome Full Screen with Trusted Web Activities (Google I/O ’19)
+Rendering on the Web: Performance Implications of Application Architecture (Google I/O ’19)
+Modern Web Testing and Automation with Puppeteer (Google I/O ’19)
+Build Fast and Smooth Web Apps from Feature Phone to Desktop (Google I/O ’19)
+Unlocking New Capabilities for the Web (Google I/O ’19)
+Linux for Chromebooks: Secure Development (Google I/O ’19)
+Protecting Users from Deception (Google I/O ’19)
+Demystifying Speed Tooling (Google I/O ’19)
+WebAssembly for Web Developers (Google I/O ’19)
+What’s new in JavaScript (Google I/O ’19)
+What’s new in Angular (Google I/O ’19)
+Elevating the Web Platform with the JavaScript Framework Community (Google I/O ’19)
+Building Successful Websites: Case Studies for Mature and Emerging Markets (Google I/O ’19)
+What’s New with Chrome and the Web (Google I/O ’19)
+Chrome Developer Summit is back!
+Caching server-generated content (publishing/news sites) - Progressive Web App Training
+Caching user content (social sites) - Progressive Web App Training
+Caching strategies - Progressive Web App Training
+When and how to update the cache - Progressive Web App Training
+Using Workbox with build systems - Progressive Web App Training
+Using Workbox to manage your caches - Progressive Web App Training
+Gulp Setup - Progressive Web App Training
+Client-side data for Progressive Web Apps: How to use Cloud Firestore - Progressive Web App Training
+Design Systems - The State of the Web
+Install a PWA on the home screen - Progressive Web App Training
+Make a static site work offline (by hand) - Progressive Web App Training
+New in Chrome 74: Private Class Fields, Prefers Reduced Motion, CSS Transition Events, & more!
+Debugging Service Workers in Safari - Progressive Web App Training
+Debugging Service Workers in Chrome - Progressive Web App Training
+Debugging Service Workers in Firefox - Progressive Web App Training
+Using the Fetch API - Progressive Web App Training
+Advanced promises - Progressive Web App Training
+Intro to Promises (incl async/await) - Progressive Web App Training
+Tools for building Progressive Web Apps: Workbox - Progressive Web App Training
+Chrome 74 - What’s New in DevTools
+#AskChrome Live: Implementing Performance Budgets (April 16, 2019)
+Changing web standards - HTTP 203
+Totally Tooling Tips: Ta ta for now
+Why Build Progressive Web Apps: Start fast, stay fast
+Introduction to Service Worker - Progressive Web App Training
+Inspect Network Activity - Chrome DevTools 101
+CSS Standardization - The State of the Web
+Solving Clickjacking - HTTP 203
+But… why HTTP 203?
+Why Build Progressive Web Apps: Track offline, or it didn't happen
+Your development cycle - Progressive Web App Training
+Loop Tiling - HTTP 203
+Desktop Progressive Web Apps: An Introduction
+New in Chrome 73: Desktop PWAs, Signed HTTP Exchanges and Constructable Style Sheets
+When should you use a PWA? - Progressive Web App Training
+Why Build Progressive Web Apps: PWAs for iOS
+Chrome 73 - What’s New in DevTools
+The State of CSS - The State of the Web
+Intro & Setup - Progressive Web App Training
+Share Target - HTTP 203
+Context and Optimizations - HTTP 203
+Service Workers - The State of the Web
+JAM Stack - HTTP 203
+New in Chrome 72: Public Class Fields, User Activation API, Intl.format and more!
+Chrome 72 - What’s New in DevTools
+New Canvas Stuff - HTTP 203
+Background Fetch - HTTP 203
+Accessibility - The State of the Web
+Best web features of 2018: The Final! - HTTP203
+Best web features of 2018: Part 3/4 - HTTP203
+Season 2 Announcement - The State of the Web
+Best web features of 2018: Part 2/4 - HTTP203
+Best web features of 2018: Part 1/4 - HTTP203
+The End of Supercharged
+Visualizing Data at Scale - The State of the Web
+Why Build Progressive Web Apps: If It’s Just a Bookmark, It’s Not a PWA!
+Old vs New JavaScript - HTTP203
+New in Chrome 71: Relative time support with Intl.RelativeTimeFormat and New underline options
+Why Build Progressive Web Apps: Push, but Don’t Be Pushy!
+Chrome 71 - What’s New in DevTools
+Guaranteeing Responsiveness - Top 5 Takeaways from Chrome Dev Summit
+The State of Progressive Web Apps - The State of the Web
+Top 5 Service Worker Essentials for Web Developers
+Why Build Progressive Web Apps: Never Lose a Click-Out!
+Top 3 Speed Essentials for Web Developers
+Page Lifecycle API - HTTP203
+Introducing web.dev
+Pinterest: A modern web performance story
+Baking the Web: Celebrating 10 Years of Chrome, with Mariko, Paul, and Jake
+Chrome Dev Summit 2018 - Behind The Scenes with Paul Lewis
+Predictive Fetching - The State of the Web
+Chrome Dev Summit 2018 - Day 2 Livestream
+Using WebAssembly and Threads (Chrome Dev Summit 2018)
+Chrome OS: Ready for Web Development (Chrome Dev Summit 2018)
+The Virtue of Laziness: Leveraging Incrementality for Faster Web UI (Chrome Dev Summit 2018)
+State of Houdini (Chrome Dev Summit 2018)
+Building Engaging Immersive Experiences (Chrome Dev Summit 2018)
+Architecting Web Apps - Lights, Camera, Action! (Chrome Dev Summit 2018)
+From Low Friction to Zero Friction with Web Packaging and Portals (Chrome Dev Summit 2018)
+A Quest to Guarantee Responsiveness: Scheduling On and Off the Main Thread (Chrome Dev Summit 2018)
+virtual-scroller: Let there be less (DOM) (Chrome Dev Summit 2018)
+Feature Policy & the Well-Lit Path for Web Development (Chrome Dev Summit 2018)
+Day 2 Keynote (Chrome Dev Summit 2018)
+Chrome Dev Summit 2018 - Day 1 Livestream
+Progressive Content Management Systems (Chrome Dev Summit 2018)
+Making Modern Web Content Discoverable for Search (Chrome Dev Summit 2018)
+Modern Websites for E-commerce in the Real World (Chrome Dev Summit 2018)
+Building Modern Web Media Experiences: Picture-in-Picture and AV1 (Chrome Dev Summit 2018)
+Complex JS-heavy Web Apps, Avoiding the Slow (Chrome Dev Summit 2018)
+Building Faster, More Resilient Apps with Service Worker (Chrome Dev Summit 2018)
+Smooth Moves: Rendering at the Speed of Right ® (Chrome Dev Summit 2018)
+Speed Essentials: Key Techniques for Fast Websites (Chrome Dev Summit 2018)
+State of the Union for Speed Tooling (Chrome Dev Summit 2018)
+Get Down to Business: Why the Web Matters (Chrome Dev Summit 2018)
+Day 1 Keynote (Chrome Dev Summit 2018)
+Designing a Progressive Web App with Firebase - Designer vs. Developer #25
+HTTP Headers - The State of the Web
+flatMap - Functional JavaScript - Supercharged
+Using Autocomplete for Optimal Form UX - Designer vs. Developer #24
+Google Pay API Implementation Demo (Web)
+Google Pay API Explained
+The State of JavaScript - The State of the Web
+SVG Transform Box - HTTP203
+New in Chrome 70: Desktop PWAs on Windows, Public Key Credentials, Named Workers and more!
+Reduce - Functional JavaScript - Supercharged
+Prototyping Motion and Material Design - Designer vs. Developer #23
+Chrome 70 - What’s New in DevTools
+The DEV Survey - The State of the Web
+JavaScript proposals - HTTP203
+Some & Every - Functional JavaScript - Supercharged
+Material Design Components for web - Designer vs. Developer #22
+Web Fonts - The State of the Web
+Polyfills - HTTP203
+Sure you want to leave?  - (The Standard, Ep. 14)
+map & filter - Functional JavaScript - Supercharged
+UX Research and Usability Testing - Designer vs. Developer #21
+Broadcast channel - HTTP203
+New in Chrome 10th Anniversary Special!
+How We Designed Chrome - Designer vs. Developer #20
+New in Chrome… bloopers!
+Leveraging Web Transparency - The State of the Web
+New in Chrome 69: CSS Scroll Snapping, Notches, Web Locks and more
+Web Assembly - (The Standard, Ep. 13)
+jQuery & closest - Supercharged
+Online and Offline - (The Standard, Ep. 12)
+Improving Load Performance - Chrome DevTools 101
+WebPageTest - The State of the Web
+CORB - HTTP203
+Audio on the Web - (The Standard, Ep. 11)
+jQuery & fetch - Supercharged
+HTTPS and Web Security - The State of the Web
+JavaScript for-loops are… complicated - HTTP203
+jQuery & classList - Supercharged
+Designing UX for Offline - Designer vs. Developer #19
+dev.to(gether) - The State of the Web
+New in Chrome 68: Add to Home Screen, Page Lifecycle API and Payment Handler
+Lighthouse and Puppeteer - HTTP203
+jQuery & querySelector - Supercharged
+Designing a WebVR Game With A-Frame - Designer vs. Developer #18
+What's new in JavaScript - HTTP203
+Chrome 68 - What's New in DevTools
+First Input Delay - The State of the Web
+Google's Crawler & JavaScript - HTTP203
+Using Gestalt Principles to Improve Your Design - Designer vs. Developer #17
+Web Security - HTTP203
+WordPress and Web Performance Communities - The State of the Web
+What's New in Chrome DevTools - HTTP203
+Prototyping and Scenario-Based Design - Designer vs. Developer #16
+Technical Debt - HTTP203
+The Chrome UX Report - The State of the Web
+Google Chrome Origins - HTTP203
+Getting a Head Start in the Industry - Designer vs. Developer #15
+Web Dev Beginnings with Mariko Kosaka - HTTP203
+Chrome 67 - What's New in DevTools
+Trusted Web Activities
+JavaScript Vulnerabilities - The State of the Web
+New in Chrome 67: Desktop Progressive Web Apps, Generic Sensors & BigInts
+Accessibility with Rob Dodson - HTTP203
+Using Stylable Components & Designing for Standards - Designer vs. Developer #14
+PWA Starter Kit with Monica Dinculescu - HTTP203
+HTTP Archive - The State of the Web
+State of the Web with Ben Galbraith & Dion Almaer - HTTP203
+What's new with sign up and sign in on the web (Google I/O '18)
+Build e-commerce sites for the modern web with AMP, PWA, and more (Google I/O '18)
+The power of Headless Chrome and browser automation (Google I/O '18)
+What's new in Angular (Google I/O '18)
+Beyond single-page apps: alternative architectures for your PWA (Google I/O '18)
+PWA starter kit: build fast, scalable, modern apps with Web Components (Google I/O '18)
+Use Lighthouse and Chrome UX Report to optimize web app performance (Google I/O '18)
+Build the future of the web with WebAssembly and more (Google I/O '18)
+Web Components and the Polymer Project: Polymer 3.0 and beyond (Google I/O '18)
+Build the future of the web with modern JavaScript (Google I/O ’18)
+The future of the web is immersive (Google I/O '18)
+What's new in web accessibility (Google I/O '18)
+Make your WordPress site progressive (Google I/O '18)
+Web performance made easy (Google I/O '18)
+Build awesome media experiences on the web (Google I/O '18)
+What's new in Chrome DevTools (Google I/O '18)
+PWAs: building bridges to mobile, desktop, and native (Google I/O '18)
+Introducing .app domain names and how to secure them (Google I/O '18)
+Building a seamless web (Google I/O '18)
+Lessons from Spectre and Meltdown, and how the whole web is getting safer (Google I/O '18)
+The web: state of the union (Google I/O '18)
+Web Workers - Supercharged
+Designing Tools for CSS Grid and Variable fonts - Designer vs. Developer #13
+#SmooshGate - HTTP203
+ServiceWorker for WordPress: Commit Log - Supercharged
+Intro to the State of the Web
+Designer vs. Developer - Season 3 is Coming!
+Work Life Balance - HTTP203
+Will-Change - Supercharged
+New in Chrome 66: CSS Types Model Object, Async Clipboard & new Canvas contexts
+Chrome 66 - What's New in DevTools
+Message Bus for WordPress: Commit Log - Supercharged
+Class-based Tree Shaking - HTTP203
+DevTools Await - Supercharged
+SPA Routing for WordPress: Commit Log - Supercharged
+Resize Observer - HTTP203
+One-off Event Listeners - Supercharged
+JavaScript Symbols - HTTP203
+Caching Headers for WordPress: Commit Log - Supercharged
+Webpack and Workers - HTTP203
+cURL - Supercharged
+New in Chrome 65: CSS Paint API, Server Timing API, and CSS display: contents
+Chrome 65 - What's New in DevTools
+Wrap Up - PWA Roadshow
+Critical CSS loading for WordPress: Commit Log - Supercharged
+Starting Fast and Staying Fast with AMP and Progressive Web Apps - PWA Roadshow
+Tooling for Progressive Web Apps - PWA Roadshow
+120fps - HTTP203
+Secure Experiences - PWA Roadshow
+Engaging Experiences - PWA Roadshow
+Reliable Experiences - PWA Roadshow
+Server-Side rendering with Firebase: Live Code Session - Supercharged
+Integrated Experiences - PWA Roadshow
+Progressive Web Apps - PWA Roadshow
+Building an Element in Polymer 2: Making it Work! (Part 5 of 5)
+Building an Element in Polymer 2: Making it Look Good! (Part 4 of 5)
+Building an Element in Polymer 2: Basic Polymer Conversion (Part 3 of 5)
+Building an Element in Polymer 2: Understanding Polymer Project Structure (Part 2 of 5)
+Building an Element in Polymer 2: Install Tools & Initialize Project (Part 1 of 5)
+Object Spread - Supercharged
+EventTarget - HTTP203
+Templating for WordPress: Commit Log - Supercharged
+Hoisting - Supercharged
+Import() - HTTP203
+Docker for WordPress: Commit Log - Supercharged
+New in Chrome 64: ResizeObservers, Named Captures, import.meta and more!
+Introducing Progressive WordPress: Commit Log - Supercharged
+Chrome 64 - What's New in DevTools
+A11ycasts Winter Break
+Debugging JavaScript - Chrome DevTools 101
+Santa Tracker Developer Diary #8: Tracker
+Santa Tracker Developer Diary #7: SVGs
+Santa Tracker Developer Diary #6: Responsive Village
+WebWorkers - HTTP203 Advent
+2017 Year in Review - Totally Tooling Tips Holiday Special
+Transform Streams - HTTP203 Advent
+Dynamic Import() - HTTP203 Advent
+Assistive Tech: Switch Device
+FetchObserver - HTTP203 Advent
+Async Iterators & Generators - HTTP203 Advent
+Santa Tracker Developer Diary #5: Saving Bandwidth With Video
+Santa Tracker Developer Diary #4: Polymer
+FlatMap & Flatten - HTTP203 Advent
+Template Instantiation - HTTP203 Advent
+Weightless CSS - HTTP203 Advent
+Web Architecture - HTTP203 Advent
+Story of 2017 - Supercharged
+Animation Worklet - HTTP203 Advent
+Web Locks API - HTTP203 Advent
+Background Fetch - HTTP203 Advent
+Santa Tracker Developer Diary #3: Build & Scenes
+Santa Tracker Developer Diary #2: Performance & Layers
+Santa Tracker Developer Diary #1
+New in Chrome 63: Dynamic Module Imports, Async Iterators and Generators, and CSS Over-Scroll!
+WeakMaps - HTTP203
+Variable Fonts - Supercharged
+Chrome 63 - What's New in DevTools
+Assistive Tech: VoiceOver on iOS
+For Loops - Supercharged
+Assistive Tech: TalkBack
+Web RTC - HTTP203
+Image Filters using WebGL - Developer Diary #Day4
+Server-side Rendering - Totally Tooling Tips
+CSS Selectors - Supercharged
+The Web Developer Community (Chrome Dev Summit 2017)
+DevTool Layers Panel - Supercharged
+VDOM vs lit-html - HTTP203
+Using the Camera - Developer Diary #Day3
+Accessibility Testing - Totally Tooling Tips
+WebWorkers: Code Session - Supercharged
+Chrome Dev Summit 2017 Highlights
+Visual Viewport - HTTP203
+Font Loading API - Supercharged
+Cross-Browser Support - Developer Diary #Day2
+The Future of Immersive Experiences on the Web with VR and AR (Chrome Dev Summit 2017)
+Creating Media Without an App (Chrome Dev Summit 2017)
+Frameworks Panel (Chrome Dev Summit 2017)
+lit-HTML (Chrome Dev Summit 2017)
+End-to-End Polymer Apps with the Modern Web Platform (Chrome Dev Summit 2017)
+Real World WebAssembly (Chrome Dev Summit 2017)
+V8 Today and in the Future (Chrome Dev Summit 2017)
+The Future of Loading on the Web (Chrome Dev Summit 2017)
+Modern Tooling, Testing, and Automation (Chrome Dev Summit 2017)
+The Web for the Entire World (Chrome Dev Summit 2017)
+Building a Modern Media Experience (Chrome Dev Summit 2017)
+Progressively Improving E-Commerce (Chrome Dev Summit 2017)
+WordPress + PWAs = 💖 (Chrome Dev Summit 2017)
+Leadership Panel (Chrome Dev Summit 2017)
+Workbox: Flexible PWA Libraries (Chrome Dev Summit 2017)
+Fast By Default: Modern Loading Best Practices (Chrome Dev Summit 2017)
+Kickstarting Your Journey to Progressive Web Apps (Chrome Dev Summit 2017)
+Progressive Web Apps: Integrating with Browsers and Operating Systems (Chrome Dev Summit 2017)
+The New Bar for Web Experiences (Chrome Dev Summit 2017)
+Keynote (Chrome Dev Summit 2017)
+Caching Strategies - Supercharged
+Chrome 62: Improved Network Information API, Support for OpenType Variable Fonts and more!
+Testing Shadow DOM with aXe Coconut - A11ycasts #26
+Chrome 62 - What's New in DevTools
+CSS Grid - Supercharged
+How the Web Competes with Native -- Designer vs. Developer #12
+Imposter Syndrome - HTTP203
+Uploading an Image - Developer Diary #Day1
+Managing Your Bundle Size - Totally Tooling Tips
+Aspect Ratio Hack - Supercharged
+How to build a toggle button - A11ycasts #25
+WebGL Image Processing: Live Code Session - Supercharged
+Designing for the Next Billion Users -- Designer vs. Developer #11
+Web Standards & Flash - HTTP203
+Creating a Camera App - Developer Diary #Day0
+Dockerize your App - Supercharged
+ES6 Modules - Supercharged
+Learn How to Design -- Designer vs. Developer #10
+Lighthouse - Totally Tooling Tips
+Font-Display - Supercharged
+Chrome 61: JavaScript Modules, WebUSB, WebShare and more
+How to Label Custom Elements - A11ycasts #24
+Async-Await - Supercharged
+Beating Your Imposter Syndrome -- Designer vs. Developer #8
+Chrome 61 - What's New in DevTools
+GitHub Workflow Pro-Tips - Totally Tooling Tips
+Chrome Developers Channel Trailer
+Polymer Summit 2017 Highlights
+Polymer Team Panel (Polymer Summit 2017)
+Supercharged Live Live Live! (Polymer Summit 2017)
+ES6 Modules in the Real World (Polymer Summit 2017)
+Web Components for VR (Polymer Summit 2017)
+UI's Across Multiple Devices (Polymer Summit 2017)
+SSR Web Components (Polymer Summit 2017)
+Polymer Developer Summit 2017 - Live Stream Day 2
+Solving SEO with Headless Chrome (Polymer Summit 2017)
+Straight Talk About Server-Side Rendering (Polymer Summit 2017)
+Using Web Components in Ionic (Polymer Summit 2017)
+What is/Who Makes "The Platform" (Polymer Summit 2017)
+Web Components: Just in the Nick of Time (Polymer Summit 2017)
+Efficient, Expressive, and Extensible HTML Templates (Polymer Summit 2017)
+Day Two Opening Remarks (Polymer Summit 2017)
+What You See is What You Deserve: Simple Visual Tools For All! (Polymer Summit 2017)
+Polymer + Webpack: Bringing Web Components to a Framework Near You (Polymer Summit 2017)
+Custom Elements Everywhere (Polymer Summit 2017)
+Polymer Developer Summit 2017 - Live Stream Day 1
+Designing a Design System for Modular Modules, and Building a Team to Build it (Polymer Summit 2017)
+Web Components for CMS (Polymer Summit 2017)
+Rebooting the Cloud Platform UX @ Netflix with Polymer (Polymer Summit 2017)
+Polymer @ YouTube (Polymer Summit 2017)
+End to End Apps with Polymer (Polymer Summit 2017)
+Evolving the Next Generation of Polymer Elements (Polymer Summit 2017)
+Building UI at Enterprise Scale with Web Components (Polymer Summit 2017)
+What's Next for Polymer (Polymer Summit 2017)
+Opening Remarks (Polymer Summit 2017)
+ING - Why use Polymer?
+The new way to test accessibility with Chrome DevTools - A11ycasts #23
+CSS Custom Properties - Supercharged
+Webpack Tips - Totally Tooling Tips
+ServiceWorker Versioning - Supercharged
+Designing for Great Performance -- Designer vs. Developer #9
+Managing Focus - A11ycasts #22
+IntersectionObserver - Supercharged
+Web Developer Portrait - Jecelyn Yeen
+Chrome 60: Paint Timing API, Control Font Loading with Font-Display and WebAssembly
+Caching Headers - Supercharged
+Becoming a Creative Coder -- Designer vs. Developer #7
+Does reordering content affect accessibility? - A11ycasts #21
+Streaming Service Workers: Live Code Session - Supercharged
+Season 2 is Coming -- Designer vs. Developer #S2
+Chrome 60 - What's New in DevTools
+Performance Markers - Supercharged
+Gyroscope (The Standard, Ep. 10)
+Drag and Drop (The Standard, Ep. 9)
+How to Label Shadow DOM - A11ycasts #20
+Push Messages - Supercharged
+Offline Links - Supercharged
+Building a Media Player #14: Season Roundup
+Code Splitting: Live Code Session - Supercharged
+Accessible Modal Dialogs -- A11ycasts #19
+Building a Media Player #13: Background Fetch
+Chrome 59: Headless Chrome, Native Notifications on macOS and the Image Capture API
+Chrome 59 - What's New in DevTools
+Supercharged: What Would You Like To See?
+Building New Tools for Designers and Developers -- Designer vs. Developer #6
+Why headings and landmarks are so important -- A11ycasts #18
+Using Web Components with Angular (Google I/O '17)
+Google I/O'17: Channel 6
+Cranking Up Performance in Graphics Intensive Web Apps and Games (Google I/O '17)
+DevTools: State of the Union 2017 (Google I/O '17)
+Staying off the Rocks: Using Lighthouse to Build Seaworthy Progressive Web Apps (Google I/O '17)
+Production Progressive Web Apps With JavaScript Frameworks (Google I/O '17)
+Secure and Seamless Sign-In: Keeping Users Engaged (Google I/O '17)
+The Future of Audio and Video on the Web (Google I/O '17)
+Building for Your Next Billion Users (Google I/O '17)
+Getting the Green Lock: HTTPS Stories from the Field (Google I/O '17)
+WomenTechmakers.com—A Progressive Web App Migration (Google I/O '17)
+Google I/O'17: Channel 6
+V8, Advanced JavaScript, & the Next Performance Frontier (Google I/O '17)
+Developer Tooling for Web Components (Google I/O '17)
+Building Virtual Reality on the Web with WebVR (Google I/O '17)
+Web Performance: Leveraging the Metrics that Most Affect User Experience (Google I/O '17)
+Learn Web Security with Google (Google I/O '17)
+Supercharged Live (Google I/O '17)
+Great Progressive Web App Experiences with Angular (Google I/O '17)
+The Future of Web Payments (Google I/O '17)
+Polymer: Billions Served; Lessons Learned (Google I/O '17)
+The Mobile Web: State of the Union (Google I/O '17)
+Compiling for the Web with WebAssembly (Google I/O '17)
+Google I/O'17: Channel 6
+Progressive Web Apps: Great Experiences Everywhere (Google I/O '17)
+Stand Out on Google Search Using Structured Data and Search Analytics (Google I/O '17)
+Future, Faster: Unlock the Power of Web Components with Polymer (Google I/O '17)
+Wego
+Forbes - Redefining Modern Web Development
+Web Developer Portraits Trailer
+Progressive Web App Roadshow: Mexico City
+The Design Responsibility of Developers -- Designer vs. Developer #5
+Saving Bandwidth with Images (The Standard, Ep. 8)
+How to check for accessible colors -- A11ycasts #17
+Handle Back and Forwards (The Standard, Ep. 7)
+Discoverability &  Analytics
+Payment Integration
+Intro to Web Push & Notifications
+Gulp Setup
+Offline Quickstart
+Intro to PWA Architectures
+Working with Responsive Images
+New Techniques for Responsive Design
+SW Precache and SW Toolbox
+Working with Live Data in the Service Worker
+Working with Indexed DB
+Working with Promises
+Auditing an Existing Site with Lighthouse
+Caching Files with the Service Worker
+Working with the Fetch API
+Introduction to Service Workers
+Core Technologies
+Why Build Progressive Web Apps?
+Design For All Your Users
+Your Audience, Your Content
+Intro and Setup
+How Design Skills Improve Developers -- Designer vs. Developer #4
+Chrome 58: IndexedDB 2.0, display: fullscreen and New Options for Sandboxed iFrames
+Adopting the Native Language of the Web -- Designer vs. Developer #3
+How to Build a simplehttp2server - Developer Diary
+Building a Media Player #12
+Balancing Creativity with User Testing -- Designer vs. Developer #2
+Focus Ring! -- A11ycasts #16
+Building a Media Player #11: Creating Range Responses
+Automated testing with aXe -- A11ycasts #15
+Building a Media Player #10: Streams and Tracking Downloads
+Creating a Collaborative Environment -- Designer vs. Developer #1
+Building a Media Player #9: Lazy-Loading Images
+Chrome 57: Grid based layouts, Media Session API and more
+Form Validation (The Standard, Ep. 5)
+Theming (The Standard, Ep. 6)
+Building a Media Player #8: Styles and Critical Render Path
+Building a Media Player #7: Media Session API
+States and Properties in ARIA -- A11ycasts #14
+Building a Media Player #6: Building a Custom Video Player and Controls
+Building a Media Player #5: The Server-side Node.js Code
+Asynchronous Actions with Redux -- Polycasts #62
+Building a Media Player #4: DASH Manifests and an Offline Prototype
+Intro to ARIA -- A11ycasts #13
+Building a Media Player #3: Median Cut and Color Extraction
+Building a Media Player #2: MSE, HLS, and DASH
+Building a Media Player #1: Intro
+WebRTC Use Cases (Kranky Geek WebRTC Brazil 2016)
+WebRTC Update (Kranky Geek WebRTC Brazil 2016)
+Debugging Tools and Techniques for WebRTC (Kranky Geek WebRTC Brazil 2016)
+Servers for WebRTC: It is not all Peer to Peer (Kranky Geek WebRTC Brazil 2016)
+Making Sure Every Call Works (Kranky Geek WebRTC Brazil 2016)
+Introduction to WebRTC Statistics and getStats() API (Kranky Geek WebRTC Brazil 2016)
+WebRTC A Quick Introduction (Kranky Geek WebRTC Brazil 2016)
+How to Build an End-to-End WebRTC Service (Kranky Geek WebRTC Brazil 2016)
+The art of labeling -- A11ycasts #12
+Chrome 56: Web Bluetooth, CSS Position Sticky, and HTML5 By Default
+How to use Redux in Polymer -- Polycasts #61
+Building a Media Player #Day0 - Developer Diary
+How I do an accessibility check -- A11ycasts #11
+Building Firebase for production -- Polycasts #60
+Alerts! -- A11ycasts #10
+Code-splitting your way to better perf with Webpack in Totally Tooling Tips (S3, E15)
+Firebase Messaging -- Polycasts #59
+Selenium, Totally Tooling Tips (S3, E14)
+Align Content Vertically (The Standard, Ep. 4)
+Screen Reader Basics: NVDA -- A11ycasts #09
+Firebase Realtime Database -- Polycasts #58
+Chrome 55: Async and Await, Pointer Events, Persistent Storage and more
+VR  Polymer Summit 2016 Recap
+Icon Fonts (The Standard, Ep. 3)
+Source Map Explorer, Totally Tooling Tips (S3, E13)
+Fit to Page (The Standard, Ep. 2)
+Building a secure IoT device with WebRTC (Kranky Geek WebRTC 2016)
+WebRTC: News, Stats, and Audio Processing Internals (Kranky Geek WebRTC 2016)
+Improving mobile WebRTC video using SVC (Kranky Geek WebRTC 2016)
+Android Development with WebRTC (Kranky Geek WebRTC 2016)
+Mobile troubleshooting & reverse engineering (Kranky Geek WebRTC 2016)
+Write-once, run WebRTC anywhere with React Native (Kranky Geek WebRTC 2016)
+Adopting WebRTC's C++ for cross platform development (Kranky Geek WebRTC 2016)
+Video communications on iOS (Kranky Geek WebRTC 2016)
+iOS Development with WebRTC (Kranky Geek WebRTC 2016)
+Welcome! (Kranky Geek WebRTC 2016)
+WebRTC on Mobile: What are your choices? (Kranky Geek WebRTC 2016)
+Authentication with Firebase -- Polycasts #57
+Love For Web (Chrome Dev Summit 2016)
+Layers for Composition (The Standard, Ep. 1)
+Chrome Dev Summit 2016 Highlights
+What Comes Next for the Web? (Chrome Dev Summit 2016)
+Chrome Developer Summit 2016 - Live Stream Day 2
+Browser Vendor panel (Chrome Dev Summit 2016)
+Summit Report: Alex Russell (Chrome Dev Summit 2016)
+Summit Report: Seth Thompson (Chrome Dev Summit 2016)
+Summit Report: Dru Knox (Chrome Dev Summit 2016)
+Summit Report: Malcolm Ong (Chrome Dev Summit 2016)
+Summit Report: Jeff Posnick (Chrome Dev Summit 2016)
+Future App Model: Advanced Service Worker (Chrome Dev Summit 2016)
+The “Progressive” in Progressive Web Apps (Chrome Dev Summit 2016)
+Summit Report: Paul Kinlan (Chrome Dev Summit 2016)
+Advanced JS performance with V8 and Web Assembly (Chrome Dev Summit 2016)
+The State of Storage (Chrome Dev Summit 2016)
+Summit Report: Patrick Kettner (Chrome Dev Summit 2016)
+May We Help You? Tools and Libraries for Progressive Web Apps (Chrome Dev Summit 2016)
+Production PWAs with frameworks (Chrome Dev Summit 2016)
+Summit Report: Jake Archibald (Chrome Dev Summit 2016)
+Planning for Performance: PRPL (Chrome Dev Summit 2016)
+Summit Report: Paul Bakaus (Chrome Dev Summit 2016)
+From AMP to PWA - the best of both worlds (Chrome Dev Summit 2016)
+Summit Report: Monica Dinculescu and Taylor Savage (Chrome Dev Summit 2016)
+How We Built It (Chrome Dev Summit 2016)
+Summit Report: Rick Byers & Robert Nyman (Chrome Dev Summit 2016)
+Summit Report: Sam Saccone (Chrome Dev Summit 2016)
+Chrome Developer Summit 2016 - Live Stream Day 1
+Chrome Leadership Panel (Chrome Dev Summit 2016)
+Summit Report: Emily Stark (Chrome Dev Summit 2016)
+Predictability for the Web (Chrome Dev Summit 2016)
+Summit Report: Thao Tran (Chrome Dev Summit 2016)
+Supercharged: Live Coding Session (Chrome Dev Summit 2016)
+Summit Report: Zach Koch (Chrome Dev Summit 2016)
+Summit Report: Paul Irish (Chrome Dev Summit 2016)
+Real Talk about HTTPS (Chrome Dev Summit 2016)
+Progressive Performance (Chrome Dev Summit 2016)
+Web Components and Polymer (Chrome Dev Summit 2016)
+Summit Report: Surma and Paul Lewis (Chrome Dev Summit 2016)
+Debugging The Web (Chrome Dev Summit 2016)
+Summit Report: Sabine Borsay & Eiji Kitamura (Chrome Dev Summit 2016)
+Web Payments (Chrome Dev Summit 2016)
+Sign-in on the Web - Credential Management and Best Practices (Chrome Dev Summit 2016)
+Building Progressive Web Apps Today (Chrome Dev Summit 2016)
+Keynote (Chrome Dev Summit 2016)
+Chrome Dev Summit Kick-off with Jake and Paul (Chrome Dev Summit 2016)
+Summit Report: Darin Fisher (Chrome Dev Summit 2016)
+Summit Report: Peter Lubbers (Chrome Dev Summit 2016)
+Building a Website #Day14
+Why do semantics matter? -- #A11ycasts 08
+Building a Website #Day13
+Polymer Summit 2016 Highlights
+Supercharged Q&A: October 2016
+Moar Forms! -- Polycasts #56
+Chrome Developer Summit 2016
+Building a Website #Day12
+Chrome Developers Channel Trailer
+Discussion Panel (Polymer Summit 2016)
+Summit Report: The Polymer CLI with Frederick Schott (Polymer Summit 2016)
+Adapting to the Mobile Web F̶u̶t̶u̶r̶e̶ Present (Polymer Summit 2016)
+Flip Switch: Live Code Session - Supercharged (Polymer Summit 2016)
+Polymer Developer Summit 2016 - Live Stream Day 2
+Chrome 54: Custom Elements v1, Broadcast Channel API, Foreign Fetch and more
+Winning the Gold with Web Components - Gannett (Polymer Summit 2016)
+Sign-in and Payments without Forms (Polymer Summit 2016)
+Summit Report: PolymerFire with world's laziest developer Monica Dinculescu (Polymer Summit 2016)
+Summit Report: Talking Polymer Tools with Justin Fagnani (Polymer Summit 2016)
+Summit Report: Polymer Codelabs update with Clare Bayley (Polymer Summit 2016)
+From Components to Applications - Net-a-Porter (Polymer Summit 2016)
+Summit Report: Dion Almaer (Polymer Summit 2016)
+Why the web makes sense for business apps - Vaadin (Polymer Summit 2016)
+Polymer in Practice @ Comcast (Polymer Summit 2016)
+What's New in Polymer Tools (Polymer Summit 2016)
+Opening Remarks (Polymer Summit 2016)
+Summit Report: Polymer Data Flow with Gray Norton (Polymer Summit 2016)
+How I learned to stop worrying and love the Polymer toolbox (Polymer Summit 2016)
+Monster Apps: Meatscope + Polymon (Polymer Summit 2016)
+Summit Report: Linting best practices with Daniel Freedman (Polymer Summit 2016)
+Hacking Without Being a Hack (Polymer Summit 2016)
+Interacting with the Physical Web (Polymer Summit 2016)
+Practical Performance (Polymer Summit 2016)
+Summit Report: Building Chromestatus and Santa Tracker '16 with Eric Bidelman (Polymer Summit 2016)
+Summit Report: Firebase Cloud Messaging + Polymer with Michael Bleigh (Polymer Summit 2016)
+Production-Ready Polymer Elements - A How-To-Guide (Polymer Summit 2016)
+Polymer & the Closure Compiler (Polymer Summit 2016)
+Do Less & Be Lazy: Practical Performance Patterns for Polymer (Polymer Summit 2016)
+Making Chromestatus.com a Lightning-Fast PWA (Polymer Summit 2016)
+Summit Report: What's new at #PolymerSummit with Taylor Savage (Polymer Summit 2016)
+Summit Report: Building the selfie-GIF web app Meatscope in Polymer (Polymer Summit 2016)
+Data Flow in Polymer Elements and Apps (Polymer Summit 2016)
+Polymer Butter and Firebase Jelly (Polymer Summit 2016)
+Polymer 2.0 in 2.0 seconds: Upgrading Projects Large and Small (Polymer Summit 2016)
+Polymer 2.0: Under the Hood (Polymer Summit 2016)
+Summit Report: Wendy Ginsberg (Polymer Summit 2016)
+A Polymer Experience (Polymer Summit 2016)
+The Way of the Web - ING (Polymer Summit 2016)
+Summit Report: Peter Lubbers (Polymer Summit 2016)
+Opening Keynote (Polymer Summit 2016)
+Web Developer Story: YOOX NET-A-PORTER GROUP using Polymer & Web Components at scale
+Screen Reader Basics: VoiceOver -- A11ycasts #07
+Lighthouse, Totally Tooling Tips (S3 Mini Tip)
+Building a Website #Day11
+Building a Website #Day10
+Shadows - Supercharged
+Forms! -- Polycasts #55
+Building a Website #Day9
+Roving tabindex -- A11ycasts #06
+Building a Website #Day8
+Building a Website #Day7
+Payment Request API demo
+Building a Website #Day6.2
+Building a Website #Day6.1
+Building a Website #Day5.2
+Building a Website #Day5 .1
+Building a Website #Day4
+Building a Website #Day2
+Building a Website #Day3
+What's up with Polymer 2? #AskPolymer -- Polycasts #54
+Server-Side Rendering: TL;DW - Supercharged
+Building a Website #Day1
+Building a Website #Day0
+Just use button -- A11ycasts #05
+Server-Side Rendering: Live Code Session - Supercharged
+Server-Side Rendering: Live Code Session - Thursday 15th September
+How to build a CLI generator -- Polycasts #53
+Controlling focus with tabindex -- A11ycasts #04
+3D Card Flip: TL;DW - Supercharged
+Chrome 53: Shadow DOM v1, Payment Request API and more
+3D Card Flip: Live Code Session - Supercharged
+Polymer Starter Kit 2! -- Polycasts #52
+3D Card Flip: Live Code Session - Thursday 25th August
+What is Focus? -- A11ycasts #03
+JS Module Bundlers, Totally Tooling Tips (S3, E12)
+Containment - Supercharged
+Testing: Mocha, Totally Tooling Tips (S3, E11)
+Supercharged Q&A: August 2016
+Accessible Components: Labeling -- Polycasts #51
+Inert Polyfill -- A11ycasts #02
+Travis & AppVeyor, Totally Tooling Tips (S3, E10)
+Resource Hints - Supercharged
+Introducing A11ycasts! -- A11ycasts #01
+Accordion: TL;DW - Supercharged
+Accessible Components: Screen readers -- Polycasts #50
+Key Moments In Web Page Loading, Totally Tooling Tips (S3, E9)
+Chrome 52: Contain Property, the PerformanceObserver API & Service Worker Stream
+Accessibility, Totally Tooling Tips (S3, E8)
+Accordion: Live Code Session - Supercharged
+Supercharged Q&A: July 2016
+PWA Developer Spotlight: Building one of Africa's most successful PWAs
+Accessible Components: Keyboard access -- Polycasts #49
+Sizzle Reel (Progressive Web App Summit 2016)
+Router Part 2: TL;DW - Supercharged
+Router Part 2: Live Code Session - Supercharged
+More DevTools Tips, Totally Tooling Tips (S3, E7)
+Router Part 2: Live Code Session - Coming June 30th
+Service Worker Libraries, Totally Tooling Tips (S3, E6)
+Summit Report: That's a wrap! (Progressive Web App Summit 2016)
+Summit Report: What's a codelab? (Progressive Web App Summit 2016)
+PWAs: The Panel (Progressive Web App Summit 2016)
+Microsoft: Keeping the Progressive in PWAs (Progressive Web App Summit 2016)
+Progressive Web App Summit 2016 - Day 2
+PWAs: Opera's Perspective (Progressive Web App Summit 2016)
+Summit Report: Educating bleeding edge PWA developers (Progressive Web App Summit 2016)
+Summit Report: Building one of Africa's most successful PWAs (Progressive Web App Summit 2016)
+Progressive Web Apps in Firefox (Progressive Web App Summit 2016)
+PWA in Small Steps (Progressive Web App Summit 2016)
+Samsung Internet's Progressive Web App Commitment (Progressive Web App Summit 2016)
+Konga: Learnings from Building with Polymer (Progressive Web App Summit 2016)
+Tools for Success (Progressive Web App Summit 2016)
+The Future of Progressive Web Apps (Progressive Web App Summit 2016)
+Summit Report: Reach, acquisition and conversion (Progressive Web Apps Summit 2016)
+Building for Billions (Progressive Web App Summit 2016)
+Progressive Web App Summit 2016 - Day 1
+Summit Report: Building for billions with Progressive Web Apps (Progressive Web App Summit 2016)
+To the Lighthouse (Progressive Web App Summit 2016)
+Using Web Components to Build PWAs (Progressive Web App Summit 2016)
+Summit Report: Making Progressive Web Apps accessible, at scale! (Progressive Web App Summit 2016)
+Summit Report: Progressive Web Apps for any occassion! (Progressive Web App Summit 2016)
+Summit Report: What do I need to know about HTTP2? (Progressive Web App Summit 2016)
+Putting the Progressive in Progressive Web Apps (Progressive Web App Summit 2016)
+Summit Report: Why's it called a Progressive Web App? (Progressive Web App Summit 2016)
+PWAs in any context (Progressive Web App Summit 2016)
+UI Elements at 60fps (Progressive Web App Summit 2016)
+Deep Engagment with Push Notifications (Progressive Web App Summit 2016)
+Summit Report: Talking HTTPS with Emily Schechter (Progressive Web App Summit 2016)
+Instant loading with HTTP/2 (Progressive Web App Summit 2016)
+Summit Report: Checking in with Paul Lewis and Jake Archibald (Progressive Web Apps Summit 2016)
+Mythbusting HTTPS (Progressive Web App Summit 2016)
+Instant-loading Offline-first (Progressive Web App Summit 2016)
+Summit Report: The Web Developers swarm! (Progressive Web Apps Summit 2016)
+Opening Keynote (Progressive Web App Summit 2016)
+PWA Dev Summit 2016 - Day 1 Live Stream!
+FLIP - Supercharged
+Polymer CLI: Getting Started -- Polycasts #48
+HTTP/2, Totally Tooling Tips (S3 Mini Tip)
+PWA Developer Summit 2016 - Live Stream Registration!
+Router Part 1: TL;DW - Supercharged
+PWA Developer Summit 2016 is coming!
+Progressive Web App DevTools , Totally Tooling Tips (S3 Mini Tip)
+Router: Live code Session - Supercharged
+Lazy loading data with app-route -- Polycasts #47
+DevTools Device Mode: Totally Tooling Tips (S3, E5)
+Supercharged Q&A: May 2016
+Chrome 51: Intersection Observers, Passive Event Listeners and the Credential Management API
+Web App Manifest: Totally Tooling Tips (S3, E4)
+V8, modern JavaScript, and beyond - Google I/O 2016
+AMP + Progressive Web Apps: Start fast, stay engaged - Google I/O 2016
+Houdini: Demystifying the Future of CSS - Google I/O 2016
+How AMP achieves its speed - Google I/O 2016
+Service workers at scale with Facebook and Flipkart - Google I/O 2016
+The 2016 Web Development Workflow - Google I/O 2016
+Progressive Web Apps across all frameworks - Google I/O 2016
+Deep user engagement with web push notifications - Google I/O 2016
+Bringing seamless checkouts to the mobile web - Google I/O 2016
+Practical lessons from a year of building web components - Google I/O 2016
+Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016
+Fireside Chat with the Progressive Web Apps Crew - Google I/O 2016
+Progressive, Performant, Polymer: Pick Three - Google I/O 2016
+Polymer and Progressive Web Apps: Building on the modern web - Google I/O 2016
+Who are you, really: Safer and more convenient sign-in on the web - Google I/O 2016
+DevTools in 2016: Accelerate your workflow - Google I/O 2016
+What's next for the web? - Google I/O 2016
+Search and the mobile content ecosystem - Google I/O 2016
+The Mobile Web: State of the Union - Google I/O 2016
+Fast and resilient web apps: Tools and techniques - Google I/O 2016
+Building for billions on the web - Google I/O 2016
+Accessibility is My Favorite Part of the Platform - Google I/O 2016
+Great libraries and tools for great Progressive Web Apps - Google I/O 2016
+Mythbusting HTTPS: Squashing security’s urban legends - Google I/O 2016
+Building the Google I/O Web App: Launching a Progressive Web App on Google.com  - Google I/O 2016
+Web Performance Tooling  - Google I/O 2016
+High performance web user interfaces  - Google I/O 2016
+HTTP203 Recap
+Side Navigation Bar: TL;DW - Supercharged
+Push Notifications: Totally Tooling Tips (S3, E3)
+Easy Easing - Supercharged
+Instant Loading with the App Shell Model, Totally Tooling Tips (S3, E2)
+Credential Management API Demo
+Side Navigation Bar: Live Code Session - Supercharged
+Offline Support, Totally Tooling Tips (S3, Ep1)
+Swipeable Cards: TL;DW - Supercharged
+Season 3 Trailer, Totally Tooling Tips
+Routing with carbon-route -- Polycasts #46
+Chrome 50: Payload in Push, Preload Assets & Canvas supports toBlob()
+Swipeable Cards: Live Code Session - Supercharged
+Web Page Test, Totally Tooling Tips (S3 Mini Tip #3)
+Polygit. The Polymer CDN! -- Polycasts #45
+Service Worker Toolbox, Totally Tooling Tips (S3 Mini Tip #2)
+Google Sign-In for Websites: Authorization
+What about 3rd party JavaScript? #AskPolymer -- Polycasts #44
+Google Sign-In for Websites: Authentication with backends
+Intro to Gulp 4, Totally Tooling Tips (S3 Mini Tip #1)
+Introduction to Google Sign-In for Websites
+Lazy Loading Elements -- Polycasts #43
+Chrome 49: Custom CSS properties, background sync and save-data client hint
+Yo! Where's my data table?! #BuiltWithPolymer -- Polycasts #42
+Colors – DevTools Tonight #0 (Pilot)
+Intro to AMP (Accelerated Mobile Pages)
+How do I use Sass with Polymer? #AskPolymer -- Polycasts #41
+#Love4theWeb
+Crisper: Protecting your Polymer app with CSP -- Polycasts #40
+Chrome 48: Custom buttons in notifications, DevTools Security panel, and Presentation mode
+Highlights from Chrome Dev Summit 2015
+Optimize for production with Vulcanize -- Polycasts #39
+Browser testing with Travis & Sauce Labs -- Polycasts #38
+Slack: Extended Xmas Special - Supercharged
+Chrome Developers Xmas Special
+Testing AJAX with Web Component Tester -- Polycasts #37
+Security, Totally Tooling Tips (S2, Ep7)
+Cross Device Testing, Totally Tooling Tips (S2 Ep6)
+Unit Testing with Web Component Tester -- Polycasts #36
+Call For Submissions - Supercharged
+Chrome 47: Splash Screens, requestIdleCallback and better desktop notifications (New in Chrome)
+HTTP2 - HTTP203
+Binding to Arrays -- Polycasts #35
+Accessibility (Chrome Dev Summit 2015)
+Build Processes, Totally Tooling Tips (S2, Ep 5)
+Leadership Panel (Chrome Dev Summit 2015)
+Building and deploying a Progressive Web App at scale with Flipkart (Chrome Dev Summit 2015)
+HTTP/2 101 (Chrome Dev Summit 2015)
+Owning your performance: RAIL (Chrome Dev Summit 2015)
+Quantify and improve real-world RAIL (Chrome Dev Summit 2015)
+V8 Performance from the Driver's Seat (Chrome Dev Summit 2015)
+#ChromeDevSummit talks are up - W00T! -- Polycast #34
+RAIL in the real world (Chrome Dev Summit 2015)
+DevTools in 2015: Authoring to the max (Chrome Dev Summit 2015)
+Introduction to RAIL (Chrome Dev Summit 2015)
+Building Progressive Web Apps with Polymer (Chrome Dev Summit 2015)
+Polymer - State of the Union (Chrome Dev Summit 2015)
+Asking for Permission: respectful, opinionated UI (Chrome Dev Summit 2015)
+Engaging with the Real World: Web Bluetooth and Physical Web (Chrome Dev Summit 2015)
+Increase Engagement with Web Push Notifications (Chrome Dev Summit 2015)
+Instant Loading with Service Workers (Chrome Dev Summit 2015)
+Progressive Web Apps (Chrome Dev Summit 2015)
+Deploying HTTPS: The Green Lock and Beyond (Chrome Dev Summit 2015)
+Google+ Performance Improvement Comparison
+Developing for Billions (Chrome Dev Summit 2015)
+Keynote by Darin Fisher, VP of Chrome (Chrome Dev Summit 2015)
+Libraries vs Frameworks - HTTP203
+What about internationalization? #AskPolymer -- Polycasts #33
+Windows Command-line Tooling, Totally Tooling Tips (S2, Ep4)
+Jai's Web blog - Supercharged
+Supercharged Observers! -- Polycasts #32
+Jake Beats Wikipedia - HTTP203
+Chrome Developers Channel Trailer
+Where’s the Designer? #AskPolymer -- Polycasts #31
+Sublime Shortcuts, Totally Tooling Tips (S2 Ep3)
+Player FM - Supercharged
+Binding to Objects -- Polycasts #30
+Critical Path CSS, Totally Tooling Tips (S2 Mini Tip #1)
+Paul Built A Web App - HTTP203
+#AskPolymer: How do you make the show? -- Polycasts #29
+Sublime Snippets, Totally Tooling Tips (S2 Ep2)
+Chrome 46: New motion-path animations, client hints and service worker improvements
+Highlights from the Polymer Summit 2015
+The Future of Web Audio: with Chris Wilson and Chris Lowis
+The Guardian part 2 - Supercharged
+Data Binding 101 -- Polycasts #28
+The Future of JavaScript - HTTP203
+#AskPolymer: Rob answers all the questions ever -- Polycasts #27
+ES2015 (next version of JavaScript), Totally Tooling Tips (S2 Ep1)
+The Guardian - Supercharged
+iron-ajax… wat?! -- Polycasts #26
+Maintainable Code - HTTP203
+Web Directions Code 2015 round up
+Chrome Dev Summit 2014 – Chrome Case Studies
+PolyPanel (The Polymer Summit 2015)
+Polymer Power Tools (The Polymer Summit 2015)
+Polymer Performance Patterns (The Polymer Summit 2015)
+Doing a Perf Audit of your Polymer App (The Polymer Summit 2015)
+A11y with Polymer (The Polymer Summit 2015)
+Polymer's Animation System (The Polymer Summit 2015)
+Lightning Talk: Polymer's Gesture System (The Polymer Summit 2015)
+Lightning Talk: Upgrading to 1.0 with polyup (The Polymer Summit 2015)
+Adaptive UI with Material Design and Paper Elements (The Polymer Summit 2015)
+Polymer's Styling System (The Polymer Summit 2015)
+There’s an Element for that — but what if there isn't? (The Polymer Summit 2015)
+Platinum Elements (The Polymer Summit 2015)
+Testing Polymer Web Components (The Polymer Summit 2015)
+Using ES6 with Polymer (The Polymer Summit 2015)
+End to End with Polymer (The Polymer Summit 2015)
+Thinking in Polymer (The Polymer Summit 2015)
+Opening Keynote (The Polymer Summit 2015)
+On-stage: Building a WebRTC app
+IBM Bluemix: Mixing voice & data
+Chrome Developer Interviews - Chrome Dev Summit 2015
+The Future of ORTC with WebRTC
+Google: What's next for WebRTC?
+Decisions & considerations in building your WebRTC app
+Best practices from billions of calls
+Beyond P2P: Video Routing in WebRTC
+Application Chats: Skedans
+Application Chats: Freshdesk
+Application Chats: Wix.com
+Optimizing the customer experience
+What is Mozilla doing with Firefox?
+A closer look at the WebRTC UX/UI API
+Kranky Geek WebRTC Show 2015 Welcome
+Tune in - All things Polymer
+Neon-animated pages -- Polycasts #25
+Browser Monoculture - HTTP203
+Chrome Developers Channel Trailer
+Web performance gets "Supercharged": New show coming soon!
+Totally Tooling Tips: YouTube comments from Season 1
+Chrome 45: More ECMA Script 2015, improved Add to Home Screen, and more (New In Chrome - Ep 45)
+Season 3 Trailer - HTTP203
+Impact of Chrome timer scheduling
+WebRTC Update April 2014
+EdgeConf 3: Components
+EdgeConf 3: Developer Tooling
+EdgeConf 3: Build Process
+EdgeConf 3: Page Load Performance
+EdgeConf 3: Pointers and Interactions
+EdgeConf 3: Accessibility
+EdgeConf 3: Future Web
+Chrome Dev Summit 2013
+Edge Conf 2: Payments
+Edge Conf 2: Legacy Clients
+Edge Conf 2: Offline
+Edge Conf 2: Third Party Scripts
+Edge Conf 2: Real Time Data
+Edge Conf 2: Rendering Performance
+Edge Conf 2: Responsive Images
+Video editing on a Pixel with WeVideo
+Head Shots - a Chrome Experiment for Android
+WebAnimations
+Introduction to Yeoman
+Chrome Apps: a quick network demo
+Bravest Man in the Universe - Mobile Chrome Experiment Teaser
+HTML5Rocks Live, Episode 4
+Chrome DevTools Timeline's new Frame Mode
