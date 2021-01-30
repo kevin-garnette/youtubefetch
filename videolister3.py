@@ -1,4 +1,4 @@
-api_key = "AIzaSyAFSUbQnFBBQnO8Vbs_2db_wDeeIwCVk8s"
+api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 #The Program fetches the Titles from all videos of the channel ID - UCq-Fj5jknLsUf-MWSy4_brA which is actually Tseries
 from apiclient.discovery import build
 youtube = build('youtube', 'v3', developerKey=api_key)
