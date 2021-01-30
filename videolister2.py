@@ -24,19 +24,10 @@ def get_channel_videos(channel_id):
     
     return videos
 
-import io
-import csv
-with open('ChannelNamesAndIDs.txt') as csv_file:
-    csv_reader = csv.reader(csv_file, delimiter=',')
-
-    for row in csv_reader:
-      videos = get_channel_videos(f'{row[1]}')
-      len(videos)
-      with io.open(f'{row[0]}' + ".txt", 'w', encoding='utf-8') as f:
-        for video in videos:
-          f.write(str(video['snippet']['title'] + "\n"))
-
-
-
-   
+file = open("2rawlist.txt")
+for id in file:
+  videos = get_channel_videos(id)
+  len(videos)
+  for video in videos:
+    print(video['snippet']['title'])
 
