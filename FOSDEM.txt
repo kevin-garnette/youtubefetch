@@ -1,0 +1,3096 @@
+Deterministic debugging with Delve And the state of Delve
+Support for mini-debuginfo in LLDB How to read the .gnu_debugdata section.
+Postmodern strace
+Our road to a k8s/GKE based Closed Build Environment A small journey to an autoscaling build env ba…
+Uplift your Linux systems programming skills with systemd and D-Bus Practical examples and best pra…
+GRUB upstream and distros cooperation
+Low-end platform profiling with HawkTracer profiler
+Debugging apps running in Kubernetes An overview of the tooling available
+Maggy: Asynchronous distributed hyperparameter optimization based on Apache Spark Asynchronous algo…
+Sharing memories of Python and Rust The story of a lifetime inside Mercurial
+cargo deny Fearlessly update your dependencies
+Sharing Reproducible Results in a Container A container you can build anywhere
+Efficient Model Selection for Deep Neural Networks on Massively Parallel Processing Databases
+Homebrew: Features and Funding
+dav1d: 1 year later dav1d is a fast AV1 decoder
+Testing Navit using Device Farms
+VoIP Troubleshooting and Monitoring FAQs
+Software distribution: new points of failure In a censored world
+STAC: Search and discovery of geospatial assets Introducing a new cloud-native cataloging specifica…
+Monitoring strawberries Building observability for indoor farming
+Modern VoIP in Modern Infrastructures Designing and implementing VoIP architectures in the cloud an…
+Advancing the Future of CI/CD Together How the Continuous Delivery Foundation is working to advance…
+Reinventing Home Directories Let's bring the UNIX concept of Home Directories into the 21st century
+Choosing The Right Deployment Strategy
+Speed up the monolith building a smart reverse proxy in Go
+Knocking Down the Nest secushareBOX - p2p & encrypted IoT and beyond...
+Arabesque: a geographic flow visualization application
+Building an open source data lake at scale in the cloud
+GeoServer Basics
+DAT protocol in the browser: Progress and Challenges
+openEO: Interoperable geoprocessing in the cloud An open API to connect clients to EO cloud provide…
+Boost.Geometry R-tree - speeding up geographical computation.
+WebRTC isn't just for (video) conference calls
+GNUnet: A network protocol stack for building secure, distributed, and privacy-preserving applicati…
+Reverse Geocoding is not easy How doing another mundane geocoding service can provide exciting geos…
+Close lid to encrypt Hard disk encryption in Linux suspend mode
+Async await in Nim A demonstration of the flexibility metaprogramming can bring to a language
+From a Pipeline to a Government Cloud How the UK government deploy a Platform-as-a-Service using Co…
+Unit Testing with JUnit Jupiter - How to Use the new JUnit Jupiter Platform
+RaptorJIT: a fast, dynamic systems programming language Forking LuaJIT to target heavy-duty server …
+Classify things in Go: the easy way. Building classifiers quickly with the community contributions.
+Designing an ultra low-overhead multithreading runtime for Nim Exposing fine-grained parallelism fo…
+rav1e - 0.3.0 and after What we did so far and what will do in the future
+A small, FRP DSL for distributed systems Mgmt Config: More about our language
+Tesselle image viewer Ease viewing and sharing High Resolution images on the web
+Kotlin MP: Into the Multi-Verse
+Librecast: Privacy and Decentralization with Multicast IPv6 Multicast and the Next Generation Inter…
+Test Software On Emulated Hardware In Containers... In The Cloud
+X11 and Wayland: A tale of two implementations Implementing the hikari window manager/compositor
+Nim on everything From microcontrollers to web-sites, C and JS as intermediary languages
+Bringing back ethics to open source
+Free Software Radio Devroom Introduction and Hackfest Review
+FreeBSD Around the World!
+NetBSD Native APIs - A Userland Perspective (Audio, Input) Discussing and encouraging the adoption …
+Getting Your Virtual Hands On RIST
+GStreamer on the Magic Leap One
+Forth - The New Synthesis Growing Forth with preForth and seedForth
+FreeBSD and LLVM support What is LLVM all about and how it integrates FreeBSD system
+How to evolve the GNU Radio scheduler Embracing and breaking legacy
+The Space Operations Facility of FH Aachen (FHASOF) The role of freely available and open-source so…
+r2cloud - Decode satellite signals on Raspberry PI
+Welcome to the BSD devroom
+The Rise and Fall and Rise of JPEG2000 Currently a niche codec, recent enhancements to the JPEG 200…
+Move semantics in Nim Deterministic Memory Management
+Platform independent CPU/FPGA co-design: the OscImp-Digital framework G. Goavec-Merou, P.-Y. Bourge…
+srsLTE project update
+OpenBeans IDE - Creating an Apache NetBeans Distribution
+Fibonacci Spirals and 21 Ways to Contribute to Postgres—Beyond Code
+Software Defined Radio based scientific instrumentation using SDR frontends and oscilloscopes for f…
+RTFM
+openwifi Opensource "Wi-Fi chip design" and Linux driver
+IOT Lightning Talks Show us your IOT pet project, 5mins each, don't be shy
+From Swagger to Kotlin via Gradle Generating your network code has never been so easy
+Designing a DSL with Kotlin
+Confessions of a Serial K–otlin Multiplatform–er __just don’t 𝚎𝚡𝚙𝚎𝚌𝚝 too much__
+Useful coroutine patterns for Android applications
+Language Server Protocol & Debug Adapter Protocol to the Rescue of Web Development in Eclipse IDE
+How secure is your build/server? a story of packages and trust
+Continuous Delivery starts with Continuous Infrastructure
+Automate your workflows with Kotlin Forget everything about bash and perl!
+Diversity, Finally
+Generate a DeepSpeech model with the help of your community How to get fun with teamwork
+Multiplatform Kotlin Library Development
+Discover the New Firefox Profiler
+OpenPush  Introducing a Free, Decentralized Push Messaging Framework for Android
+What are the Top 10 Frustrations for Web Developers and Designers? Lessons from the 2019 MDN Develo…
+SCION Future internet that you can use today
+Demonstration of the Sculpt Operating System
+Facilitating distributed deterministic computation with WASI
+What Makes People Come and What Makes Them Stay
+A Brief Survey through Genode's ARMv8 Playground
+Rendering QML to make videos in Kdenlive How QML, a language prominently used for designing UI, is …
+Open Source Hardware for Industrial use OSHW model has benefits for SOC vendors, industrial manufac…
+VUOS: Give Your Processes a New VU
+Building an Open-Source based audio streaming platform
+BSP generator for 3000+ ARM microcontrollers
+HelenOS in the Year of the Pig
+FOSDEM Video Box A bespoke HDMI capture device for conferences.
+MaadiX, your cloud in your hands Tool Kit and Graphical interface for VPS management
+Continuous Integration for Open Hardware Projects
+Open Adult Education: a curriculum to bridge the digital skills gap with free and open source techn…
+European Software Engineering funded research What has happened under Horizon 2020 and what we alre…
+Tools and mechanisms to debug BPF programs
+GDB pipelines -- convenience iteration over inferior data structures Bringing MDB's "walkers" to GDB
+Memcheck Reloaded dealing with compiler-generated branches on undefined values
+Open and federated identities with ID4me An alternative to "sign in with Facebook"
+VSCode Extension for OpenShift Developers
+zbus: yet another D-Bus library The why, how & WTH of creating a pure D-Bus Rust crate
+Extending the lifetime of smartphones with Replicant, a fully free Android distribution
+File sharing & storage for human rights organizations A design research case study
+Discover dependency license information with ClearlyDefined License discovery and record-keeping fo…
+Apache DataSketches A Production Quality Sketching Library for the Analysis of Big Data
+Explicitly Supporting Stretch Clusters in Ceph
+Introduction to the devroom and the Open Source Design collective
+Dissecting the inline keyword in Kotlin A deep-dive into the internal working of the inline keyword
+Almonit: Decentralized Websites and Web Services
+Android Content Providers for the Web Using decentralized storage to share data between apps
+sled and rio modern database engineering with io_uring
+How Kotlin can change developer experience with modern graphics APIs
+Write Safer JavaScript Applications with TypeScript!
+Idiomatic Kotlin Microservices A live coding session on how to go pure Kotlin with microservices
+Working with spatial trajectories in Boost Geometry
+Is the web rea11y for all? Firefox DevTools & A11y
+A Mozilla IoT Forecast thats Sunny and Clear -- No Clouds! WebThings by Mozilla
+JavaScript on Microcontrollers
+How Firefox upholds its values and keeps up with change
+XR adds: “Try before you buy”
+seL4 Microkernel Status Update
+Make it accessible Tips and tricks for create a good accessible frontend
+IoT Projects in FLOSS Foundations A report based on communities data
+Introduction to G-Expressions Introduction to G-Expressions
+Phantom OS Orthogonal Persistence-based OS Intro and Design Concepts
+NOVA Microhypervisor on ARMv8-A
+FOSS in Animation The state of Free and Open Source software in the Animation and VFX Industry
+Celebrating Guile 2020 Lessons Learned in the Last Lap to Guile 3
+DuckDB An Embeddable Analytical Database
+The best of both worlds? Static and dynamic typing in the Crystal programming language
+The year of the virtual Linux desktop
+NetBSD - Not Just For Toasters
+On-hardware debugging of IP cores with free tools
+FaaS You Like It: Create Serverless Functions & Run Anywhere
+Prioritizing is key How to prioritize thousands of bugs without dying in the attempt
+How to run Linux on RISC-V  with open hardware and open source FPGA tools
+The elfutils debuginfod server
+Cooperative Perception in Future Cars using GNU Radio
+Gofish - a Go library for Redfish and Swordfish
+gr-satellites latests developments
+Find your slow queries, and fix them!
+An ultimate guide to upgrading your PostgreSQL installation
+A Deep Dive into PostgreSQL Indexing
+U:Kit: Open-source software and hardware smoke detector
+Open Source - Killing standards organizations or saving them Open source and standards join forces …
+Beyond the Pile of Knobs: Usability and Design for Privacy, Security, Safety & Consent Privacy and …
+PipeWire in the Automotive Industry
+Integrating Julius Speech Recognition Engine
+Evolution of path based Geo-replication in Gluster
+Some Excerpts from the Theory of Design in Architecture
+Creating Word Clouds with OpenOffice Text mining and visualization in Writer
+Designing to change it all Designing processes and designing some products on the way...
+Linux Kernel Library A Library Version of Linux Kernel
+UI/UX Tips & Tricks for developers
+FOSDEM infrastructure review
+Design contributions to OSS: Learnings from the Open Design project at Ushahidi Structuring in-pers…
+Build real-world gaming hardware with TinyGo Make toys and other contraptions that run on Go
+Threat Modelling for Developers
+Accessibility in MuseScore Our experience with Qt and QML
+Boosting Python with Rust The case of Mercurial
+Optimizing rav1e Effective profiling techniques and optimization strategies
+Introducing Tanka From configuration as data to configuration as code
+rustdoc: beyond documentation All the goodies packed in rustdoc, and more
+Introducing libeconf Bringing systemd-like configuration layering to everything else
+Progress of Rust and WASM in 2019 The year in review
+Task Scheduling of Software-Defined Radio Kernels in Heterogeneous Chips: Opportunities and Challen…
+Open Source design - Africa Open Source Design movement in Africa
+LibreOffice lockdown and encryption improvements
+Heads OEM device ownership/reownership : A tamper evident approach to remote integrity attestation …
+Landscape of new challenges in modern virtualization platforms Tackling new issues in virtualizatio…
+An event based approach for CI/CD pipelines What challenges are there in the communication between …
+FASTEN: Scaling static analyses to ecosystems
+Overview of Bareos What is Bareos and what is new in 19.2?
+What's up on Haiku? R1/beta2, packaging, porting and contributing.
+COLLAB: How can we give users standing in free/open software/hardware?
+Integrating new major components on fast and slow moving distributions How latest GNOME desktop was…
+Nouveau Status update The overdue Nouveau status update talk.
+Distributed HPC Applications with Unprivileged Containers
+Running virtual machines out of thin air
+oVirt-Plugin for Bareos Backing up oVirt using Bareos
+The State of (Full) Text Search in PostgreSQL 12
+Rusty instruments Building Digital Musical Instruments with Rust and friends
+A VM journey from VMware to Kubernetes
+Reaching "EPYC" Virtualization Performance Case Study: Tuning VMs for Best Performance on AMD EPYC …
+GNU Guix as an alternative to the Yocto Project
+Open Source Under Attack How we, the OSI and others can defend it
+Are You Testing Your Observability? Patterns for Instrumenting Your Services
+virtio-fs A shared file system for virtual machines
+Openoffice Build system A walk through building OpenOffice
+Online Open Document Editing New Possibilities
+Lightning talk session
+Lisp everywhere! Gurudom is around the corner
+NFS Ganesha
+ERASER: Early-stage Reliability And Security Estimation for RISC-V An open source framework for res…
+Run ZFS in userspace How we used ZFS in userspace for storage engine cStor
+Integration Processes Data flowing the easy way
+Geo-spatial queries on multi-petabyte weather data archives
+Building Homebridge with the Yocto Project
+coverity and oss-fuzz issue solving common patterns for solving reported issues
+Creating GPX tracks from cycle routes in OpenStreetMap Using the OverpassAPI to download and proces…
+Orchestrating jails with nomad and pot A container-based cloud computing platform for FreeBSD
+Asynchronous Directory Operations in CephFS
+seccomp — Your Next Layer of Defense
+Rook Cloud Native Storage for Kubernetes Overview and what is new about Rook
+Management of Storage on OpenShift Managing storage was never so easy
+Automating Programming and Development of Heterogeneous SoCs with LLVM Tools
+KDE on FreeBSD
+Creating symphonies in JavaScript
+Getting inspired by open software for a web site: g3n.fyi
+Percona Backup for MongoDB: Status and Plans Open Source solution for consistent backups of multi-s…
+New features of Vue 3.0
+PWAs on steroids
+State of Node.js Core
+Building Decentralized Social Virtual Reality using WebXR on your browser
+The Heptapod project Bringing Mercurial to GitLab
+MobilityDB Managing mobility data in PostGIS
+Make Online yours How to customize Collabora Online
+Contributing to LibreOffice without C++ knowledge
+Open Source Support Program by OTA
+NGI Zero: A treasure trove of tech awesome Sampling through the Next Generation Internet initiative
+RedisJSON  A document DB in Rust
+ROS2: The evolution of Robot Operative System
+GeoNetwork Basics
+How to write a scikit-learn compatible estimator/transformer Tips and tricks, testing your estimato…
+Getting started with FPGA's for Packet Processing Intel FPGA opportunities
+Legal Organizer's Panel
+Communication Break Down | Coroutines
+Advancing science with Dataverse Publication, discovery, citation, and exploration of research data.
+When Python meets GraphQL: Managing contributors identities in your open source project
+Prototyping the Internet of Things with Wyliodrin STUDIO An open source platform for building IoT p…
+Pattern Based Code Generation for GPUs
+Go REUSE to license your code Free Software licensing made simple for everyone
+Divide and map. Now. the damn project
+emissions API a service to easily access air quality data from remote sensing
+Regaining sovereignty over your router Router freedom
+MySQL Goes to 8!
+Retro music - Open Cubic Player
+Making poetry with Racket Come and see how to make Poems that are also Code!
+CoffeeBeam A BEAM VM for Android
+Quantum classifiers, robust data encodings, and software to implement them
+SECCOMP your PostgreSQL
+The TTM memory manager A general overview and an update on graphics memory  management in the kernel
+Quantum Advantage and Quantum Computing in the Real World
+dqlite: High-availability SQLite An embeddable, distributed and fault tolerant SQL engine
+Quantum computer brands: connecting apples and oranges
+Spring & Steam, an Odyssey
+Why the GPL is great for business Debunking the current business licensing discussion
+Why open infrastructure matters
+A minimal pur object-oriented reflective language A minimal pur object-oriented reflective language
+Welcome to the Retrocomputing DevRoom 2020
+FOSSH - 2000 to 2020 and beyond! maddog continues to pontificate
+SimulaQron - a simulator for developing quantum internet software
+The State of PTXdist
+The core values of software freedom
+Cappulada: What we've Learned
+libliftoff status update Taking advantage of KMS planes
+The consequences of sync_binlog != 1
+WebMIDI The garlic bread of the music industry
+Ephemeral Environments For Developers In Kubernetes
+puavo.org Linux desktops in Finnish schools
+State of OpenJDK
+Embedded systems, the road to Linux Early boot, comparing and explaining different systems.
+Quantum circuit optimisation, verification, and simulation with PyZX
+Quantum computing hardware and control systems
+The Ethics of Open Source A Critical Reflection
+How to integrate secure elements A visually annotated summary of Opensource compatible secure eleme…
+Developing from the field Shifting design processes and roles between makers and practitioners arou…
+Quantum Open Source Foundation
+Universal package & service discovery with Guix Α universal functional package manager and operatin…
+In Memory of our Friend, Lars Kurth
+How Yocto extra tools help industrial project Yocto is not (only) bitbake
+Building a low-cost test fixture
+io_uring in QEMU: high-performance disk I/O for Linux
+PICTOR: A free-to-use open source radio telescope
+A tool for Community Supported Agriculture (CSA) management, OpenOlitor
+SpecFuzz: Bringing Spectre-type vulnerabilities to the surface
+actinia: geoprocessing in the cloud
+Kubernetes on ARM64 Raspberry PI 4 Kubernetes cloud for a few Euros!!
+Web compatibility and ML Improving webcompat issue triaging using ML
+Verifpal Cryptographic Protocol Analysis for Students and Engineers
+Linux memory management at scale Building the future of kernel resource management
+Be The Leader You Need in Open Source Learn key skills to guide yourself and your project towards a…
+Inspektor Gadget and traceloop Tracing containers syscalls using BPF
+Extending and embedding: containerd project use cases A 2020 containerd project update and descript…
+GNU Mes  Scheme-only bootstrap and beyond
+Modern asynchronism with coroutines Presentation and best practices of the coroutines framework
+The next generation of contributors is not on IRC Discussing communication channels for inclusive o…
+How (Not) To Containerise Securely Lessons Learned the Hard Way
+Evolution of kube-proxy
+Kata Containers on openSUSE
+HOWTO build a product with OP-TEE
+Graphing FreeBSD disk utilization with Prometheus Writing a Prometheus gstat_exporter
+Striving for Performance Portability of Software Radio Software in the Era of Heterogeneous SoCs
+libratbag A way to configure your input devices
+Jumpstarting your business with Odoo
+A Vulkan driver for the RPI4 A lesson in futility
+Back to the Linux Framebuffer! Linux Framebuffer support in free software
+strace --seccomp-bpf: a look under the hood
+SDR4IoT - Using SDR for IoT Device Fingerprinting and Localization  A project part of the FED4FIRE+…
+Building a self healing system with SaltStack
+Open ESP The Heterogeneous Open-Source Platform for Developing RISC-V Systems
+Modernizing Distribution of SDR Tools and Libraries with Conan What does cmake have to do with SNR?
+Cacheable Overlay Manager RISC-V
+PostgreSQL on K8S at Zalando: Two years in production
+Building an embedded VoIP network for video intercom systems How to leverage open standards to brin…
+Immutable deployments: the new classic way for service deployment Adopt the new immutable infrastru…
+RISC-V Boot flow: What's next ?
+Foreman meets Ansible
+Mgmt Config: Autonomous Datacentres Real-time, autonomous, automation
+Doomed are the dinosaurs! Dealing with diversity by utilizing the versatility of Ansible and open s…
+Designing for Failure Fault Injection, Circuit Breakers and Fast Recovery
+There's no sustainability problem in FOSS Except that there is.
+Relax-and-Recover (ReaR) Mass Deployment
+Precise, cross-project code navigation at GitHub scale
+Relax-and-Recover (ReaR) Basics with Demo on Real Hardware
+What are we talking about when we say "open design"?
+HPVM: Extending LLVM For Compiling to Heterogeneous Parallel Systems
+How lowRISC made its Ibex RISC-V CPU core faster Using open source tools to improve an open source …
+XDP and page_pool API
+Quality diagrams with PyCirkuit
+Lazy distribution of container images Current implementation status of containerd remote snapshotter
+Comparing dependency management issues across packaging ecosystems
+A community-driven approach towards open innovation for research communication
+License compliance for embedded Linux devices with Buildroot
+Percona XtraBackup Current and Future State What’s the future of the open-source industry standard …
+Collabora Office Android app gory details How we tweaked LibreOffice & the Online to get an Android…
+LXD for mixed system containers and VM workloads Introducing LXD's new virtual machine feature
+DataLad Perpetual decentralized management of digital objects for collaborative open science
+Revamping OpenRefine a reproducible data wrangler
+Monads in Python: why and how?
+Challenges and opportunities in scientific software development An example from the neurosciences
+Apache Spark on planet scale Using Apache Spark to process OpenStreetMap data
+Making & Breaking Matrix's E2E encryption In which we exercise the threat model for Matrix's E2E en…
+Thoth - a recommendation engine for Python applications
+Why is Django 3.0 a revolution for building websites with Python? From WSGI to ASGI and why it matt…
+Channel Equalization using GNU Radio  compensating for impairments in the wireless channel, and ext…
+Live Demo of Ada's Distribution Features
+Welcome to the Ada DevRoom
+EUgen: a European Project Proposal Generator
+Follow Your Celery Tasks
+Improving the culture of automated testing in FOSS
+Discover UEFI with U-Boot
+Asyncio: understanding async and await in Python
+Production-time Profiling for Python
+Public clouds and vulnerable CPUs: are we secure?
+Introducing HTTPX
+FOSS Virtual & Augmented Reality The Monado project & OpenXR
+Auto-healing cluster through negative testing
+More than one tool for collaborating on writing the Tiki CMS This talk reviews the many collaborati…
+How Safe is Asynchronous Master-Master Setup?
+Automated Performance Testing for Virtualization with MMTests The Tools, the Challenges and also so…
+oVirt 4k - teaching an old dog new tricks
+A Rose by Any Other Name Would Run Just as Long Understanding Computational and Hardware Complexity…
+Building Blocks for Containerized Ceph How Raw Block PersistentVolumes Changed the Way We Look at S…
+RISC-V Hypervisors Where are we ? What next ?
+LumoSQL - Experiments with SQLite, LMDB and more SQLite is justly famous, but also has well-known l…
+DEBATE: Should FOSS licenses be enforced at all? What means are acceptable if so?
+Testing DoH and DoT servers, compliance and performance
+Improve your Android app with coroutines Coroutines integration in VLC on Android
+Online: wrestling web Copy/Paste to usability Defeating the API and implementation disasters in cop…
+Abusing GitLab CI to Test Kernel Patches
+KiCad: Back to the Future KiCad and it's role in the growing open hardware movement
+Crowdfunding to advance open document editors A status report
+One test output format to unite them all
+Web3 - the Internet of Freedom, Value, and Trust On exiting the system and reclaiming control of ou…
+What's new in Samba ? Latest news from the Samba project
+Welcome to KernelCI You're all welcome to the KernelCI project's new home
+G1: To infinity and beyond
+Ephemeral Pinning: A Dynamic Metadata Management Strategy for CephFS
+Incrementality and deck functions Simple protocols and efficient constructions in symmetric cryptog…
+Welcome to game development devroom
+Building WebGPU with Rust The new foundation for graphics and compute
+Userspace networking: beyond the kernel bypass with RDMA! Using the RDMA infrastructure for perform…
+Testing a large testing software
+Writing Go(od) Tests Writing good tests in golang
+Look at ME! Intel ME firmware investigation
+How to fail successfully and reliably And look good while doing it
+Using crio-lxc with Kubernetes
+Encrypt your collaboration with CryptPad Real demo !
+Benchmarking LLVM using Embench
+Blender projects for 2020
+Endless Network Programming − An Update from eBPF Land
+Fedora rawhide packages gating, for real! How we have implemented gating rawhide packages in Fedora
+COLLAB: The optics of the policy And vice-versa
+Just-in-time compiling Java in 2020
+DEBATE: Does Careful Inventory of Licensing Bill of Materials Have Real Impact on FOSS License Comp…
+JRuby Startup and AOT
+LibreOffice Online adoption into 1&1 Mail&Media ecosystem Brief overview of the open-source adoptio…
+2nd Generation JavaScript Frameworks & Libraries: Beyond Angular, React, and Vue!
+Releasing Software with GitOps How OpenStack manages releases using Git based automation
+A 'Thin Arbiter' for glusterfs replication
+Pitch your project
+Technology challenges for privacy: the case of decentralized social media
+CPU performance analysis for MySQL using Hot/Cold Flame Graph
+MySQL 8 vs MariaDB 10.4
+Web of Twins From IoT to Immersive worlds and beyond...
+Simulating noisy quantum devices with QuTiP
+Quantum Game with Photons: Tensors in TypeScript, Visualized
+The role of open source in building quantum computing ecosystem from scratch Context of a developin…
+Open Source Won, but Software Freedom Hasn't Yet A Guide & Commiseration Session for FOSS activists
+git-issue Git-based decentralized issue management with GitHub/GitLab integration
+Do Linux Distributions Still Matter with Containers?
+Journalists are researchers like any others
+Are PWAs ready to take over the world? Implementing main progressive web app features in practice
+Building Confidence & Overcoming Insecurity The ultimate software supply chain self-help guide
+BPF as a revolutionary technology for the container landscape
+SCION Future internet that you can use today
+Docker Security considerations & Incident Analysis
+Securing Existing Software using Formally Verified Libraries
+Quantum machine learning with PennyLane
+Getting started with quantum software development
+Yjs: A CRDT framework for shared editing Enable shared editing in every application
+istsos3: Data Analysis and statistical tools and unit conversions GSoC 2017, 18 at OSGeo(istSOS)
+FOSDEM@20 - A Celebration The cliché of constant change
+What you most likely did not know about sudo…
+Kernel Runtime Security Instrumentation LSM+BPF=KRSI
+neat-EO.pink: Deep Learning Computer Vision patterns extraction at scale
+Spack's new Concretizer Dependency solving is more than just SAT!
+Introduction to Ansible collections Ansible collections, The future of Ansible content delivery
+Code Workload Management into the Control Plane What it means to be "Kubernetes Native"
+boot/loader — How to boot Linux and nothing else
+20 mins to write a MySQL Shell Plugin Extend the MySQL Shell with a plugin created from scratch
+Capsule Update & LVFS: Improving system firmware updates Improving reliability and security by simp…
+Towards decentralized alternatives for code collaboration Building Radicle, a peer-to-peer network …
+Building a distributed knowledge base with a Linked Data powered CMS Implementing the vision of the…
+Using OpenAPI to Maximise Your Pulp 3 Experience
+A Tale of Two Worlds: Assessing the Vulnerability of Enclave Shielding Runtimes
+Introduction to Eclipse iceoryx Writing a safe IPC framework for autonomous robots and cars
+Improving the Security of Edge Computing Services Update status of the support for AMD and Intel pr…
+Ask LLVM developers Anything Panel
+The Journal of Open Source Software Credit for invisible work
+LLVM and Python Past, Present, Future
+Open source UEFI and TianoCore
+How Transparent Data Encryption is built in MySQL and Percona Server ?
+Flang : The Fortran frontend of LLVM This technical talk introduces the new Fortran fronted of LLVM.
+The Confidential Consortium Framework A framework to build secure, highly available, and performant…
+OpenSMTPD over the clouds the story of an HA setup
+Be secure with Rust & Intel SGX
+Modernizing mesa3d.org Let's bring mesa3d.org past web 1.0
+Reviving Minitel How web technologies make it easy to emulate Minitel
+RISC-V Software and Firmware Development in the Cloud Using OpenPiton+Ariane on Amazon F1
+BASICODE: the 8-bit programming API that crossed the Berlin Wall
+BlackParrot An Agile Open Source RISC-V Multicore for Accelerator SoCs
+repcloud A repacker for PostgreSQL in cloud
+Opening Intel Server firmware based on OpenBMC example
+Horizon EDA - Version 1.0
+lognplot - logging and plotting data from micro's Tracing data on a modern laptop
+Bootstrapping minimal reflective language kernels Bootstrapping minimal reflective language kernels
+Port luajit to RISC-V Motivation, first steps and perspectives
+An Introduction to Ada for Beginning and Experienced Programmers
+Alpha Waves, the first 3D platformer ever How 3D graphics worked when there were no graphic cards
+Zink Update OpenGL on Vulkan upstream in mesa
+Spotlight on Free Software Building Blocks for a Secure Health Data Infrastructure
+On the road to sustainable research software.
+Benefits of porting Godot Engine to Vulkan List of benefits observed from porting Godot Engine to V…
+Supervising and emulating syscalls
+Double your contributors using these 3 simple tricks! Why would someone work on your project?
+Containers and Steam Putting games under pressure
+LLVM and GCC Learning to work together
+DSpace 7: A major leap forward for the leading institutional repository platform Tale of a mature, …
+Let me tell you about Raku On why syntax is not so important, with an introduction to the emerging …
+STEP Reduce Transparent file size reduction for STEP model files
+Wallonia GeoChallenge  geodata, ideas and challenges
+Integrate Collabora Online with web applications
+The good and the bad sides of developing open source tools for neuroscience
+Optimizing sandbox creation with a FUSE file system Using sandboxfs to speed up Bazel builds
+Compliance management with OpenSCAP and Ansible Using OpenSCAP and Ansible for compliance managemen…
+Shrivelling world A Three dimensional visualisation development for representing geographical time-…
+Daala Video Codec
+Proposal to inspect and highlight styles in Writer
+Protect Sensitive Data with Ada Keystore
+Hacking Terraform for fun and profit
+Comparing Hash Join solution, the good, the bad and the worse.
+Stylo : a user friendly text editor for humanities scholars
+Infrastructure testing, it's a real thing!
+HAC: the Compiler which will Never Become Big
+On Rapid Application Development in Ada
+Sparselizard: a general purpose multiphysics FEM library Mechanics, fluids, electricity, magnetics,…
+Designing a performant and scalable graph processing python package
+Past, Present and Future of DRLM project
+The ultimate guide to HTTP resource prioritization How to make sure your data arrives at the browse…
+Package managers: resolve differences Lively panel discussion on package management
+Oracle v. Google: What are the implications for FOSS?
+Cypher enhancements for sharded and federated graph databases
+Pocket infrastructures to bridge reproducible research, live coding, civic hacktivism and data femi…
+Break your BSD kernel Fuzzing BSD kernel
+Temporal Graph Analytics with GRADOOP
+Podman - The Powerful Container Multi-Tool An use case driven hands-on to the container management …
+Weblate! Localize your project the developer way: continously, flawlessly, community driven, and op…
+Self-hosted server backups for the paranoid Using Borg, SSH, Python and FreeNAS to securely backup …
+Pushing the limits of the Web with WebAssembly
+Kapow! A Web Framework for the Shell
+Will somebody *please* tell me what's going on? Managing change in Python projects
+Arcade game port to ZX Spectrum A reverse engineering exercise
+Preserve kubernetes state using heptio velero
+Running a mainframe on your laptop (for fun and profit)
+Welcome to the Legal & Policy Issues DevRoom
+Closing FOSDEM 2020
+The Ethics Behind Your IoT
+Pocket Science Lab from Development to Production
+Open CASCADE Technology - an introduction and overview
+Akraino Edge KNI blueprint A Kubernetes Native Infrastructure approach to the Edge
+Building Loosely-coupled RISC-V Accelerators Using Chisel/FIRRTL to build accelerator templates and…
+DEBATE: Does FOSS need sustainability?
+Improving protections against speculative execution side channel
+TornadoVM: A Virtual Machine for Exploiting ​High-Performance Heterogeneous ​Execution of Java Prog…
+Keep Calm and Use Nerves
+Next, the programmable web browser How the architectural choices and the Lisp language make for an …
+Discover Static Code Analysis in Python with Coala Framework
+Improving BIND 9 Code Quality Why is concurrent programming so hard?
+The hairy issue of e2e encryption in instant messaging
+Skydive A real time network topology and protocols analyzer
+Taming Metaspace: a look at the machinery, and a proposal for a better one
+Back to the future Incremental backup in oVirt
+The pool next to the ocean: How to bring OpenSource skills to more people InnerSource as a way to t…
+Weblate: open-source continuous localization platform How to bring your project closer to its users…
+Protecting plaintext secrets in configuration files
+Correlation analysis in automated testing
+Blender, Coming of Age 18 years of Blender open source projects
+Empowering social scientists with web mining tools Why and how to enable researchers to perform com…
+Shenandoah 2.0
+Designing Hardware, Journey from Novice to Not Bad Reflections from the OpenElectronicsLab
+Frictionless Data for Reproducible Research
+Guix: Unifying provisioning, deployment, and package management in the age of containers
+Alire: Ada Has a Package Manager
+Transforming scattered analyses into a documented, reproducible and shareable workflow
+Using biometric gadgets for express-tests in the UX/UI research
+Writing Shared Memory Parallel Programs in Ada Multitasked Newton's Method for Power Series
+Fast QUIC sockets for cloud networking Using vector packet processing for QUIC acceleration and off…
+Spunky: a Genode Kernel in Ada/SPARK
+Gunrock: High-Performance Graph Analytics for the GPU
+Secure logging with syslog-ng Forward integrity and confidentiality of system logs
+Gate project Portable execution state
+A dozen more things you didn't know Nextcloud could do And a little of what you DID know
+Gitflow Design A git workflow for design in open-source projects
+Programming ROS2 Robots with RCLAda
+Poio Predictive Text Grassroots Technology for Language Diversity
+Lumen Elixir in the browser
+DEBATE: The 4 Freedoms and OSD are outdated and no longer relevant in 2020
+LibreOffice turns ten and what's next Lots to learn, and get excited about
+Processes & Grains A Journey in Orleans
+Welcome to the MySQL, MariaDB & Friends Devroom 2020 Community Welcome
+OpenTelemetry: an XKCD 927 Success Story
+ALTER TABLE improvements in MariaDB Server Optimized or instantaneous schema changes, including ADD…
+How to create Javascript-powered Smartglasses (no soldering knowledge required)
+Falco Internals 101 : Syscalls processing for security analysis What happens when you have: syscall…
+Whats new in ProxySQL 2.0? Exploring the latest features in ProxySQL 2.0
+Introducing AUTOREV An automatic reverse-engineering framework for firmware BLOBs
+Generation gaps
+LLVM meets Code Property Graphs
+Free at Last! The Tale of Jakarta EE
+Helpful NullPointerExceptions - The little thing that became a JEP
+Farwest Demo A website/API for a document oriented database in 20 minutes
+Debugging with LLVM A quick introduction to LLDB and LLVM sanitizers
+Address Space Isolation in the Linux Kernel
+The OpenJDK JVM : Securing a moving target or What could possibly go wrong?
+Lexemes in Wikidata structured lexicographical data for everyone
+Concept Programming, from ideas to code
+Edge Clouds with OpenNebula
+Reverse engineering a VIC-20 expansion cartridge
+Hash Join in MySQL 8
+MyRocks in the Wild Wild West!
+Running full Linux systems in containers, at scale A look at LXD and its clustering capabilities
+HTTP/3 for everyone The next generation HTTP is coming
+Open lightning talks Showcase your open source project
+Rewinding time with System Versioned Tables
+Civil society needs Free Software hackers
+SELinux fun with MySQL and friends
+Fritzing - the past, the present and the future Restarting with 1100 technical issues, and a few le…
+Extending sudo in Python Best of both worlds
+Vita: high-speed traffic encryption on x86_64 with Snabb Coming to your cloud with XDP, AVF, and Ku…
+Introduction to Reactive Programming with RxPY
+FoxDot and the Summer of 2019
+Introducing OpenTAP - Open Test Automation Project A developer-first extensible test and measuremen…
+OpenPiton: An Open-Source Framework for EDA Tool Development
+LibrePCB Status Update The progress of LibrePCB within the last two years
+KDE Itinerary A privacy by design travel assistant
+Designing functional objects with functional objects OpenSCAD: Past, present and/or future
+OpenQA with the JDP data analyses framework Bug tag propagation on 2M+ test results using Julia
+Do you really see what’s happening on your NFV infrastructure? (and what can you do about it?)
+Designing and Producing Open Source Hardware with FOSS/OSHW tools We will show you how easy is now …
+Fundamental Technologies We Need to Work on for Cloud-Native Networking
+AXIOM - open source cinema camera Project Introduction and current state of development
+Weave Net, an Open Source Container Network Five years with no central point of control
+Using Advene to accompany research in AudioVisual Digital Humanities
+extending catalog zones auto-maintain DNS servers
+Indexing Encrypted Data Using Bloom Filters
+Tracking local storage configuration on linux
+Freedom and AI: Can Free Software include ethical AI systems? Exploring the intersection of Free so…
+Tracking Performance of a Big Application from Dev to Ops
+Container Live Migration
+Running MySQL in Kubernetes in real life
+Graffiti A historical, distributed graph engine
+0 A.D.: Graphics Pipeline How open-source game graphics works
+The journey of building OpenSpeedMonitor Learnings from unexpectedly finding ourselves developing a…
+Gmsh
+Weaviate OSS Smart Graph feature updates, demo and use cases
+Lightweight virtualization in the Cloud and at the Edge hypervisors gone rogue
+Java & Games A rivalrous case-study from porting Doom 3
+State of djbdnscurve6 IPv6 LLU address support
+Mixing kool-aids! Accelerate the internet with AF_XDP & DPDK
+Raphtory: Streaming analysis of distributed temporal graphs
+NeuroFedora: Enabling Free/Open Neuroscience
+unwind(8) A privilege-separated, validating DNS recursive nameserver for every laptop
+Shipping a performance API on Chromium Experiences from shipping the Element Timing API
+Finite element modeling with the deal.II software library
+The Neo4j Graph Algorithms Library: An Overview
+Mandos Disk encryption without passwords
+How Containers and Kubernetes re-defined the GNU/Linux Operating System A Greybeard's Worst Nightma…
+ONLYOFFICE: How to securely collaborate on documents within content management applications
+Nuspell: version 3 of the new spell checker FOSS spell checker implemented in C++17 with aid of Moz…
+What's in my food ? Open Food Facts, the Wikipedia of Food Mixing mobile crowdsourcing, ai, opensou…
+STS in Ceph Object Storage
+SWIM - Protocol to Build a Cluster SWIM gossip protocol, its implementation, and improvements
+Confronting Clang and Fedora
+The history of error correction and detection and how it led to Ceph’s Erasure Coding Techniques
+Hacking on GraalVM: A (very) Rough Guide
+DNS Management in OpenStack What is the OpenStack DNS API?
+The Hidden Early History of Unix The Forgotten history of early Unix
+The Linux Kernel: We have to finish this thing one day ;) Solving big problems in small steps for m…
+The Different Ways of Minimizing ANY
+EActors: an actor-based programming framework for Intel SGX
+DeskConnD: Secure, cross-platform IPC on the network Zeroconf + WAMP = Cross platform IPC
+Over Twenty Years Of Automation
+Regaining control of your smartphone with postmarketOS and Maemo Leste Status of Linux on the smart…
+Rethinking kubernetes networking with SRv6 and Contiv-VPP
+Python for Godot
+Programmable Unified Memory Architecture (PUMA)
+The unsupervised free CAT for low resource languages Building a pipeline for the communities
+Hardware-Software Co-Design for Efficient Graph Application Computations on Emerging Architectures
+WPE, The WebKit port for Embedded platforms
+Wikibase Ecosystem taking Wikidata further
+MySQL 8.0: Secure your MySQL Replication Deployment
+Open-source design ecosystems around FreeCAD
+ByteBuffers are dead, long live ByteBuffers!
+Automating schema migration flow with GitHub Actions, skeema & gh-ost And end-to-end schema migrati…
+Analyzing DPDK applications with eBPF Sharpening the toolset
+Knocking down the barriers of ORDER BY LIMIT queries with MariaDB 10.5
+DEBATE: Should licenses be designed to advance general social goals?
+Metrics and models for Web performance evaluation or, How to measure SpeedIndex from raw encrypted …
+Below Kubernetes: Demystifying container runtimes
+Debugging and tracing a production RabbitMQ node
+Project Loom: Advanced concurrency for fun and profit
+Replacing iptables with eBPF in Kubernetes with Cilium
+LibreOffice Theme Changer An Extension for Customize LibreOffice Appearance in Easy Way
+Reducing OpenJDK Java Garbage Collection times with stack allocation
+Hint, Hint, Font Loading Matters! Fonts are lovely but can slow down our loads. How can we make the…
+Overview of encryption features
+Fixing the Kubernetes clusterfuck Understanding security from the kernel up
+Dial your Networking Code up to 11 Vectorizing your network app to break the performance barrier
+Application Whitelisting in Linux Environment
+Custom Crypto Policies by Examples Management of crypto algorithm restrictions
+Protect your data objects, not your network connections Good news for a paradigm shift
+JMC & JFR - 2020 Vision
+Going Meta with Elixir's Macros Running at compile-time and compiling at runtime
+Oreboot RISC-V Firmware in Rust
+Using SELinux with container runtimes
+The HammerBlade RISC-V Manycore A programmable, scalable RISC-V fabric
+The Selfish Contributor Explained
+Game development with OpenXR
+Bringing Collabora Online to your web app Its easy to add rich document collaboration to your web a…
+Ada-TOML: a TOML Parser for Ada
+HashDNS and FQDNDHCP IPv6 DNS configuration made easy
+Reloading Escoria Make point and click adventure games under Godot great again
+Check Yourself Before You Wreck Yourself Auditing and Improving the Performance of Boomerang
+ngspice open source circuit simulator dev update and electrothermal simulation
+From 0 to Intranet in 20 minutes with XWiki
+Leveraging Open Source Designs Creating a component search engine for reference designs used in pra…
+Welcome to FOSDEM 2020
+LibreHosters A federation of networks for cooperation and solidarity through distributed platforms.
+Enough: How journalism can benefit from free software
+Making your Python code write your Python code Discover Python's 'ast' module to see how you can an…
+When open source meets quantum computing Opening keynote
+The consequences of sync_binlog != 1
+A new approach to container isolation with Nabla
+Breaking Down Language Barriers Localizing for access, activism and preservation
+Deep Dive: Kubernetes Metrics with Prometheus
+Solid: taking back the Web through decentralization App development as we know it will radically ch…
+Call C++ from Rust with the cpp crate Interoperate with C++ libraries, using Qt as an example
+Introduction to reSIProcate A quickstart for C++ SIP application development
+GraphHopper Routing Engine - New Features Overview of the latest features and development
+A year of Container Kernel Work Past, Present, and Future of Container Kernel Features
+Taming The Dinosaur: How Eclipse was Performance Tuned
+Node.js feature-flipping through Git Git as a Continuous Manager
+Evolution of file system and disk management in HelenOS
+Stories from BIND9 refactoring Dealing with code that can drink legally
+Open Source Geolocation The story and challenges ahead
+D-Wave's Software Development Kit
+Migrating from Adobe Connect - the Victory of FOSS Over Proprietary Software
+OpenStreetMaps for emergency prep: The view from San Francisco Using OpenStreetMap and QGIS to buil…
+The impact of Meltre and Specdown on microkernel systems (*) (*) Deliberate misspelling of Meltdown…
+2019 - Fifty years of Unix and Linux advances
+Embracing Language Servers for Blockchain Development
+VoIP Troubleshooting and Monitoring with SIP3 Twenty Thousand MPS under the SIP: VoIP network troub…
+Where is my error gone?
+Rewriting Pointer Dereferences in bcc with Clang Syntactic sugar for BPF programs
+Continuous Localization How we ship localized versions of Firefox, on Laptops and Android
+GNU Mes Reduced Binary Seed bootstrap for GNU Guix
+Microkernel lightning talks
+Continuous Integration to compile and test Navit
+Organisational Processes in Decentralized Software roundtable open to decentralized software develo…
+Real-time container automation and scheduling Mgmt Config: Containers
+Will you boot Haiku, on a non intel platform, no BIOS winter? Booting Haiku on non-x86, a never-end…
+Creating a Computing Revolution: from Personal Computers to Personal Servers
+Package software for any distribution with upt
+Resurrecting Mozilla Themes for LibreOffice Trying to uncover, fix and improve a hidden gem in the …
+An Introduction to Ada for Beginning and Experienced Programmers
+TypeScript-It's time to migrate!
+Blockchain: The Ethical Considerations
+Extend Emacs in C or Other Languages
+Testing your infrastructure and services with the help of OPNFV testperf team
+Predicting areas for PR Comments based on Code Vectors & Mailing List Data
+Testing Over 1000 gTLDs for EDNS0
+Around the world with Postgres extensions
+Revoking the 2010 DNSKEY Monitoring the events of 11th of January 2019
+Hacking PostgreSQL
+Lesson learned from Retro-uC and search for ideal HDL for open source silicon
+Mattermost’s Approach to Layered Extensibility in Open Source
+Latest evolution of Linux IO stack, explained for database people
+Documenting Validator Requirements
+ZFS Powered Magic Upgrades Using boot environments for atomic in-place upgrades
+XDP (eXpress Data Path) as a building block for other FOSS projects
+Time is Important - Developer Centric IoT Platforms
+Make your own language with Racket A kickstart workshop for the creative minds
+Introducing Kubeflow  (w. Special Guests Tensorflow and Apache Spark)
+Challenges With Building End-to-End Encrypted Applications - Learnings From Etesync
+Open source software security testing Crowd supported via bug bounty
+A Guiler's Year of Racket
+Component-based Design System and Development
+PennyLane - Automatic differentiation and machine learning of quantum computations
+The brief case for User-space Network Stacks (DPDK and friends) The case for DPDK, FD.io VPP, Snabb…
+MySQL 8.0 Document Store: How to Mix NoSQL & SQL in MySQL 8.0 a database where developers and DBAs …
+Roll your own compiler with LLVM Easy IR generation
+What's new in PostgreSQL 11
+Raspberry Pi history, tips and use case its history, how to use it and what is its good use case
+The Yoast Design Meeting and how it started us on the path to open source design
+Packaging for Mageia Linux with Docker containers
+Breaking PostgreSQL at Scale
+Why JSON when you can DSL? Your problematics deserve their own language
+The future of Supervisor Binary Interface(SBI)
+Clang plugins in LibreOffice - global analyses across a large codebase
+CI/CD for embedded development with an ESP8266, Arduino-cli, Gitlab-ci, Raspberry Pi, and Kubernete…
+Building production-grade networking software with FD.io CSIT Building fast and robust networking s…
+Distributed Computing with Ada and CORBA using PolyORB
+Securing Secure Boot on Xen
+Mobile design with device-to-device networks Exploring the design space of novel technologies throu…
+Dynamic answer generation with Lua An exploration of the LUA record from the upcoming PowerDNS rele…
+A Deepdive into Tantivy
+Making Sense of so many License Compliance Tools
+Tools for Shrinking Your Containers
+llvm.mix Multi-stage compiler-assisted specializer generator built on LLVM
+Kubernetes Network Security Demystified
+The real cost of not doing user research And how to get insight-based decisions on a budget
+Extending Numba
+Extending syslog-ng in Python Best of both worlds
+How should lawyers behave? Legal "Ethics" and Free Software
+Redfish: the new standard for a Software Defined Infrastructure
+Spatial Reference Systems Transformations with Boost.Geometry
+A follow-up on LTTng container awareness System level tracing in a containerized world
+Rated Ranking Evaluator: an open-source approach for Search Quality Evaluation How to automate the …
+Porting U-Boot to a Modular Device Booting Linux via U-Boot on a board which can be composed of sev…
+VR Map: Putting OpenStreetMap Data Into a WebVR World Simple GeoData Visualization with A-Frame
+Zink OpenGL on Vulkan
+A microkernel written in Rust: Porting the UNIX-like Redox OS to Armv8 A case study of Rust as a la…
+Set-versioned package dependencies addressing the problem of shared library updates
+LLVM for the Apollo Guidance Computer
+Tapping Into the Binary Log Change Stream
+Pocket Science Lab - An Open Source Hardware for Electronics Teaching & Learning
+How Kubernetes used gRPC to encrypt secrets with an external Key Management Service
+Advocating For FOSS Inside Companies Redux
+openEMS - An Introduction and Overview Using an EM field solver to design antennas and PCBs
+Medical image reconstruction using the .NET Framework
+Astor: An automated software repair framework
+Making the next blockbuster game with FOSS tools Using Free Software tools to achieve high quality …
+Organizer's Panel -- Now and Forever
+Super-speedy scoring in Lucene 8
+Bring JavaScript to the Internet of Things - From Embedded Device to Smart Gateway
+Design Automation in Wonderland The EPFL Logic Synthesis Libraries
+Securing the JVM, neither for fun nor for profit, but do you really have a choice?
+Leveraging ceph-mgr modules for fun and profit
+Coming: a Tool for Mining Change Pattern Instances from Git Commits
+A low latency GPU engine based reset mechanism for a more robust UI experience
+eBPF powered Distributed Kubernetes performance analysis
+FST-01SZ (Flying Stone Tiny 01 revision ShenZhen) free hardware design for Gnuk Token
+Open Source C#, .NET, and Blazor - everywhere PLUS WebAssembly
+Reinventing MVC pattern for web programming with F#
+The Software Developer’s Guide to Open Source Hardware
+Onion adventures how to use onion services and the Tor network in your web endeavors
+Open source virtual prototyping for faster hardware and software co-design Make your hardware / sof…
+Love What You Do, Everyday!
+Retroshare JSON API Making libRetroshare a generic service for decentralized and private communicat…
+Nextcloud  decentralize the way we sync, share and collaborate
+NFS-Ganesha Weather Report
+The right to data portability (and why it's a very bad idea) How the RGPD leads to the DTP and why …
+Exporting Ceph Object Storage data to the outside world RGW Sync Modules for fun & profit!
+Hyperledger Fabric - Blockchain for the Enterprise
+ossia ecosystem workshop Combining media of all kinds with libossia and ossia score
+BinAST Let's make the javascript startup bottleneck a thing of the past!
+Using Progressive Web Apps to control IoT Using a PWA app to control an IoT device using JS framewo…
+Introducing the CERN Open Hardware Licence version 2 Covering some of the major changes in this new…
+Fine-grained Distributed Application Monitoring Using LTTng
+Designing Command-Line Tools People Love
+JavaScript: If you love it, set it free
+When and How to use CGo Or, Foreign Functions for Fun and Profit
+Automating Client Library Generation How and Why
+Introducing DBus-ASIO How and why we built a new D-Bus library from the ground up
+Promotion of open source and role of standardization in Quantum Computing Open panel discussion
+Profiling PHP applications
+Who wants you to think nobody uses the AGPL and why
+LibreOffice: the origins of a community fork
+A year of LXD development Project update on what happened in LXC/LXD in 2018
+TRex
+Now what? Following through on your community guidelines
+Good Will Snapping ~10 benefits of publishing your application in the Snap Store
+Debian Java: Insights and challenges learn more about the daily work to package Java software for D…
+LibreOffice Online - hosting your documents Keeping your documents close and yet collaborative
+How Online Backup works in MyRocks and RocksDB
+A small, FRP DSL for distributed systems Mgmt Config: The Language
+Hands on debugging with Delve
+Memex: Collaborative Web-Research & the next generation knowledge management tools.
+MariaDB and MySQL — what statistics optimizer needs or when and how not to use indexes
+Building a Hardware MIDI Player Exploration of Linux's System Interfaces
+The surprising interaction of open source and patent exhaustion
+Quo vadis, LibreOffice extensions?
+New interoperability, i18n and LibreLogo improvements of LibreOffice for office suite migrations in…
+Are we optimiert yet?
+Redis Labs & the tragedy of the Commons Clause
+Updates from the RISC-V TEE Group Working on a Trusted Execution Environment spec for RISC-V
+Speed without Shenanigans How Rust and WebAssembly is changing the web as we know it
+Making Open Source Hardware for Retrogaming on Raspberry Pi
+TLS 1.3: what developers should know about the APIs
+Make your code count: Quantum simulations and collaborative code development Introduction to QuTiP:…
+Online - under the hood How to bring LibreOffice to your web app
+Converse: Open, federated teamchat with XMPP
+Hacking F# in JS ecosystem
+The First Contact
+MySQL Performance Schema in 20 Minutes
+Next Generation Internet initiative - Year Zero Come work for the internet on privacy, trust, searc…
+Computer Games with MicroPython Become a full-stack game developer.
+Introduction to the BASIC Engine A low-cost single-board home computer programmable in BASIC that c…
+Native GTK Dialogs current status and future work
+Strawberry Fields - software for photonic quantum computing
+Autonomous Train Control Systems: a First Approach
+Using SAIL to generate GNU assembler/disassembler and simulator for RISC-V
+Tuning a Runtime for Both Productivity and Performance
+Metaprogramming with Nim
+Never Functional Programming Language
+Do you know "layers"?
+Yet Moar CSS Features
+Preventing OOXML interoperability problems in LibreOffice
+FreeRTOS on RISC-V Running the FreeRTOS kernel in RISC-V emulators and RISC-V hardware
+LLVM+Clang for RISC-V Past, present, and future
+Pitch your project Designers meet projects. Projects meet designers.
+Vereign toolbar in LibreOffice Online Technical aspects of integration of a 3rd party document sign…
+Infrastructure as Typescript
+Nuspell: the new spell checker FOSS spell checker implemented in C++14 with aid of Mozilla
+0 A.D: Graphics Graphics problems and opportunities of open-source game
+HDMI CEC: A Status Update
+Designing for Activism An overview of the UX overhaul of OONI Probe
+Luerl: Lua in Erlang Luerl introduction emphasizing its trade-off as scripting skin on top of the B…
+Typescript =❯ IL =❯ Game Modding Supercharged
+Toward exploring virtual disks using a file manager!
+Kamailio VoIP development update
+VkRunner: a Vulkan shader test tool A presentation of VkRunner which is a tool to help test the com…
+.NET Core 2.1 in Production How Namely develops .NET Core services
+What is Safety-Critical Software, and How Can Ada and SPARK Help?
+Intel® Hardware Intrinsics in .NET Core
+.NET and TypeScript Lightning Talks
+Advanced TypeScript tooling at scale
+YunoHost An essential building block for the decentralized Internet
+Environment Modules Provides dynamic modification of a user's environment
+Valkyrja and the tale of eating servers using C# Valkyrja project - why .NET Core, C# & Fedora Linu…
+Open Source Hardware for Smart City OSHW LoRaWAN implementation for Parking, Air quality, City ligh…
+Alternative languages for safe and secure RISC-V programming
+How to build an automatic refactoring and migration toolkit
+Rumble in the Java Jungle
+Fedora on RISC-V 64-bit Introduction, Brief Overview and Latest Developments
+Buildroot for RISC-V Using Buildroot to create embedded Linux systems for 64-bit RISC-V
+KernelCI: a new dawn How the KernelCI project is getting a second breath
+Retro.NET - .NET for building Console Applications
+Making furniture with Javascript An open-source community run platform for designers to experiment …
+Do you think is easy to create a console app?
+Shrink your Data to (almost) Nothing with Trained Compression
+DNSSEC security without maintenance ... with the right software and registry
+GRUB upstream and distros cooperation
+Squeezing Water from Stone - KornShell in 2019
+Build your own GC with OpenJDK in 20 minutes
+Informal Discussions & Closing
+Northbound Connections of VPP for NFV in Containers and Kubernetes
+Is a single DNS vendor enough? Discussion about complexities of multi-vendor deployment, and why yo…
+What is Rust doing behind the curtains? Exploring syntactic sugar with cargo-inspect
+Parallel programming in Go for performance with the Pargo library
+Digital Predistortion Implementation and Use
+Latest developments in Boost Geometry
+Writing a CNI - as easy as pie Write you own CNI (Container Network Interface)
+Dark Peak Data Co-op Sheffield Geeks Freeing Their Data
+Beyond the 10%: analysis of the gender-diversity gap
+Open Educational Resources on Digital Accessibility for Building Your Own Courses
+How libre can you go? Reaching as many viewers as possible using only libre video technologies.
+Writing X11/Wayland agnostic GL applications with Waffle
+Making furniture with Javascript An open-source community run platform for designers to experiment …
+State of OpenJDK
+Cilium - overview and recent updates
+VPP & Ligato use cases: Contiv/VPP CNI plugin for Kubernetes & IPSEC VPN gateway Development of clo…
+How compact is compiled RISC-V code?
+OpenTrailView 360 FOSS StreetView for hikers
+XMPP Beyond Instant Messaging How we use XMPP to do many neat features
+Ceph wire protocol revisited - Messenger V2
+A Scalable Approach to Virtual Switching
+From the idea to the prototype using FLOSS
+Java Language Futures
+From closed to Open Source switch ASICs The transition in the world of switching asics
+From table to index (and back) with Hibernate Search 6 Leveraging Elasticsearch's power with a rela…
+It was working yesterday! Investigating regressions with llvmlab bisect A hands-on introduction to …
+Fraud mitigation using traffic pattern monitoring with CGRateS
+Perl 11 The Future of Saint Larry's Language
+Mgmt Config: A tale of three graphs Real-time, autonomous, automation with graphs (mostly DAG's)
+ONOS Introduction Overview of ONOS, Open Network Operating System from ONF, the Open Networking Fou…
+Are you insured against your noisy neighbor?
+Emitter: Scalable, fast and secure pub/sub in Go
+Building a whole distro on top of a minimalistic language The story of GNU Guix
+Automation networking engine for enterprise SDN Ansible Networking and OpenDaylight integration
+Deploying PostgreSQL on Kubernetes
+Real-time virtualization automation Mgmt Config: Virtualization
+Clustered Samba: Witness Protection Programming
+Java 4..12, Kotlin, Code Coverage and their best friend — bytecode: scandals, intrigues, investigat…
+FOSS Governance: The good, the bad and the ugly
+Open source in the quest for GDPR compliance
+Distribution build / delivery styles, one style to rule them all ? Is rolling release the answer fo…
+Bare Metal In The Cloud: Isn’t it Ironic? Explaining OpenStack bare metal provisioning service
+Improve OSM data quality with DeepLearning
+XCP-ng: building an Open Source and turnkey virtualization platform From Kickstarter to the datacen…
+RIST - an evolutionary video transport protocol
+U-Boot from Scratch v2019.01 edition
+Differentiated access control to graph data Applied to TinkerPop-compatible graph databases
+Rootless Kubernetes Running Kubernetes and CRI/OCI Runtimes as an unprivileged user
+Eventyay! An event system for community organizers
+DNS as code with octodns Versioning and keep track of your dns records changes and automatize all t…
+Using getdns for local DNSSEC validation
+Leveraging real-time streaming with Neo4j-Streams
+How to write a reverse-proxy with Go in 25 minutes
+Suggesting Fixes during Code Review with ML
+Hands-on composition of basic L4Re components
+Approaching Light Speed - News from the Eclipse Platform Project
+HOMER RTC Stats Timeseries for Fun and Profit
+Introduction of OSS Weaviate, the Decentralised Knowledge Graph What is a decentralised knowledge g…
+How to create a useful MySQL bug report ...and make sure it's properly processed
+Replicated SDS with DRBD & LINSTOR An Open Source SDS for the automated management of storage clust…
+Lessons learned from porting HelenOS to RISC-V Pros and cons of RISC-V from a microkernel OS point …
+A walkthrough guide to implementing a compiler intrinsic
+EBUs - Live IP Software Toolkit Open Source Software in professional media
+Welcome to FOSDEM 2019
+High performance virtual machines in oVirt Explain oVirt solution for easy creation of virtual mach…
+Mysql connector and other databases in LibreOffice Changes around database drivers in LibreOffice
+Apply complex network configuration to your Kubernetes cluster hosts by declaring it
+It's Time for the Populator Declarative initialization of kubernetes persistent storage
+Deep Learning on Massively Parallel Processing Databases
+Getting To Blinky: Virt Edition Making device pass-through work on embedded ARM
+Java with Docker: How to Make it Work
+Video Analysis using CUDA and OpenCV Detecting scene changes in videos using CUDA and OpenCV
+Hardware/Software Co-Design for Efficient Microkernel Execution
+An introduction to Middleware Application Monitoring with Java Mission Control and Flight Recorder
+Going mobile with React Native and WebRTC How Jitsi Meet went from web to mobile, while sharing mos…
+Russian crypto algorithms in the OpenSource world GOST crypto demystified
+Solving Polynomial Systems in Python phcpy: a scripting interface for PHCpack
+Graph usage in EFL using graphs to navigate a UI
+Java Checkpoint/Restore
+Scale Your Auditing Events
+The Missing Benchmark Metric: Memory Consumption
+Making the JIT part of the cloud
+TiDB: Distributed, horizontally scalable, MySQL compatible
+OpenJDK Governing Board Q&A
+The final release of Kodi v18 A two year development story
+Debug info in optimized code - how far can we go? Improving LLVM debug info with function entry val…
+What are your users kubectl-ing into your Kubernetes cluster?
+Performance tuning Twitter services with Graal and Machine Learning
+the current and future state of Ethereum  layer 1 scaling, layer 2 scaling, proof of stake and Sere…
+On Observability Observability 101
+Reducing Memory Usage of Mesa's Shader Compiler (Again) Why does this shader need 80GiB to compile?
+Hugepages and databases working with abundant memory in modern servers
+Fractalide and Cantor A Racket application built with Flow-Based Programming
+Challenges in Monitoring Distributed Storage Environment and how Tendrl addresses them
+V4L2: A Status Update
+Secure Web Applications with AWA
+GNU Radio in 2019: Facts and Plans An overview of where GNU Radio is going this fine year
+Improve your SQL Common Table Expressions (CTE) and Window Functions
+Fearless Multimedia Programming using GStreamer & Rust
+Monitoring Kubernetes and Virtualization
+Panel: Difficulties in having more designers participate in Open Source
+Go containers? Go serverless? A cloud native journey
+Crostini: A Linux Desktop on ChromeOS
+The Container Storage Interface, Explained
+Tested for Business: An Open and Transparent Quality Kit
+High end augmented reality using Javascript Using markers with a webcam is cool but what about a Ho…
+Porting Debian to the RISC-V architecture Tales from a long quest
+Storing "Lots Of Small Files" in a Swift cluster
+MySQL Replication - Advanced Features
+Patterns and anti-patterns in OSS participation Lessons from MySQL AB, the MariaDB Foundation, and …
+Improving LibreOffice quality together A summary of what happened in 2018
+Test complex database systems in a laptop with dbdeployer The friendly tool that makes DBA and deve…
+Project Things A secure gateway to connect your things to Internet
+What makes LLD so fast?
+Do Linux Distributions Still Matter With Containers? Yes, because stopped statically compiling thin…
+The art of multiplexing MySQL connections with ProxySQL
+LATERAL derived table in MySQL
+Pocket Science Lab Developing FOSS Hardware and Scaling up to Large Scale Production
+How we use Gluster offering Gluster-as-a-service
+Unikraft: Unikernels Made Easy
+D-Wave Hybrid Framework
+Lightning Talks
+Portable Services are Ready to Use Portable Services bring some container features to classic servi…
+Enrich your NIC's capabilities with DPDK SoftNIC
+GStreamer 1.16 and beyond
+How to build a FreeBSD CI/CD environment based on pot container
+gRPC, Protobufs and Go... OH MY! An introduction to building client/server systems with gRPC
+PWA caching strategies How to obtain maximum performance from your Progressive web app
+A brief story about friendship What we learned from cross-community collaboration
+Linux and USB Audio Class 3
+HTTP/3 HTTP over QUIC is the next generation
+The New Internet let's talk about IPFS
+Structured Concurrency Finding our way out of callback hell
+Cogito Privacy starts with Identity
+Maemo Leste A Debian/Devuan based mobile hacker OS
+Multiplex graph analysis with GraphBLAS
+Protect your bits: Introduction to gr-fec A look into the error-correction capabilities of GNU Radio
+Consistent PKCS#11 in Operating Systems improving user experience and security in RHEL and Fedora
+The Dwingeloo radio telescope goes SDR
+UEFI Boot for Mere Mortals
+MySQL 8.0 Component Infrastructure Why, what's there, what's next and how to use it
+The Skulls project - coreboot your Laptop The easy way
+Linux distributions, lifecycles, and containers
+An End-to-End LTE Testbed in Three Clicks
+Rspamd integration into FreeBSD.org mail infrastructure
+GNU Radio meets Scapy
+What's new in DeepSea An overview of new features
+Autocrypt - Automating E-Mail Encryption What E-Mail can learn from the success of end-to-end encry…
+Go Lightning Talks Come speak!
+Experience with wisp 5 years with fewer parens
+Asterisk 16: What's new in the world of Asterisk
+Solo5: A sandboxed, re-targetable execution environment for unikernels A {unikernel,kernel} is just…
+Sans IO: safe and testable network protocols Building safe, deterministic and testable network prot…
+Data Modeling, Normalization and Denormalization
+Neural commit message suggester Proposing git commit messages with neural networks
+SDR Makerspace sdrmaker.space
+Introducing rust-prometheus How Rust makes metrics safe and fast
+Unifying network filtering rules for the Linux kernel with eBPF
+The State of Go What's new since Go 1.10
+What is IBMQ
+My 10 year journey with FOSSASIA: A woman's pathway to open source
+Write Drunk - Test Automated Different aspects of Continuous Integration Testing for documentation …
+Hikar - Augmented reality for hikers Developing an app and framework for outdoor AR
+Who needs pandoc when you have Sphinx? An exploration of the parsers and builders of the Sphinx doc…
+Building a Multi-Node SIP Platform Using OpenSIPS Cluster multiple OpenSIPS nodes to create a highl…
+Decentralizing the Web Despite Itself
+OpenEBS asymmetric block layer in user-space breaking the million IOPS barrier
+VR Map: WebXR with Real-World OSM Data Simple GeoData Visualization with A-Frame
+Profiling Low-End Platforms using HawkTracer Profiler
+Flickerfree boot Seamless boot for UEFI systems
+Tracking users with core Internet protocols Enhancing privacy and performance the Internet
+Developing data structures for JavaScript Why and how to implement efficient data structures to use…
+Performing Low-cost Electromagnetic Side-channel Attacks using RTL-SDR and Neural Networks
+SMB2 POSIX Extensions Where we are, what remains to be done.
+To the future with Grav CMS How we migrated from a Wiki to the open-source Grav CMS
+10 years of open source test case management with Kiwi TCMS
+Global Consent Manager Improving User Privacy and the Consent Experience for Trusted Websites
+Merging System and Network Monitoring with BPF Merging packets with system events using eBPF
+Why, and How, we compiled Xaml into IL
+Getting to Closer to a Software Help Language Untangling complexities of the LibreOffice Help
+Countless, Beautiful Contributions
+Code anomalies in Kotlin programs Automatic detection of anomalous code fragments written in Kotlin
+GBForth: Using Forth to understand the Game Boy
+ActivityPub panel
+Validating Big Data Jobs An exploration with Spark & Airflow (+ friends)
+Building Pantheon documentation Feedback about on our documentation team experience
+Building modern desktop apps in Go
+Flamethrower A flexible tool for DNS load and functional testing
+The Current and Future Tor Project Updates from the Tor Project
+Inclusion Includes You Let's talk about how inclusion benefits all of us
+How XR goes beyond demos and games Is XR just a trend? Or is there more to it?
+Managing and Monitoring Ceph with the Ceph Manager Dashboard Introduction / Overview and Demo
+Open Source Firmware at Facebook "If you don't own your firmware, your firmware owns you"
+VBoard, making web dashboards in 3D and VR
+How and why (not) to use the 127.0.0.53 nameserver, systemd-resolved and resolvctl Or what is syste…
+How to write pylint plugins
+GObject subclassing in Rust for extending GTK+ & GStreamer Or: How to safely implement subclassing …
+The State of Webassembly in 2019 DevTools, support and specifications ready and in progress in 2019
+Firecracker, should it work only with a single runtime?
+Linking OpenStreetMap and Wikidata A semi-automated, user-assisted editing tool
+GNU Radio with a Rusty FPGA Experiment building  FPGA accelerated blocks with Rust bindings
+Building an LLVM-based tool Lessons Learned
+Minimalism matters
+Inject the Web into your GStreamer pipeline with WPE using a GStreamer/WebKit source element
+CK: an open-source framework to automate, reproduce, crowdsource and reuse experiments at HPC confe…
+Couple scientific simulation codes with preCICE A journey towards sustainable research software
+Asterisk WebRTC frontier: make client SIP Phone with sipML5 and Janus Gateway Analyzing a real proj…
+A roadmap for the Hurd?
+Microkernel virtualization under one roof Dare the impossible
+Beyond the webrtc.org monoculture Alternative WebRTC implementations in C and Python
+An overview of Tezos focusing on On-Chain Governance A new develoment paradigm for the blockchain
+Building Immersive Experiences with the Web The power of the Web with WebXR
+Who needs to know? Private-by-design collaboration
+Nakadi: Streaming Events for 100s of Teams Serving all sorts of users and use cases, the sane way
+Tuning Go GC Parameters
+Embedded with Go: from an AWK prototype to a gokrazy appliance How to build a self-contained toy fo…
+Hey, A Blockchain-Based Social Network Leveraging Ethereum Sidechains Towards Scalability
+Async PHP Requests & Reactive Responses with PHP-FPM
+Introduction to OpenAPI Specification
+CubicWeb Linked Data Browser Extension
+Collabora Office on iOS
+Tiki: Easy setup of wiki-based knowledge management system This talk demonstrates how to build up a…
+A private cloud for everyone Why and how Nextcloud builds a private cloud software
+Greenfield: An in-browser Wayland compositor Running a Wayland compositor entirely in your browser
+Document Redaction with LibreOffice Preventing Leakage of Sensitive Information by Redaction in Col…
+Working with Webhooks
+Migrating a Big Data Cluster from Linux to FreeBSD Slowly, but steadily
+Automated firewall testing
+XR The present, the future and how to get there.
+Intel GFX CI: Validation done the Linux way
+Complex cameras are (were?) complex How to make complex cameras easier: an update from the Libcamer…
+Welcome to the Legal and Policy Issues devroom
+Guile 3: Faster programs via just-in-time compilation
+Templating Languages for Interactive Fiction
+An Update on NetBSD and pkgsrc
+Walking through walls PostgreSQL ♥ FreeBSD
+FreeBSD Graphics
+Panel: Open Source .NET
+.NET on the Web with Mono WebAssembly
+Matrix in the French State What happens when a government adopts open source & open standards for a…
+Open Source Design in the trenches: a case study How we redesigned the FOSDEM video review interface
+Using networks to study 18th century French trade
+Dotting the ethics i and crossing the t Solid ethics for FOSS user research
+UX at Tor an Open Approach
+Make Room! Make Room! Space saving techniques in oVirt
+How a Connect-X device driver works How we wrote a Connect-X 4/5 10G-100G driver for Snabb
+Managing VMs and Containers in a Deeply Integrated UI
+Square Kilometre Array and its Software Defined Supercomputer ... and a very fast parallel file sys…
+An update on Virtio What happened recently and what's coming soon?
+Welcome to the Ada DevRoom
+Gephi JS: Exploring the dystopian future of a Javascript Gephi
+Preserving numerical algorithms
+VLC 4.0 4.0++
+What did I just agree to?  A quick trip through the un-"popular" open source licenses
+IMAP, JMAP and the future of open email standards a look at what's new in the IMAP world and the up…
+bmclib: A Baseboard Management Controller library One library to rule them all?
+Controlling the Execution of Parallel Algorithms in Ada
+The SReview review system
+Open Software deserves Open Hardware How Europe is taking the lead in Open Hardware
+Persistence with Ada Database Objects
+Tree matchings with Behavior Trees How to recognize a complex subtree in a big tree
+Un-split brain (aka Move Back in Time) MySQL
+GStreamer embedded state of the union 2019
+Compiling the Linux kernel with LLVM tools
+Monica, a personal CRM Remember everything about your friends and family
+KiCad Project Status Everything you wanted to know about the state of the KiCad project.
+The convergence of HPC and BigData What does it mean for HPC sysadmins?
+A quick update on singularity 3.0 singularity 3.0
+ElasticSearch Correctness and perfOrmance Validator Formally measuring the cost of a query before h…
+LAVA federated testing Testing with and by the community
+Upcoming Kubernetes Storage features transfers, clones and populators
+Towards a sustainable solution to open source sustainability
+One image to rule them all Single boot image for SBCs
+Salut à Toi: A Python Based Social Network And More A multi-platforms communication ecosystem based…
+Memory Management in Python A Short Overview of CPythons Memory Management
+Fritzing - the past, the present and the future Paving the way for Fritzing's development
+Drawing PCBs with Inkscape Creating printed circuit board designs using Inkscape, SVG2Shenzhen and …
+Connecting .NET Core to D-Bus
+Setting up an HPC lab from scratch with Mr-Provisioner, Jenkins and Ansible
+The state of machine learning operations in 2019: reproducibility, explainability, bias evaluation …
+Better loop mounts with NBD Take your loop mounts to the next level with nbdkit
+How We Modified an Agent-based Automation System to Become an Agentless One Lessons and Architecture
+MySQL and the CAP theorem: relevance & misconceptions Dissecting, affirming and refuting CAP assump…
+SMT-Based Refutation of Spurious Bug Reports in the Clang Static Analyzer
+Introducing kubectl-trace bpftrace meets Kubernetes with kubectl-trace
+Forest: An Open Source Quantum Software Development Kit
+Minimalism versus Types An experience report on the development of Titan, a statically-typed Lua-li…
+FreeIPA and cross-distribution packaging experience
+Voice Controlled Radio Enabling broadcast reception for Smart Speakers
+RAPIDS  Data Science on GPUs
+Git database with bitmap index
+Tcl - An Embeddable Long-lever with a Comfortable Grip, that fits in your Pocket.
+The Kitspace BOM Builder Create bills of materials and buy parts with the information you need at y…
+Distributed ledgers finally brought me a usable digital identity!
+Use kcli with all your virtualization solutions!
+libsigmf: Human Tools for Extra-Terrestrial and AI Radios
+FreeBSD in Audio Studio FreeBSD is usually not the first choice for music art, but it has quite a l…
+Rust and GNOME Adoption and impact of Rust through out GNOME
+Server side solution for generating ODF reports An important step to adopt ODF in Taiwan
+Running Android on the Raspberry Pi Android Pie meets Raspberry Pi
+Ten years of Puppet installations: what now? Lessons learned, sane suggestions, outlook for the fut…
+Displaying other Application data into a Wiki … and other integrations
+Understanding Source Code with Deep Learning
+An operator centric way to update application containers with AtomFS
+Fighting spam for fun and profit the long road to SpamAssassin 4.0
+Mastering Application/Service Configuration How to cover your configuration needs with oslo.config
+Embedded FreeBSD on a five-core RISC-V processor using LLVM How hard can it be?
+Loom: Weaving executions
+Add enterprise 2FA to your ownCloud in 15 minutes
+GWL: GNU Workflow Language
+Keeping Track of Stateful Infrastructure An overview over InnoGames infrastructure and the tools we…
+IGT GPU Tools - the past, the present, the future
+Streaming Pipelines for Neural Machine Translation
+Speeding up Programs with OpenACC in GCC ... using the compute power of GPUs and other accelerators
+Analysis of the behavior of mobile applications and its consequences for our privacy Presentation a…
+Multilingual Kubernetes The kubernetes.io stack, how we got there, and what it took to get there
+Etherlime: open source blockchain development tool An open source tool for Ethereum developers
+OpenHPC Update
+Make XMPP Sprint Again
+AI image search with Go & Tensorflow Integrate the advances of AI in your Go apps
+KLEAK Practical Kernel Memory Disclosure Detection
+Open Source at DuckDuckGo Raising the Standard of Trust Online
+Quantum Computing at Google and in the Cloud An update on Google's quantum computing program and it…
+Augmented Network Visibility with High-Resolution Metrics
+"Collaboration in Open Source Is the Better Way"
+Project Trellis and nextpnr FOSS FPGA flow for the Lattice ECP5
+GraalVM: Polyglot Development Platform with Great Toolability
+Codifying infrastructure with Terraform for the future
+Writing Network Drivers in High-Level Languages How to write drivers in Rust, go, C#, Swift, Haskel…
+Community Data is Not Community Metrics One Team's Journey Down the Wrong Path
+Mender - an open source OTA software update manager for IoT
+Console oriented services: wttr.in, cheat.sh, rate.sx
+Smelling Source Code Using Deep Learning
+Multicloud CI/CD with OpenStack and Kubernetes
+DNS and the Internet's architecture: the DoH dilemma Impacts of DNS-over-HTTPS on how the Internet …
+Pulp 3: Ready for a Test Drive
+Mgmt Config: The Road to 0.1 Real-time, autonomous, automation
+Automate Kubernetes Workloads with Ansible Easy deployment, self-service provisioning, and day-2 ma…
+Uyuni: A world-class open source frontend solution for managing your software-defined infrastructur…
+Latency SLOs done right
+A containerd project update 20 minute project update for 2019 FOSDEM containers devroom
+VNF development made easy with netmap A flexible framework for high performance packet processing w…
+rust-vmm shared virtualization crates
+The DAO of Bisq
+Web Components are the future. And the future is now!
+Deduplication on large amounts of code Fuzzy deduplication of PGA using source{d} stack
+Loki - Prometheus for logs
+MALT, A Malloc Tracker
+Demystifying Coroutines and Asynchronous Programming in Python
+Feature store: A Data Management Layer for Machine Learning Data Management for ML
+Configurations: Do you prove yours ?
+Neuropil - Secure Interaction for Things Elevating Security for IoT with the First Decentralized Op…
+Using eBPF for Linux Performance Analyses
+Gluster Container Storage Storage for containers, in containers
+ID4me: using the DNS as a directory for identities Who needs a blockchain when you have the DNS?
+Designing for Security
+Privacy-preserving monitoring of an anonymity network Data Collection, Analysis, and Visualisation …
+Declare your Linux Network state!
+Use configmanagement for your ... configmanagement.
+Companies and Communities Why Can't We All Just Get Along?
+Ceph storage with Rook Running Ceph on Kubernetes
+Containing the RDMA plasma An experience report on wrapping a wildly unsafe library
+Microcontroller Firmware from Scratch
+Critical Path Analysis
+What's new in the world of seL4
+Futatabi: Multi-camera instant replay with slow motion
+XWiki: a collaborative apps development platform Build applications incrementally on top of XWiki r…
+Text Markup to PDF with Python
+Wayland in IVI systems In-Vehicle-Infotainment systems and their graphics sub-system
+Compute the QOS of your infrastructure with DEPC
+RecordFlux: Facilitating the Verification of Communication Protocols
+The Open Source Community: its past and future What I learned about the Open Source Community while…
+Open Food Network open source for worldwide food systems
+Sysadmins, too, deserve interface stability Designing a stable interface to abstract OS configurati…
+OpenScore Open-sourcing sheet music
+Back From the Dead Resurrecting a national FOSS organization
+Introduction to dpdk-burst-replay A tiny tool for easily inject pcap files on DPDK NICs
+horizon EDA - what's new
+Unified Communications with Pàdé  Making the X in XMPP work with software
+Theo: The Authorized Keys Manager How to manage easily and securely ssh accesses to your servers
+DNS Privacy panel A discussion about all aspects of DNS Privacy
+Virtual IOMMU Implementation using HW Nested Paging
+Consorting with Industry Sustainability, FLOSS and building a local small business consortium
+Substrate An Open-Source Framework for Building Blockchains
+ELI5: ZFS Caching Explain Like I'm 5: How the ZFS Adaptive Replacement Cache works
+Learning to Rank  Explained for Dinosaurs
+Netflix and FreeBSD Using Open Source to Deliver Streaming Video
+Mining Source Code^3 Mining Idioms, Usages and Edits
+Data services in a hybrid cloud world with Ceph Making data as portable as your stateless microserv…
+Hackers gotta eat Building a Company Around an Open Source Project
+Supporting FOSS Community Members with Impostor Syndrome Mentoring and supporting peers with impost…
+M3 and a new age of metrics and monitoring in an increasingly complex world
+Beyond The First Steps Key ideas and advices to improve your development posture
+Sustaining FOSS Projects By Democratizing The Sponsorship Process How we run and manage our FOSS Su…
+Cloud Native Security 101
+Condition Monitoring & Transfer Learning Good predictions in situations with (initially) almost no …
+Handling Security Flaws in an Open Source Project - Jeremy Allison
+Cross browser extensions
+PostgreSQL Goes to 11!
+Cappulada: Smooth Ada Bindings for C++
+Improving SmartArt import in LibreOffice Impress
+Building open source scientific equipment How researchers are owning their own instruments
+Tesla Hacking to FreedomEV! Bringing Freedom to electric vehicle software
+The Cloud is Just Another Sun
+Interactive Computing with F# Jupyter
+openSUSE Kubic for Container People Exploring the Containerised Frontiers
+No evidence of communication and implementing a protocol: Off-the-Record protocol version 4 Version…
+Lucene Upgrade in Jira 8.0 How we fought and killed the code debt beast
+PostgreSQL vs. fsync How is it possible that PostgreSQL used fsync incorrectly for 20 years, and wh…
+Break the Messaging Silos with COI Get to know the Chat Over IMAP initiative
+Let's use centralized log collection to make incident response teams happy
+Firefox is your Marionette Get fun using the unit test system to control Firefox
+Breaking the 100 bits per second barrier with Matrix An entirely new transport for Matrix for reall…
+Perl 6 as a new tool for language compilers Using Perl 6 grammars to design and implement a program…
+Can Anyone Live in Full Software Freedom Today? Confessions of Activists Who Try But Fail to Avoid …
+Learning about Deep Learning: Applications for OpenJDK/Java Verification
+RustPython: a Python implementation in Rust Building a Python 3 interpreter in Rust
+Automated Analysis of TLS 1.3
+The TPM2 software community Getting started as a user, becoming a contributor
+Raft in Scylla Consensus in an eventually consistent database
+Proof of Pointer Programs with Ownership in SPARK
+Hacking NodeJS applications for fun and profit Testing NodeJS Security
+Homebrew 2.0
+Discover GraphQL with Python, Graphene and Odoo
+When perf-html Met A11y
+gr-soapy: A handy SDR hardware interface module for GNU Radio
+Sustain in Open Source with Gitcoin Gitcoin is a decentralized application where you can use variou…
+Operating System hardening : Dealing with external interrupts
+JavaScript for open computing education
+P4: Private Periodic Payments Protocol
+Speeding up the Booting Time of a Toro Appliance
+Apache Lucene and Apache Solr 8 What’s coming next?
+LemonLDAP::NG 2.0
+FOSDEM infrastructure review
+MicroPython – Python for Microcontrollers How high-level scripting languages make your hardware pro…
+Leela Chess Zero Learning chess from scratch
+What's new in Ceph Nautilus project status update and preview of the coming release
+FLOSS, the Internet and the Future
+Reproducible science with containers on HPC through Singularity Singularity containers
+SUSI.AI: An Open Source Platform for Conversational Web
+Exponential speedup in progress Closing remarks
+Less painful E2E tests with Cypress.io
+Testing GraphQL in your JavaScript application
+USB borne attacks and usable defense mechanisms Hardening built into the operating system without c…
+gtk-rs: newest and future developments Progress report on GTK+ Rust bindings
+Base64 is not encryption A better story for Kubernetes Secrets
+0 A.D., a libre real-time strategy game "History is yours for the taking!"
+Building a Community Metrics Strategy
+MALT & NUMAPROF, Memory Profiling for HPC Applications
+Watching Them Watching Us WebExtensions Exposing Privacy Leaks
+openSUSE Kubic for Distro People exploring the containerised frontiers
+Decoding Meteor-M2: QPSK, Viterbi, Reed Solomon and JPEG from IQ coefficients to images, analysis o…
+The new EU CyberSecurity Act  Or how to prevent the EU from becoming the worlds largest botnet hone…
+ReFrame: A Regression Testing and Continuous Integration Framework for HPC systems
+Real-time merging of config management and monitoring Mgmt Config: Monitoring
+PipeWire PipeWire wants to take over your multimedia
+From jQuery to React Gradual migration with hybrid approach
+Hundred thousand rides a day How can a massive amount of GPX traces help us improve OpenStreetMap
+How to build your own Ethereum client The development story of Nimbus
+HWallet: The simplest Bitcoin hardware wallet
+Protecting Secrets with Hardware Secure elements, hardware wallets, and device support for cryptocu…
+From Oracle to Apache - News from Apache NetBeans
+SAYMON - object-oriented monitoring and management for both ICT&IoT  object hierarchies and time-se…
+Spoofing GPS is it really the time we think it is, and are we really where we think we are ?
+Lessons in TableGen
+From Zero to Portability Apache Beam's Journey to Cross-Language Data Processing
+Writing Asynchronous SNMP Agents From a MIB file to a fully-fledged Python application
+slapdcheck Monitoring OpenLDAP with Python
+RustPräzi: a tool to build an entire call graph of crates.io From package-based to precise call-bas…
+3Geonames.org An open source Geocoding system for the simple communication of locations with a reso…
+Coaching for Open Source Communities 2.0
+Improve your project’s on-ramps for new participants
+"Enlightening" KVM Hyper-V emulation
+25 Years of FreeBSD
+Tooling for IntelliJ Platform Plugins
+OpenGreffe Decentralised company register for decentralised companies
+Devroom intro
+Closing FOSDEM 2019
+Test your code in Python
+Change your perception about complex developments
+Optimizing Python code
+Ethics in the workplace
+What is FOSS and why is it important?
+Introduction to web development in C++ with Wt 4 A server-side web framework written in C++
+Beyond WHERE and GROUP BY
+How to run a stable benchmark
+AGL as a generic secured industrial embedded Linux Factory production line controllers  requirement…
+Optimization with PuLP
+Asynchronous programming with Coroutines in Python A gentle introduction
+Analyzing the Software Development Life-Cycle using Data-Mining Techniques
+Python Data Structures implementation list, dict: how does CPython actually implement them?
+Introduction to Pandas Introduction to the open source data analysis and manipulation library
+(Ab)using Google's Chromium-EC firmware for your own designs Building Franken-Chromebook-devices
+Python and Raspberry Pi Physical computing, GPIO, HATs and IoT with Python
+Cloud Native Python The road to being a first-class Kubernetes application
+Hacking midi devices with StepPy a step sequencer in Python
+Python and "the SOLID principles"
+How to fix Usually Slightly Broken (USB) devices and drivers? Sniffing traffic on your USB bus
+Groking the Linux SPI Subsystem
+Storing metrics at scale with Gnocchi The Python based time series database
+Debugging Hung Python Processes with GDB
+asynctest easier testing of asyncio code
+Selinon Distributed dynamic task flow management with Python
+Script the Web with Weboob Yes we can use the Web outside of Browsers
+prompt_toolkit two years later
+Software updates with OSTree Why and how
+Making Your Own Open Source Raspberry Pi HAT A Story About Open Source Harware  and Open Source Sof…
+Secure and Safe Updates for Your Embedded Device
+Isar Build Debian-Based Products with BitBake
+Creating the open connected car with GENIVI
+GrimoireLab a Python toolset for software development analytics
+How to Build an Open Source Embedded Video Player
+OpenDaylight as a Platform for Network Programmability
+Sharing power in our communities Designing and implementing better spaces for everyone
+Visualize Your Code Repos and More with Gource
+Data Science for Community management
+Open source is just about the source, isn't it?
+Mentoring 101 How to be a great community mentor
+A dozen years of Memcheck Looking backwards and looking forwards
+Building an Accessible Community
+Successful and not (yet?) successful optimisations in Valgrind
+Binary analysis with angr Using VEX for static analysis
+Valgrind BoF and Hackaton Open discussion of ideas for Valgrind - and then we hack!
+Overcoming Culture Clash
+Like the ants turn individuals into large contributing community
+VEX Where next for Valgrind's dynamic instrumentation infrastructure?
+fortification vs memcheck Making gcc/glibc fortification and valgrind memcheck work better together
+Valgrind, the anti-Alzheimer pill for your memory problems
+sparcv9 New architecture to be supported by Valgrind
+Closing loops Concluding discussions in non-face-to-face communities
+I contributed ! But what now ? This talk will be about methods to improve contributor retention rat…
+Trace Everything When APM meets SysAdmins
+cgroupv2: Linux's new unified control group hierarchy
+Puppet Catalog Diffs in TheForeman Using octocatalog-diff to view catalog changes in the Foreman UI
+Replacing Dockerfiles with Ansible-container
+Graphite@Scale or How to store millions metrics per second
+Grafana - Past, present and future
+Alerting with Time Series
+Social aspects of change
+What does "Monitoring" mean?
+Monitoring Kubernetes with OMD Labs Edition and Prometheus
+Deploying Prometheus at Wikimedia Foundation
+modular VDEplug: switchless switching networks (and libslirp) VDEplug now supports plugins... inclu…
+20 years of Linux Virtual Memory From simple server workloads to cloud virtualization
+Adventures in Building Unikernel Clouds or a Crash Course in Building L2-L7 from Scratch
+VM: Hey VM, can I share a host with you? Affinity rules in a virtual cluster
+QEMU: internal APIs and conflicting world views How abstractions inside QEMU (don't) work together
+Impromptu Q&A about Prometheus and Grafana
+Troubleshooting Kubernetes
+Pet-VMs and Containers united?
+Network Block Device how, what, why
+Using NVDIMM under KVM Applications of persistent memory in virtualization
+Kubernetes Operators Managing Complex Software with Software
+gRPC 101 - building fast and efficient microservices
+Singularity The Inner Workings of Securely Running User Containers on HPC Systems
+OpenStack with Machine Containers Replacing VM's with Fast and Secure Machine Containers
+Live patching the Xen Project hypervisor
+Towards a HVM-like Dom0 for Xen reducing the OS burden while taking advantage of new hardware featu…
+Running virtual machines in containers
+Managing container infrastructure
+Deploying Ceph Clusters with Salt
+Improving your virtualization development workflow with Lago
+Ceph USB Storage Gateway
+The next generation Certainty in shared storage environments
+Quit managing the infrastructure to manage your infratsructure OpsTheater, an open source stack of …
+Does your configuration code smell?
+opsi: client management for heterogenous environments An introduction to opsi.
+Ceph and Gluster Community Update
+Storage overloaded to smoke? Legolize with LizardFS!
+OpenStack Magnum at CERN Scaling container clusters to thousands of nodes
+Config Management Community Awesome, Awful or Apathetic?
+Hyper-converged, persistent storage for containers with GlusterFS
+Is it safe? How compliance and scanning fit with Config Management
+Evaluating NVMe drives for accelerating HBase NVM HBase acceleration
+Cloud Native Java Development Patterns and Principles for Designing Kubernetes Applications
+Introduction to Ceph cloud object storage
+Ceph and Storage management with openATTIC
+CRI: How Kubernetes really runs containers
+Managing DEPENDENCIES in containers
+Kubernetes+GlusterFS Lightning Ver.
+GlusterD-2.0 The next generation of GlusterFS management
+Ceph weather report
+SELinux Support over GlusterFS
+Open-Source BGP networking with OpenDaylight using OpenDaylight to enable advanced BGP use-cases
+Infrastructure Monitoring with Postgres
+Beyond Trust - PostgreSQL Client Authentication
+The emergence of open-source 4G/5G ecosystems
+Evolution of Fault Tolerance in PostgreSQL
+An overview of PostgreSQL's backup, archiving and replication
+Tour de Data Types VARCHAR2 or CHAR(255)?
+Getting Started with OpenDaylight
+switchdev: the Linux switching framework running a mainline kernel on network gear
+FastDataStacks A fast and flexible platform for high performance applications using FD.io
+Accelerating TCP with TLDK overview of the architecture and implementation of TLDK
+Writing a functional DPDK application from scratch
+PNDA.io Big data platform
+sysbench 1.0: teaching an old dog new tricks
+Cilium - BPF & XDP for containers
+Stateful packet processing with eBPF an implementation of OpenState interface
+When configuration management meet SDN
+eBPF and XDP walkthrough and recent updates
+What do you mean ’SDN’ on traditional routers?
+Opening network access in the Central Office Open Source initiatives addressing new models for a fu…
+Bringing the Semantic Web closer to reality: PostgreSQL as RDF Graph Database
+MyRocks The RocksDB storage engine for MySQL
+Painless MySQL HA, Scalability and Flexibility With Ansible, MHA and ProxySQL
+Introducing gh-ost GitHub's triggerless, painless schema migrations for MySQL
+Inexpensive Datamasking for MySQL with ProxySQL data anonymization for developers
+Optimizing MySQL without SQL or touching my.cnf
+Mix ‘n’ Match Async and Group Replication for Advanced Replication Setups
+Speeding Up Analytical Queries in MariaDB CTE's and Window Functions Highlight
+Autopsy of an automation disaster
+Fine tuning Group Replication for performance
+Honeypot your database And easy method to detect if you've been hacked
+MySQL & Friends Devroom Welcome
+Data Analytics with MySQL, Apache Spark and Apache Drill
+Metrics and an application log Your new best friends
+Optimizing Errors Away
+Unbreakable unit tests
+Citybikes Bike sharing networks around the world
+PHP in the graph
+Group Replication A Journey to the Group Communication Core
+The Proxy Wars - MySQL Router, ProxySQL, MariaDB MaxScale
+Smart card forwarding
+Panopticon A Libre Cross-Platform Disassembler
+Desktop security, keeping the key to the castle safe
+Applying profilers to MySQL From PMP to perf, and why performance_schema is not a replacement in al…
+MyRocks in production at Facebook
+Get the most out of your security logs using syslog-ng
+Instrumenting plugins for Performance Schema
+How to audit, fix (and be merry) with OpenSCAP & Foreman Security & Compliance automation with Fore…
+The PTags Linux Security Module
+Tanker Embrace the relational model
+Is the Linux Desktop less secure than Windows 10? What Gstreamer, Chrome, Tracker and Baloo mean fo…
+TLS Test Framework How to check if your SSL server is standards compliant and client compatible
+Footprinting for security auditors
+Simulation of MITM in PEAP with hostap application of EAP state machines from hostap for MITM simul…
+Transform your monolith into a nice SOA app
+WTF my container just spawned a shell
+Usable Cryptography with José C and command-line JSON Object Signing and Encryption
+OSINT Tools for Security Auditing Open Source Intelligence with python tools
+MSS - Software for planning research aircraft missions
+AF_KTLS - TLS/DTLS Linux kernel module
+Boost up your code with Specifications
+It's time for datetime Painless working with time in python
+rinohtype The Python document processor
+From text logs to extensive automatic monitoring
+Python Winding Itself Around Datacubes How to Access Massive Multi-Dimensional Arrays in a Pythonic…
+The power of duck typing and linear algrebra  How linear algebra and python make a good fit
+Creating a dashboard with Laravel, Vue and Pusher
+Helping Linux and Java Play Well Together
+High performance and scaling techniques in Golang using Go Assembly
+High-performance IoT Using Go and Gobot
+Webpush notifications for Kinto
+Gomobile Android development with Go
+The state of Go What to expect in Go 1.8
+go-git A pure Go implementation of Git
+Go lighting talks Lighting talks about Go
+Panel of European legal entities for Free Software projects
+gobpf - utilizing eBPF from Go
+Reflections on Adjusting Trust: The Mozilla Root Program Tales of running an open and transparent C…
+Shenandoah Why Do We Need Yet Another Garbage Collector
+Open J9 - The Next Free Java VM
+Implementing 'tail -f'
+JDK 9 Outreach - The Awesome Parts
+GridSound : A free HTML5 Digital Audio Workstation (DAW) Pushing the boundaries of the Web Audio API
+Eclipse 4.7 Platform - The new greatness
+Bits, Gates, Traces, and Pins Copyleft and Licensing in Open Hardware
+Patently Prepared Are FOSS Companies Ready to Deal with Patents in the US and Europe?
+Diagnosing Issues in Java Apps using Thermostat and Byteman.
+Challenges updating your code to work with Java 9 Jigsaw
+FOSS and the GDPR Overview of key changes to EU privacy law that FOSS can use to promote individual…
+Experiences in a production environment (Graal)
+The State of OpenJDK
+OpenJDK Governing Board Q&A
+What legal and policy issues concerning FOSS need to be systematically researched?
+Protect your freedom to operate with Open Patents Hacking the patent system.
+Three ideas for the G1 GC (and how to get involved)
+Ruby's Strings and What Java Can Learn From Them
+F as in Freedom Codes of Conduct & Community Guidelines
+Why we need a legal framework to operate a Trusted Service Provider successfully An overview of som…
+Mixed License FOSS Projects  Unintended Consequences, Worked Examples, Best Practices
+Is the GPL a copyright license or a contract under U.S. law?
+How We Talk About Free Software Legal Tools
+Copyleft in Commerce. How GPLv3 keeps Samba relevant in the marketplace
+Don't Send An Engineer To Do A Lawyer's Job A beginners guide to community legal engagement
+Principled free software license enforcement An open source company perspective
+Radio Lockdown Directive Major threat for Free Software on radio devices
+Free/open source software and drones Safety, security and privacy issues
+Make your Corporate CLA easy to use, please!
+Making License Compliance Easy: Step by Open Source Step.
+A discussion of Fedora's Legal state This is why I drink.
+FOSDEM infrastructure review
+Prove with SPARK: No Math, Just Code How to prove key properties of Tetris and run it on ARM Cortex…
+Outlook CalDav Synchronizer The missing link in FOSS Exchange server replacement
+An open Gravimetric Phenotyping system Finding low-cost solutions to continuous plant monitoring fo…
+libuv Cross platform asynchronous i/o
+Supercharge your collaboration with an Open Source Wiki and stop using closed source solutions like…
+GRUB New maintainers, news and future
+Yet Another repoman How We Do CI at oVirt
+Kopano Introduction to Kopano Collaboration Platform
+Energy data what, how, and why
+SOFA - Real-time multi-physics simulation with an emphasis on medical simulation
+Analyze terabytes of OS code with one query How to leverage the code shared on GitHub with ease
+Let's talk about hardware: The POWER of open. How Open POWER is changing the game and why the Free …
+Mailing List, Meet CI Combining Patchwork and Jenkins for fun and profit
+OSIS - Open Student Information System A Belgian university decides to open source their core busin…
+TPM2.0 practical usage Using a firmware TPM 2.0 on an embedded device
+tslib release party state of the touchscreen access library
+64 bit Bare Metal Programming on RPI-3 Your first aarch64 bare metal program
+Interledger - Internetworking for Money Payments & Micropayments to/from Any Currency
+OpenScore - by MuseScore and IMSLP Open-sourcing music with open source software
+Scaling your logging infrastructure using syslog-ng
+Programming Reconfigurable Devices via FPGA Regions & Device Tree Overlays A User View Benchmark on…
+LizardFS - distributed file system made easy A fault tolerant, distributed, parallel and easy to us…
+Adding GNU/Hurd support to GNU Guix and GuixSD Porting Guix and GuixSD to GNU/Hurd
+From pipelines to graphs Escape the tyranny of the shell’s linear pipelines with dgsh
+Success and Failure in Building an Open-Source Software Platform for Autonomous Driving Systems
+Crazyflie and Loco Positioning System News from the Crazyflie universe
+Network Policy Controller in Weave Net Blocking unwanted network traffic in Kubernetes
+Pieter Hintjens In Memoriam For ZeroMQ and all the rest
+Bridging the Gap between Legacy Docs and Modular Content
+User Session Recording for the Enterprise An Open-Source Effort by Red Hat
+Tempesta FW Linux Application Delivery Controller
+RISC-V Open Hardware for Your Open Source Software
+How I survived to a SoC with a terrible Linux BSP Working with jurassic vendor kernels, missing pie…
+Free Software For The Machine
+Bazel How to build at Google scale?
+LoRaWAN for exploring the Internet of Things  Talk Hard: A technical, political, and cultural look …
+Virtuozzo containers, how it works virtuozzo, most known as openvz containers techonlogy
+Continuous Localisation using FOSS tools Building a fast responsive localisation process using open…
+How to write your novel with open source application Introduction to bibisco
+QtPass and opensource project management The road from a 2 day project till inclusion in all distro…
+Continuous Integration at a Distribution Level Shepherding 30.000 packages to never break
+Passbolt Open source password manager for teams
+Learning programming in the XXI century How to say goodbye to "Hello, world"
+Open Source Car Control
+Encryption for the masses with pretty Easy privacy (p≡p) A rough overview
+Libreboot Free your BIOS today!
+The Armadito antivirus project modular, multi-platform & a management console
+The s6 supervision suite A modern alternative to systemd
+What open source and J.K. Rowling have in common Importance of storytelling in open source projects
+From TRL to MRL: Assessing Open Source Project Market Readiness
+Connecting End Users and Developers With the Requirements Bazaar
+Alyvix: Under the hood Visual synthetic monitoring of network applications that work through propri…
+Kernel DLC Metrics, Statistic Analysis and Bug-Patterns
+Datacubes on Steroids with ISO Array SQL Open Source, Open Standards, Open Terabytes
+The Veripeditus AR Game Framework Enabling everyone to freely create Augmented Reality Games
+Adding IEEE 802.15.4 and 6LoWPAN to an Embedded Linux Device
+From zero to first test in your own LAVA laboratory (in less than 30 minutes)
+Hacking with Guile… Or how I stopped worrying and learned to love the REPL
+Loco Positioning: An OpenSource Local Positioning System for robotics Presentation with a demo of a…
+Testing with volcanoes - Fuego+LAVA  Embedded testing going distributed
+Device Tailored Compositors with the QtWayland Compositor Framework
+Learning IoT & coding with HTML5 games Introducing Clouduboy and Happy Code Friends
+What motivates the open source community? - a qualitative exploration of the underlying experiences…
+Firefox: The Puppet Show Automating Firefox with WebDriver using Selenium and GeckoDriver
+Embedding/Maintaining SpiderMonkey in a large scale project
+Don't break the Internet!, Mozilla Copyright Campaign in Europe
+Introduction to A-Frame Build Virtual Reality on the Web
+Diversity User Research and Women in Open Source Becoming a Better Listener and Women in Open Sourc…
+Small languages panel
+Rebooting Firefox Nightly A community building project around the Firefox Nightly Channel
+How I Learned to Stop Worrying and Love Tumbleweed Why everyone should be running a rolling release
+Firefox DevTools Deep Dive
+Future of Guix
+Corrode Tool-aided translation from C to Rust
+Network freedom, live at the REPL!
+Composing system services in GuixSD or how we came to wonder what a "system service" really is
+How Rust is being developed The Rust development dashboard
+Lua API for RTC Services with Kamailio Build scalable VoIP services with Lua
+Discourse development for beginners
+Web Logins after Persona How I solved logins on my small websites
+User interfaces with Guile and their application
+WebRender, the next generation graphics engine by Mozilla research A technical talk about the web r…
+So that was HTTP/2, what's next?
+Writing Open Source Documentation for Open Source Projects How SUSE is documented and what we can l…
+An introduction to functional package management with GNU Guix
+Firefox and WebExtensions
+(Mobile) Web Compatibility Why is important to care about users from different platform. How can yo…
+Workflow management with GNU Guix
+Reproducible packaging and distribution of software with GNU Guix Distributing software with Guix
+Distributions from the view of a package
+Deploying NPM packages with the Nix package manager
+Mes -- Maxwell's Equations of Software An attempt at dissolving [GuixSD's] bootstrap binaries
+Free Software In Europe's Public Sector HOWTO open source in public administration
+Mageia, successes and lessons learned 6 years after forking Retrospective and future plans from the…
+RDO's continuous packaging platform How to continuously package OpenStack (or other things) for Cen…
+Transactional Updates with btrfs
+Natural script writing with Guile The newest step on my path towards the perfect script writing syn…
+Modularity & Generational Core The future of Fedora?
+Building a distro with musl libc Why and how Alpine Linux did it
+Source code Are we not forgetting something?
+Using a generic distro to redefine IoT
+Bundling KDE Where does KDE land in the Snap and Flatpak world?
+Continuous Integration with the Open Build Service
+Electron Solving our cross-platform dreams?
+Lightning talk session Open Document Editors DevRoom 5 minutes each - come to submit until 30 minut…
+Corporate WebDesk Building the next corporate applications
+From Gtk to Qt: An Strange Journey, part 2 The continuation of the original talk from Dirk Hohndel …
+Kube The next generation communication and collaboration client
+Classic Applications in a Confined Ecosystem Using libertine to run deb-packaged, X11 applications …
+Haiku, a desktop you can still learn from No, you didn't steal all our ideas yet ;-)
+Open source behind a web request explaining a web request through open source software
+KDE SlimBook Q&A
+Tackling the LibreOffice update problem Automated updates and update statistics
+Retro desktops for retro computers From 8-bit to Atari, Amiga & friends
+The Office Pokémon GO IV Calculator Games, Fun, and Hacks with OpenOffice/LibreOffice
+LibreOffice and your IDE gbuild, json and other buzzwords
+Cleaning up the spellcheck dictionary And making it faster and more maintainable
+Interoperability regression testing in LibreOffice
+Office Basic Source Code Management OpenOffice/LibreOffice Basic Development with 3rd-Party Editors…
+The Document Foundation Development Dashboard: hands on
+LibreOffice XML Help in your local browser Bringing 2017 to LibreOffice Help
+Containers in Pure Perl
+Introducing LibreOffice SafeMode
+Schema Database Documentation Through Introspection
+Informal Domain Specific Languages in Perl 6
+LibreOffice on Wayland via GTK3
+Web Development and Perl 6
+Perl 5.24, 5.26, and the Future of Perl 5
+Notes from the Trenches Parsing Perl 6 *in* Perl 6
+DIY: Home monitoring with Ruby & Pi
+Integrating LibreOffice Online via WOPI
+Hold my beer and watch this!
+Building a Universe with Perl
+Enhance metafile importers - a restart First steps in re-architecting our various metafile / svg im…
+Extensions Ugly Toupee or Hipster Hairdo?
+Exploiting Concurrency How I stopped worrying and started threading ...
+DrawingLayer - Optimization & Implementation See how we optimized drawinglayer performance with buf…
+Make your LibreOffice extensions and macros rock Defining user interface has never been easier
+Contextual groups in LibreOffice' Notebookbar How to make life easier for beginners
+A People's History of the Ruby Garbage Collector Ruby GC from 1.8 until 2.4 and beyond!
+What the Cell?! Unexpected things happening under the grid.
+JRuby in 2017: Rails 5, Ruby 2.4, Performance We'll survey the work going on to make JRuby more com…
+The Document Foundation Development Dashboard How LibreOffice is being developed
+Simple Number Theory in Perl 6
+LibreOffice Online Debugging
+What makes TruffleRuby run Optcarrot 9 times faster than MRI?
+Docker for Perl[56] People A Ridiculously Short Introduction
+LibreOffice UI Concept A personal, user friendly and flexible interface
+concurrent-ruby modern tools explained
+Perl6 as a First Language
+Highly Surmountable Challenges in Ruby+OMR JIT Compilation
+Changing the Image of Perl
+Leverging Rust to Build a Windows friendly ecosystem for mruby
+Announcements and Lightning talks
+Media Analysis tools How we check media files
+Making Camelia Fly Faster
+Scientific Computing on JRuby
+Modern Fuzzing of Media-processing projects Keeping media processing secure and stable
+10 years of Open Source Innovation in Online Video What's been done, what's next?
+AV1: Status update Progress, expected features and encoding gains
+What's new in GStreamer land The last 2 years and the future
+AES67 Open Media Standard for Pro-Audio Networks
+Welcome to the Ruby Devroom 2017
+Open Source Support for TTML Subtitles Status Quo and Outlook
+AES70 Open Control Standard for Pro-Audio Networks
+Live Streaming with Nginx, RTMP and Kaltura
+High throughput CDR Rating Queues using CGRateS
+QoS Challenges for Real Time Traffic Deployable QoS Using the NEAT System
+Free communications on the desktop The case of Telepathy
+Introducing mediasoup A WebRTC SFU for Node.js
+Jitsi: state of the union What's new in Jitsi and its related projects
+Using XMPP to Connect and secure the world of IoT XMPP backed IoT
+Adding 16-bit Character Support in LLVM
+JsSIP: SIP in your browser
+OpenSIPS - an event-driven SIP routing engine
+Metre Border Guard for XMPP Security Domains
+RTC Analytics with HOMER 6 + Big-Data Export, Analyze and Alert RTC using HOMER and your favorite B…
+Fundraising and Crowdfunding for FreeRTC Helping developers who work on RTC full time
+Asynchronous event/state notifications in the Janus WebRTC server Providing administrators and deve…
+Scalable Asterisk Servers in a Large SIP Infrastructure
+FreeSWITCH, SIP and WebRTC Load Balancing and High Availability FreeSWITCH in Real World
+Conversations in a dual stack world IP and the old IP together - what can go wrong?
+Telepathy-Bell Telepahty Connection Manager for Ring.
+CloudABI for FreeBSD How does it work?
+Security Enhanced LLVM
+My BSD sucks less than yours
+WebRTC - Low barrier to entry. Low barrier to exit?
+WebRTC and speech recognition services
+Open Media devroom wrap-up What's next?
+Real-Time Chat on the Web How to use XMPP and Converse.js to integrate webchat into any website
+Mutation Testing Leaving the Stone Age
+GELIBoot Booting FreeBSD from encrypted disk
+Overview of Upipe modules for broadcast professionals
+LLD from a user's perspective
+Dissecting media file formats with Kaitai Struct
+GlobalISel - LLVM's Latest Instruction Selection Framework
+The challenges and secrets of the realtime world What are the main technologies, frameworks and pro…
+Profile-Guided Optimization in the LDC D compiler Implementation and Benefits
+The distributed systems behind Ring BlockChain and OpenDHT
+Using clang as a Frontend on a Formal Verification Tool
+Real Time Communication Improving Real Time Communication with free software
+GPAC: delivery of VR/360 videos using Tiles
+A different Lua JIT using Eclipse OMR Using the Eclipse OMR JitBuilder to improve Lua performance w…
+Using LNT to track performance
+Creating a LITE transcoding Workflow with OSS Ffmpeg, PHP, NodeJS, Jquery
+Making wearables with NodeMCU
+LuaJIT for AArch64 and MIPS64 platforms Improvements and the status
+Open Media devroom introduction
+Packaging Go in pkgsrc
+LLVM at Red Hat How and where is LLVM used in the Red Hat ecosystem
+Transport Evolution on top of the BSD's A New, Evolutive API and Transport-Layer Architecture for t…
+Quick functional UI sketches with Lua templates and mermaid.js
+Convergent functions and function parameters SPMD semantics for GPU programs
+0xFF Drawing games for a DIY console
+Next Generation of the LuaRocks test suite
+Rapid backend prototyping for a geolocation-based mobile game With OpenResty, Redis and Docker
+openEMSstim Open-source muscle stimulation for interactive experiences & games
+Polymorph A libre game engine based on Ogre3D and Puredata
+Snap! Build Your Own Blocks Interactive visual programming
+LuaWt Lua bindings for a C++ Web Toolkit library
+WebCam based games OpenCV in practice: example for developers and business
+FFDN 5 years of DIY Internet accesss
+[diaspora] The state of diaspora* and the decentralized social world The Federation is alive!
+[freifunk] Access is a human right
+Computer games – not as easy as it looks
+Playing with the lights Control LIFX WiFi-enabled light bulbs
+Drawing based game design
+Escoria, a libre point'n'click framework using Godot Engine "Oh, it looks just like SCUMM!" -- Tim …
+Goal Rush Creating a game with Monogame and other open source software
+Iotivity from devices to cloud How to make IoT ideas to real using FLOSS.
+JerryScript An ultra-lightweight JavaScript engine for the Internet of Things
+Tablexia Cognitive Training for Children with Dyslexia
+Creating GPL'ed multimedia assets
+Can open source open minds? Lessons learned making games about diversity for the IncLudo project
+Does your coffee machine speaks Bocce Teach your IoT thing to speak Modbus and it will not stop tal…
+Living Orb Tangible game console.
+Hero.Coli, learning synthetic biology by playing: an update Open Source, Open Data, Open Science
+Internet Of Things Devroom Opening Overview of the day and Pieter Hintjens in memoriam
+On the way to a FOSS Platform for Cloud Based IoT Solutions
+[cozy] Decentralize & Recentralize on Cozy Learn the real value of your data, using cozy
+Open Smart Grid Platform presentation An Open source IoT platform for large infrastructures
+ADEM Collaborative air pollution monitoring
+Warp10: A new paradigm for Time Series analysis
+Yocto based IoT device
+Project Lighthouse A low-cost device to help blind people live independently
+Building distributed systems with Msgflo Flow-based-programming over message queues
+6LoWPAN in picoTCP And how to support new Link Layer types
+guifi.net An Open, Libre and Neutral Telecommunications Network Based in Commons
+[caliopen] Privacy index metrics in digital communication Showing to Caliopen's users how public th…
+Scientific MicroPython for Microcontrollers and IoT IoT programming with Python
+Introducing kernel-agnostic Genode executables
+libre.sh helps you to host your FLOSS Get up and running with libre.sh in 20mins \o/
+Frosted Embedded POSIX OS A free POSIX OS for Cortex-M embedded systems
+Redox OS A safety-first microkernel developed in Rust
+Disaster Recovery management with ReaR and DRLM DRLM Workshop
+HelenOS in the year of the fire monkey
+Let's de-Google-ify the Internet FLOSS: Positive Alternatives to Big-Data centralized Services
+The future of decentralised communication, identity and reputation with Matrix
+The Internet Cube / La Brique Internet
+Making the GAFAs obsolete Decentralizing the servers with the personal cloud approach. Introduction…
+[nextcloud] Cloud Federation sync, share & collaborate in a decentralized cloud
+A kernel in a library Genode's custom kernel approach
+Puffin Free Webapp Hosting for Average Users
+OpenWISP2 a self hosted solution to control OpenWRT/LEDE devices
+Deterministic replay support for Genode components Performance penalty and challenges
+The VFS paradigm from the perspective of a component OS
+Virtualization on the Hurd
+Privacy in practice for self hosting
+Developers looking for designers? Pitch your project! [Group]
+TCP/IP for MINIX, the good, the bad, the ugly
+FreedomBox, liberty inside the cloud. Run your own life. Host your freedom. Connect with people.
+YunoHost
+Secure Microkernel for Deeply Embedded Devices
+Incremental Backups Good things come in small packages!
+First steps with Relax-and-Recover (ReaR) Understand how ReaR works by running it yourself.
+Opening up accessible design
+Bareos - Backup Archiving REcovery Open Sourced - Overview
+Interacting with Bareos Using Bareos Console commands to automate tasks
+Beyond that fancy logo Reaping the full benefits of design contributions
+Accessibility in Open Source Accessibility in Open Source
+Finding your users’ needs Researching motivations, activities and problems of your users
+When Cultures Clash Integrating UX with FOSS Development
+Designing MuseScore My experience with doing UX design with local volunteers
+Design feedback in Open Source
+Why should we take an interest in Open Design? Thoughts and initiatives to open the creative process
+Designing in the open - The UX of UX How does this thing called open source design work, or doesn't…
+Future ideas for ReaR, DRLM, and Bareos Talk with ReaR, DRLM, and Bareos users about what they like…
+Success Stories from the OSD community
+Architectural font digitisiation and design Typographic pipeline with Graphviz, Inkscape and Fontfo…
+SDR Panel: Which are the top 3 challenges for free software radio? An interactive session. Let's ta…
+Get designers involved in your open source project! 💻 + 🎨 = 🙂 how we do it at Nextcloud
+Relax-and-Recover Automated Testing
+Interviews as user research How I built a public transportation UI using interviews
+Welcoming and Introduction
+Promoting your FOSS project to university student designers
+Mozilla Open Design What we learned in 2016
+Our Open Source Design collective [Group] + group photo! :)
+Introduction to  Bareos Backup Python Plugins How to extend Bareos with Plugins written in Python
+Digital hardware design What can we learn from software development – and what not?
+Integrated Spice Simulation with Kicad
+GNOME Recipe App From Thinking On to Acting On
+Tutorial: my first hardware design Basic course to create a simple FPGA design using OSS tools
+Essentials about Disaster Recovery with Relax-and-Recover A generic introduction for beginners
+FPGAs in SDR -- Why, when, and how to use them (with RFNoC) Taming digital hardware for software ra…
+KiCad Project Status
+Kitnic.it and 1-click BOM Making web-enabled EDA tools using Javascript
+Footwork PCB designs as code and EDA as code synthesis
+SpinalHDL An alternative hardware description langage presentation
+GNU Radio Project Intro & Update manipulating one of the four fundamental forces of the universe
+Diving into the KiCad source code
+Ruby bindings for Libgerbv Display and edit Gerber RS247X files the easy way
+Understanding JESD204B High-speed inter-device data transfers for SDR
+QUCS project update Overview, status and ongoing developments.
+Networked-Signal Processing in OAI
+FLOSS Tools for High Level Synthesis Integrating the FPGA into the Operating System
+gnucap -- recent work and directions
+Welcome Word Backup and Disaster Recovery devroom Introduction and welcome word
+Overview of gr-inspector A Signal Analysis Toolbox for GNU Radio
+Virtual multi-antenna arrays for estimating the bearing of radio transmitters
+Mutants, tests and zombies aka mutation testing with Python and a pinch of Ruby
+Testing web applications with traffic control in containers
+Monitoring the ionosphere altitude variation with a sound card software defined radio processing of…
+Tensor Processing and Machine Learning for Signal Processing Functional Algorithm Definition and Co…
+From 0 to 6 GHz in 30 minutes: Bootstrapping your SDR experience Start from scratch today, hack the…
+Receiving Wireless Mobile Traffic Lights
+'Open Notices' - alpha A global platform for official notices (planning, licensing etc)
+Open Source Map Rendering with Mapbox GL Native
+SDR, Ham Radio and the Debian Hams project Turn-key solutions for hams using Debian packages
+GPU-Enabled Polyphase Filterbanks Everyday I'm Shuffling
+SatNOGS An SDR-based Satellite Networked Open Ground Station
+Intro to semantic annotations for geographic web maps in HTML Pulling Schema.org, Dublin Core, Micr…
+Xorn: A new approach to scripting for gEDA/gaf
+airspace-v.com international hangar flying
+Google Summer of Code 2016 @OSGeo
+Find the best place in the city Using City Focus, a web based 2D/3D GIS
+Khartis - How to simply create thematic maps in three steps
+Big Spatio-Temporal Datacubes on Steroids ...and Standards
+Creating georeferenced digital elevation models from unmanned aerial vehicle images
+Easily creating location-based applications with OSMAlchemy Learn how to create (web) applications …
+Graphs at scale Scale out Neo4j using Apache Mesos and DC/OS
+German weather data with R
+Working with spatial data in Go
+(Cypher)-[:ON]-❯(ApacheFlink)❮-[:USING]-(Gradoop)
+Graph Analytics on Massively Parallel Processing Databases
+What to expect from MySQL 8.0?
+Geography on Boost.Geometry The Earth is not flat (but it's not round either)
+Test your docs
+GitLab CI: (almost) effortless Open Source CI an introduction at how testing with gitlab CI is adva…
+Using graph databases in popular open source CMSs Neo4J and Drupal, potential application areas and…
+Using Containers for Building and Testing Docker, Kubernetes and Mesos
+How to break the OpenStreetMap Pros and pitfalls of editing OSM data offline
+From Shopping Baskets to Structural Patterns
+Incremental Graph Queries with openCypher
+Introduction to Boost.Geometry
+Future of Mobile Automation Testing, Appium steals it Mobile Testing Future
+Intro to Graph databases
+Designing a graph library for JavaScript
+Twitter Streaming Graph with Gephi Visualising stream of Data
+Graph Processing on SAP HANA, express edition
+Declarative Pipelines in Jenkins A new way to define your pipelines in Jenkins
+Infer A static analyzer for catching bugs before you ship
+Network Traffic Analysis of Hadoop Clusters Understand the common usage patterns and identify typic…
+Do You Want to Retry? Handling and Testing Network Failures
+Into Geospatial Devroom
+Can strace make you fail? strace syscall fault injection
+Ethics in Network Measurements  Moral obligations of engineers, scientists and hackers, based on ex…
+Portfolio of optimized cryptographic functions based on Keccak
+Portability of containers across diverse HPC resources with Singularity
+Purely Functional GPU Programming with Futhark
+Postgres MPP Data Warehousing joins Hadoop ecosystem Making two elephants dance
+The Making of a Secure Open Source Password Keeper From the Electronics to the High Level Software.…
+Kafka Streams and Protobuf stream processing at trivago
+Encrypting Matrix Building a universal end-to-end encrypted communication ecosystem with Matrix and…
+BigPetStore on Spark and Flink Implementing use cases on unified Big Data engines
+The birth of HPC Cuba How supercomputing is being made available to all Cuban researchers using FOSS
+Putting Your Jobs Under the Microscope using OGRT
+Optimized and reproducible HPC Software deployment with free software and GNU Guix
+Securing Automated Decryption New Cryptography and Techniques
+WireGuard: Next Generation Secure Kernel Network Tunnel Cutting edge crypto, shrewd kernel design, …
+Quantum computing and post-quantum cryptography a gentle overview
+Reproducible HPC Software Installation on Cray Systems with EasyBuild
+Not less, Not more. Exactly Once Large-Scale Stream Processing in Action.
+Intelligently Collecting Data at the Edge Intro to Apache NiFi and MiNiFi
+Democratizing Deep Learning with Tensorflow on Hops Hadoop
+You know what's cool? Running on billions of devices curl from A to Z
+Making Wiki Gardening Tasks Easier Using Big Data and NLP
+Using Linux in Air Traffic Control Hardware and Operating System Platforms
+It's time to SAFE the Internet Introducing SAFE, the decentralised privacy-first storage and commun…
+A field guide to the machine learning zoo
+Dask - extending Python data tools for parallel and distributed computing
+Why you should care about SQL for big data and how Apache Calcite can help #SQL4NoSQL
+Using BigBench to compare Hive and Spark versions and features BigBench in Hive and Spark
+All Ages: How to Build a Movement
+Software Heritage Preserving the Free Software Commons
+Kubernetes on the road to GIFEE
+Quickstart Big Data
+The Marriage of Cloud, HPC and Containers
+Understanding The Complexity of Copyleft Defense After 25 Years of GPL Enforcement, Is Copyleft Suc…
+Everything You Always Wanted to Know About "Hello, World"* (*But Were Afraid To Ask)
+Extending Spark Machine Learning Pipelines Going beyond wordcount with Spark ML
+CloudABI Easily develop sandboxed apps for UNIX
+Closing
+Closing FOSDEM 2017
+Opening
+Resurrecting dinosaurs, what can possibly go wrong? How Containerised Applications could eat our us…
+Welcome to FOSDEM 2017
+New GPIO interface for linux user space GPIO character device API and libgpiod
+How Carton, Docker, and CircleCI Saved my Sanity Or how I stopped using RPMs and learned to love Do…
+Automate oVirt Disaster Recovery Solution With Ansible See How Ansible Makes oVirt Recovery A Piece…
+Researchers and Software Licenses The story of what we are doing at the German Aerospace Center (DL…
+Gutenberg to Google Fonts: the sordid history of typeface licensing issues Legal issues for project…
+Let's talk database optimizers
+Histogram support in MySQL 8.0
+What community can learn from marketing Community isn't marketing but there are things that develop…
+Managing build infrastructure of a Debian derivative
+Instant ADD COLUMN for InnoDB in MariaDB 10.3+  On the way to instant ALTER TABLE of failure-free r…
+Experiences with testing dev MySQL versions and why it's good for you
+Documentation convergence project for LibreOffice Make just one documentation for all
+The future of the internet from a Mozilla perspective Brought to you by Mozilla's executive chairwo…
+Kodi and Embedded Linux Moving Towards Common Windowing and Video Acceleration
+Mirai and Computer Vision Security and function of connected webcams
+Efficient Graph Algorithms in Neo4j
+The Future of Copyleft: Data and Theory
+FOSS Platform for Cloud Based IoT Solutions Eclipse-IOT FOSS Platform for Cloud IoT
+Template toolkit translations
+Releasing to CPAN and GitHub
+Welcome to the Perl devroom
+IoT DevRoom Opening Overview of the day
+Securing Embedded Systems using Virtualization
+Perl in the Physics Lab
+BaseDocumenter LibreOffice Base applications: how to document them, how to manage and analyze impac…
+ProxySQL - GTID Consistent Reads Adaptive query routing based on GTID tracking
+Stupid Pluto Tricks Real world things you can do with a PlutoSDR
+MyRocks roadmaps and production deployment at Facebook
+Introduction to Flatpak
+Why We’re excited about MySQL 8
+Proposal for better font handling in LibreOffice
+Keys to deploy affordable virtual desktops with IsardVDI VDI solution from scratch optimizing all c…
+Kernel Graphics Development on Remote Machines Accessing machines remotely with Open Source tools
+BYOR: Bring-your-own-radio hacking session Bring your device, show us what it can do!
+Introducing BuildStream A distribution agnostic build tool
+Flatpak and your distribution
+MySQL 8.0 Performance: InnoDB Re-Design
+Capture the GDPR with Identity management Crafting Identity management tool to handle GDPR requirem…
+Recapping DARPA's First Big Hackfest
+... like real computers! Making distributions work on single board computers
+diskimage-builder: Building Linux Images for Cloud / Virtualization / Container
+Rustarm AKA A project looking at Rust for Embedded Systems Rust on embedded platforms
+Adding support for a mouse in libratbag
+Gnuk Token and GnuPG scdaemon
+Hacking the JVM from Java
+Automating Secure Boot testing
+Next Generation Config Mgmt: Reactive Systems
+Surviving in an Open Source Niche: the Pythran case a compiler for scientific kernels written in Py…
+Understanding 26 U.S.C. § 501, and Organizational Governance ... and why understanding all this mat…
+Handling Billions Of Edges in a Graph Database
+C++ Code Generation with GRC
+NFV a' la VDE way
+Cypher: An evolving query language for property graphs A discussion of new extensions to Cypher
+Re-structuring a giant, ancient code-base for new platforms Making LibreOffice work well everywhere.
+Sustainability of Open Source in International Development A new approach from the United Nations F…
+Adding performance counters to htop
+Component Sourcing for Design and Manufacturing in Shenzhen An augmentation of Bunnie Huang's "Guid…
+Community & Business Two worlds, one galaxy
+Improving the SecureDrop system architecture Good useability in a high security environment
+Cockpit: A Linux Sysadmin Session in your Browser
+The Invisible Internet Project An overview and guide to the technology
+Building RT Linux distribution with Yocto
+So you think you can validate email addresses A journey down RFC5321
+Wrap it Up! Packaging from Pots to Software
+Viva, the NoSQL Postgres ! Jsonb history and roadmap
+Are distributions still relevant?
+Emitter: Scalable, fast and secure pub/sub in Go Scalable and real-time networking for IoT, web app…
+Regular Expression Derivatives in Python
+Optimizing Software Defined Storage for the Age of Flash
+The Computer Science behind a modern distributed data store
+Moving PCI emulation inside of Xen Reasons and implementation of a PCI emulation layer inside of Xen
+Gnucap, and analog and mixed signal simulation
+How to keep your embedded Linux up and running? Paint Your L[inux|awn] Green
+Logging IoT Know what your IoT devices are doing
+Facing the Challenges of Updating Complex Systems Putting it all together
+JVM Futures
+PostgreSQL Replication in 2018
+Cyborg Teams Training machines to be Open Source contributors
+Keeping It Real (Time) Real-Time Support in OpenStack
+Graal: How to use the new JVM JIT compiler in real life
+Top Ten Metrics for Evaluating your Garbage Collector
+G-CORE: The LDBC Graph Query Language Proposal
+People can't care when they don't know Improving how major sites communicate licensing information
+Wayland client basics How to natively speak Wayland in your application, from the bottom up
+Analzying Blockchain transactions in Apache Spark
+A Journey through Upstream Atomic KMS to achieve DP compliance Black Screens and how to prevent the…
+Graphic design tools for Open Source FPGAs Learn about the Apio and Icestudio projects
+Developing an Open Source Hardware Laptop with KiCAD Using FOSS tools for designing an OSHW laptop
+Funny digital electronics with Open Source FPGAs
+Connecting the Edge Project Flogo as Ultra-lightweight IoT Apps framework
+An Open Platform for Collecting data for OpenSeaMap The Proposed Platform Comprises Open Soft- & Ha…
+Improvements around document signatures and encryption Signing and encrypting with OpenPGP, adding …
+FOSS/H EDA tools for SPICE modeling
+Dialog tunneling in LibreOffice Online
+FOSSology - OSS Project for License Compliance
+Ligato: a platform for development of cloud-native VNFs
+Calc: The challenges of scalable arithmetic how threading can be challenging
+Etienne Saliez - A look at “Natural Intelligence” IMMM Interactive Medical Mind Maps
+Peeling onions: understanding and using the Tor network
+Barometer: Taking the pressure off of assurance and resource contention scenarios for NFVI
+Mozilla Open Source Support (MOSS) How Mozilla is helping open source projects like yours
+Crowdsupply EOMA68 Progress Report A summary of the past year working on fulfilling the pledges fro…
+MySQL: Scaling & High Availability Production experience for the last decade
+Easy GnuPG Shell scripts to make GnuPG more accessible and easier to use
+Next Generation Internet Initiative An opportunity to fix the internet
+Igniting the Open Hardware Ecosystem with RISC-V SiFive's Freedom U500 is the World's First Linux-c…
+4 Perl web services I wrote and that you may like
+Networking deepdive From net.Dial to gRPC
+The emPeerTube strikes back Let's decentralize YouTube !
+A tour with Firefox' developer tools
+Class Metadata: A User Guide
+Bugmark a futures market for software bugs and tasks, on the blockchain
+OpenADx – xcelerate your Automated Driving development Leveraging open collaboration and open sourc…
+The current EU copyright reform proposal: the end of FLOSS in Europe?
+Tomorrow's JavaScript Debugger How to shape your own JS debugger in 2018
+An optimized GFDM software implementation for low-latency
+IoT.js - A JavaScript platform for the Internet of Things
+Physics, Math, and SDR Recognize, measure, and correct the inevitable
+Photon Performance How We Made Firefox Faster
+Fundraising and Crowdfunding for FreeRTC Community discussion about fundraising
+Moving from policy to action:  Learning to live by our Community Participation Guidelines
+Making a browser fast The story of Firefox Quantum
+Digital Archaeology Maintaining our digital heritage
+Performance Analysis and Troubleshooting Methodologies for Databases
+Google’s approach to distributed systems observability for Go
+WebExtensions API status after Firefox 57
+Kamailio - Pick Your SIP Routing Scripting Language
+SIP based group chat with Linphone  A discussion on how Linphone implements  SIP RFCs to achieve te…
+Starviewer: FOSS DICOM Medical Imaging Software Over 10 years fulfilling the daily needs of clinici…
+Asterisk Project: Do I see video in the future?
+aiosip: the efficient swiss-army knife of SIP
+OpenDHT: make your project distributed Use cases, new and upcoming features
+Using CGRateS as online Diameter/Radius AAA Server
+Debugging A Live Gluster File System Using .meta Directory
+Automating style guide documentation How we at Zalando Retail Dept automated our Styleguide & sourc…
+PostgreSQL -- A Crash Course
+Too young to rock'n'roll (and to contribute) Issues with minors (children) contributing to FOSS pro…
+Outsourcing Source Code Distribution Requirements
+A lion, a head, and a dash of YAML Extending Sphinx to automate your documentation
+Mallard, Pintail, and other duck topics topic-oriented help at the GNOME project
+How to build autonomous robot for less than 2K€ Build a robot doing Simultaneous Localisation And M…
+Highly Available Foreman A presentation about Highly Available Foreman including common pitfalls an…
+Recycle Parsers With Grammar::Common in Perl 6
+Terraform is maturing problems we've seen in puppet and their solutions
+A decade of config surgery with Augeas
+Using Cryptographic Hardware
+freeIPA installation using Ansible Description and examples of freeIPA client and server installati…
+Free your Weather Station! War Stories from hacking Weather Stations
+Identity governance and data protection with midPoint
+Measuring security and privacy on the Web The idea and use of PrivacyScore.org
+Package Management Unites Us All
+A Bug in Your Ear Patching the People Side
+Cooperative Communities Do we really have to set up a new community for every cause?
+Tutorial: my first FPGA design Basic course to create a simple FPGA design using OSS tools
+LibreOffice QA - One Year Overview What have happened between FOSDEM17 and FOSDEM18
+AV1 Codec Update
+Current meta of video compression and probable futures ...or how to hammer things until they work b…
+RAWcooked Compress your DPX and revert without losing any metadata
+GPAC: Support for High Efficiency Image Format (HEIF)
+The path to Data-plane micro-services Software defined network functions are changing!
+Handling media - the RESTful approach How we integrated media content in textual API
+Open Food Facts: the wikipedia of food products What if you could freely analyse all the food and c…
+Why I forked my own project and my own company ownCloud to Nextcloud
+How compilers affect dependency resolution in Spack
+Ceph & ELK Use the power of the ELK stack to know more about your Ceph Cluster!
+Finding a home for docs How to choose the right "path" for documentation in open source projects
+Moby Project and Docker Inc — Balancing community and corporate needs
+Reasons to mitigate from NFSV3 to NFSV4/4.1
+Introduction to Swift Object Storage Understanding the architecture and use cases
+Package management over Tor
+DRLM in Action! GNU/Linux Disaster Recovery, the open source way
+GRUB upstream and distros cooperation
+It's a Trie... it's a Graph... it's a Traph! Designing an on-file multi-level graph index for the H…
+How to backup Ceph at scale
+The UoC Radio Station Project Technical overview of an FM radio station based on open source and DIY
+Hairy Security the many threats to a Java web app
+Graphics Performance Analysis with FrameRetrace A Responsive UI for ApiTrace
+Reimagining EDSAC in open source An valve computer reimplemented using FPGAs, Arduinos, 3D printing…
+Kubernetes load balancing for virtual machines (Pods)
+Piece of cake - testing remote embedded devices made easy using open-hardware MuxPi
+Making Linux Security Modules available to Containers Stacking and Namespacing the LSM
+Programming UEFI for dummies What I have learned while tweaking FreePascal to output UEFI binaries
+Analyzing developers network in a community
+The State of Containers in Scientific Computing
+Kubernetes Security Best Practices
+You want a Clean Desktop OS? Containerize it
+Image capture on embedded linux systems
+Welcome Introduction to the containers devroom
+ARM64 + FPGA and more: Linux on the Xilinx ZynqMP Opportunities and challenges from a powerful and …
+Implementing state-of-the-art U-Boot port, 2018 edition How to port U-Boot to a new system using be…
+Turning physical systems into containers Migrating to system containers
+Introduction to LXD clustering Multi-node deployments with one big virtual LXD
+Advocating For FOSS Inside Companies
+Network Automation Journey  A systems engineer NetOps perspective
+Comparative Law of Licenses and Contracts in the US, UK and EU
+Unix? Windows? Gentoo! POSIX? Win32? Native Portability to the max!
+Package Management Panel Discussion  Future of Package Management
+Testing for testing Using CI in the classroom
+Inside Monero The world's first fungible cryptocurrency
+Software necromancy with Perl
+Linux as an SPI Slave Adding SPI slave support to Linux
+LLVM, Rust, and Debugging
+How to cross-compile with LLVM based tools
+Heterogeneous Computing with D Using the PTX and SPIR-V targets with a system programming language
+Turning On the Lights with Home Assistant and MQTT
+Home automation - Not as simple as you think
+ZX Spectrum in the New Millenium Upgrading ROM Cartridge to 512KB
+Tizen:RT A lightweight RTOS platform for low-end IoT devices
+The half rolling repository model The golden intersection for desktop users?
+The GNU Radio runtime Reinventing a very fast wheel
+Claim Space, the Libre Way, using SDRs
+Testing in Rust A Primer in Testing and Mocking
+MySQL Test Framework for Support and Bugs Work
+The RTP bleed and what can we do?
+webPh.one - connect community cellular networks using WebRTC and PWA Open Source , WebRTC and Web t…
+Data integrity protection with cryptsetup tools what is the Linux dm-integrity module and why we ex…
+MySQL InnoDB Cluster MySQL HA Made Easy!
+Urban places as nodes of a decentralized Internet The MAZI toolkit and the Openki.net platform
+Contributopia De-google-ifying is not enough
+Security Theatre The (mostly) unknown OSI Layer 8
+Perceval: Software Project Data at Your Will OSS development tools data extraction
+Linux Test Project introduction
+Making the web faster with the JavaScript Binary AST
+The Chromium project's Way to Wayland
+Componolit - a component-based open-source platform for trustworthy mobile devices Deprivileging th…
+The AMD Linux graphics stack, 2018 edition
+DWARF Pieces And Other DWARF Location Woes
+Testing and Automation in the Era of Containers (with Go)
+Beyond the screen WebXR: when immersive content enters the Web
+Debug your build by tracing and reversing stracing your build from sources to binaries
+Java in a World of Containers
+GStreamer for tiny devices Making GStreamer small
+horizon - a new star on the EDA sky
+Your Open Source Community Metrics Should be Tracking More than Code
+Shaders in radeonsi an update on dynamic linking and NIR
+Infinity
+Valgrind's Memcheck tool vs Optimising Compilers Keeping the false positive rate under control
+Debugging realtime application with Ftrace
+gdb tools: duel and @PrettyPrinter
+strace: new features
+Rust versus DWARF versus LLVM
+DTrace for Linux
+Status of the Apache ODF Toolkit (incubating)
+Go Lightning Talks Come speak!
+Antipatterns in OpenOffice Code How can we ensure better Code
+Kodi v18 features and improvements What we've been busy with
+Accessibility 101 (not only) for LibreOffice developers
+Lightning talk session Come and tell us your most recent hack - in 5 mins!
+Computer Vision Using Go And OpenCV
+LO URI 101
+EPUB export in LibreOffice Writer
+The State of Go What's new in Go 1.10
+Good things come to those who wait - BorderFrames and WriterGraphics Armin will hold this talk
+Terra Bruciata where bugs cannot survive
+DNA sequencing performance in Go, C++, and Java
+Upspin and a future of the Internet My vision of Rob Pike's Upspin as a basis for a decentralized I…
+Dep Deep Dive!
+ONAP – A road to network automation
+LitOps: literature-as-software Briging DevOps culture to the creation and production of books
+(Yet another) passive RADAR using DVB-T receiver and SDR.
+The Open Decision Framework How to make everybody happy
+Privacy aware city navigation with CityZen app The free open source app that let's you explore your…
+Device Assignment for VMs in Kubernetes
+Building OSM based web app from scratch How to find the way through the open source jungle
+Whisper and Swarm Protocol for RTC Decentralised, Distributed and Deniable, Communication.
+Pronto Raster: A C++ library for Map Algebra
+Teleport: Local filesharing app
+Mapping FOSDEM for accessibility
+Compiler-assisted Security Enhancement
+Docs like code in Drupal Introducing Open DevPortal, an open source CMS based documentation tool
+What's new in GStreamer?
+FOSDEM Infrastructure Review
+File access-control per container with Landlock
+Vectors Meet Virtualization challenges from our new data processing overlords
+Live Block Device Operations in QEMU
+Build your own Skype... in the browser A background to WebRTC
+Writing a Janus plugin in Lua C can be a scary world, let us come to the rescue!
+The case for interface{} When and how to use empty interface
+Perl in Computer Music
+Using KVM to sandbox firmwares from the Linux Kernel or: How I learned to stop worrying and love EF…
+Introduction to LLVM Building simple program analysis tools and instrumentation
+DocBook Documentation at SUSE Automatically Ensuring Quality of SUSE Documentation
+State of the rkt container runtime and its Kubernetes integration A look at the progress of rkt and…
+Public money, public code, the Italian way Hacking Italian Administrations to get to the code (in a…
+LTTng: The road to container awareness Kernel and userspace tracing in a containerized world
+Optimized container live-migration Incremental live-migration of LXD system containers with CRIU
+O’PAVES: An open platform for autonomous vehicle tinkerers
+Test your API docs! It's tested or it's broken
+Artificial intelligence dealing with the right to be forgotten
+Writing REST APIs with OpenAPI and Swagger Ada
+Mainline Linux on Motorola Droid 4
+Cultural interpretations of Design and Openness
+Self-host your visual assets with Free Software Introducing Identihub
+LinuxBoot: Linux as Firmware Replace most of your firmware with Linux
+Interface Animation from the Future
+Pitch your project Present your FOSS project to designers and get them to contribute
+Thunderbolt 3 and Linux
+The case against "It just works" or how to avoid #idiocracy Design, education, politics and fake ne…
+GRASS GIS in the sky GRASS GIS as high-performance remote sensing toolbox
+Rendering map data with Mapnik and Python
+Bicycle-sharing stations: profiling and availability prediction
+Spatial Support in MySQL 8.0
+Retro-uC An open source microcontroller with retro instruction sets
+GeoPandas: easy, fast and scalable geospatial analysis in Python
+LoRa Reverse Engineering and AES EM Side-Channel Attacks using SDR
+Open source Big Geospatial Data analytics
+Ceph management with openATTIC
+LizardFS - a year in development
+Literate Programming meets LLVM Passes
+Building Rock Climbing Maps with OpenStreetMap
+Developing software on ORIC microcomputers OSDK, Oricutron & friends
+Running Android on the Mainline Graphics Stack
+TiKV - building a distributed key-value store with Rust A transactional key-value store powered by …
+TLS for MySQL at large scale
+Sancus 2.0: Open-Source Trusted Computing for the IoT
+Ring as a free universal distributed communication platform. The state of the project in 2018.
+Get your decentralized project some EU funding EU calls free software developers for "Future Hyper-…
+Real Time Clustering with OpenSIPS Nodes of a feather gossip together
+Snabb - A toolkit for user-space networking
+SatNOGS: Crowd-sourced satellite operations Satellite Open Source Ground Station Network
+Your Build in a Datacenter Remote Caching and Execution in Bazel
+Cypher for Apache Spark
+Class Data Sharing Sharing Economy in the HotSpot VM
+Industrialisation of applications build in embedded environment How to build AGL (Automotive Grade …
+JVM startup: why it matters to the new world order
+Fleet Commander: The efficient way of managing the Desktop profiles of your fleet! A brief descript…
+SaMBa-AD, it works stories of battles fought and won
+Rust On L4Re Safe Language Meets Safe Microkernel
+OpenMetrics - an industry standard for metrics Standing on the shoulders of titans
+Leveraging Software Defined Network for virtualization
+QEMU in UEFI
+Firefox: How to ship quality software 8000 new patches, a release every 6 weeks, how Mozilla does i…
+Intel GFX CI and IGT Motivation, what services we provide, and how do we integrate with development?
+The package bazaars and the cathedrals   Compare and contrast distro and app package and dependency…
+Why hardware and operating system engineers need to talk
+Designing PCBs with code Designing circuits with code instead of CAD
+Microkernels in the Era of Data-Centric Computing
+The open source EDA tool chain for the Chips4Makers project Is an ASIC made with fully open source …
+Towards capabilities in HelenOS The elephant in the room
+Package quality assurance
+Meet purl: a "mostly" universal software package URL that purrs. Or how to indentify & locate softw…
+Making the Ada_Drivers_Library: Embedded Programming with Ada
+Lightning talks
+DWARF5 and GNU extensions New ways to go from binary to source
+Blue elephant on-demand:  Postgres + Kubernetes
+SRv6 Network Programming on FD.io VPP and Linux
+An update on VLC and the VideoLAN community VLC 4.0, VLC.js, VLC-VR?
+The challenges of XDP hardware offload
+Maintaining accessibility through testing?
+LibreOffice for Haiku Port status
+Update on GStreamer for Embedded Devices
+Google’s approach to distributed systems observability for Go
+Welcome
+netmdev: mediated net_device Clean native userland access to net_devices from VPP, ODP, DPDK...
+Making electronics How to assemble open source electronics projects
+Introduction into the ppci project
+GASdotto: a platform for ethical purchasing Matching freesoftware with ethical economy
+War Stories from the Automotive FLOSS Front fun and pain doing FLOSS in the car
+Hidden Gems in Draw/Impress Part 2 Functionalities you didn‘t even know that you might need or did …
+Container Attached Storage (CAS) with OpenEBS A different approach to container storage
+LizardFS and OpenNebula, a petabyte cloud the simple way How to move OpenNebula into the Petabyte s…
+Spawny A different approach on logging in
+Distributed File Storage in Multi-Tenant Clouds using CephFS
+GStreamer & Rust Fast, safe and productive multimedia software
+The Fabulous Destiny of 0000000200000008000000BB
+Fast Packet Processing in Linux with AF_XDP
+Using TPM 2.0 As a Secure Keystore on your Laptop It's not as difficult as you think!
+ARB_gl_spirv: bringing SPIR-V to Mesa OpenGL Bringing SPIR-V to Mesa OpenGL
+Drive your NAND within Linux Forget the word "nightmare"
+Migrating code with SmaCC
+Unleashing the Power of Unikernels with Unikraft
+JavaParser: where should we head? How to generate, transform, analyze, refactor Java code
+CryptPad Encrypted collaborative editing without trusting the server
+Rusty robots Programming a self-balancing robot in Rust
+Tree-sitter A new parsing system for programming tools
+Painless Puppet Providers
+The RED Method: How To Instrument Your Services.
+Every subway network in the world
+Easily Secure Your Front and Back End app with Keycloak
+Technical Writing for Non-Writers
+Presenting the Sympa Mailing List Manager and the new Sympatic CPAN module
+Distributing OS Images with casync
+FreeBSD : pkg provides A plugin for querying which package provides a particular file
+A slightly different nesting: KVM on Hyper-V
+Anonymous Whistleblowing with SecureDrop
+The Generic Data Distribution System of the Retroshare Network An attempt to solve the problem of p…
+Booting it successfully for the first time with mainline
+Finding your way through the QEMU parameter jungle
+Anatomy of the OpenOffice localization process And how to improve it in future
+Exploring container image distribution with casync Experiments with the Content-Addressable Data Sy…
+Everything you need to know about containers security Linux Containers and Docker security solutions
+How to build and run OCI containers A shallow dive on the OCI container configuration and an overvi…
+Organizer's Panel
+DIY Java Static Analysis Presenting the internals of SonarJava : a static analyzer for Java written…
+Babelfish: a universal code parser for source code analysis
+Cumin: Flexible and Reliable Automation for the Fleet Real life examples from the Wikimedia Foundat…
+So we have free web fonts; now what? Open-source fonts dominate the web, but not print or embedded …
+Our Open Source Design collective and group photo
+Improving GitLab's Navigation and Design System How we approached and strengthened our commitment t…
+LLVM @RaincodeLabs Current and future uses of LLVM in Raincode Labs products
+Connecting LLVM with a WCET tool
+Icon Themes Reusable icon variables and mappings for customizable user interfaces
+Game development for the ColecoVision and Sega 8-bit systems Developing for Z80-based video game sy…
+Welcome & Chatting
+Exploiting modern microarchitectures Meltdown, Spectre, and other hardware attacks
+OSS-7: an opensource DASH7 stack When active RFID meets IoT and how to use DASH7 to build flexible …
+Join the FREEWAT family FREEWAT (FREE and open source software tools for WATer resource management)
+Geographically distributed Swift clusters
+Accessing your Mbed device from anywhere using Pagekite How to create a Mbed library for Pagekite
+DragonFFI Foreign Function Interface and JIT using Clang/LLVM
+Efficient implementation of a spectrum scanner on a software-defined radio platform
+Rust memory management A short intro
+Rust - embedding WebAssembly for scripting  WebAssembly in non-Javascript environments
+Developing applications with Swift as Storage System Learn about the API features to power up your …
+Introducing rust-av A pure-Rust approach to multimedia
+Why you should take a look at Rust? Insights into a modern, safe, fast language
+Multitasking on Cortex-M class MCUs A deep-dive into the Chromium-EC OS
+The story of UPSat Building the first open source software and hardware satellite
+Easy::jit: just-in-time compilation for C++
+CephFS Gateways Distributed Filesystem Access via NFS and Samba
+Reaching const evaluation singularity An introduction into miri and Rust's const evaluation
+Demystifying Rust parsing Language parsing and automatic binding generation
+Servers can't be trusted, and thanks to tamper-proof journals EteSync doesn't need to!
+GrayLog for Java developers
+The future of Sympa from mailing lists to social networks
+Static Infrastructure Status with Jekyll and GitHub Pages
+Can we measure the (de)centralisedness of the Internet with RIPE Atlas?
+Enroll 2FA to thousands of users with privacyIDEA Automating processes with privacyIDEA
+Android Real Life experience in Production How an application developer can survive in the chaotic …
+Reflections on Teaching a Unix Class With FreeBSD Lessons learned on both sides
+Introduction to the decentralized internet part
+Vis Editor: Combining modal editing with structural regular expressions
+GrimoireLab: free software for software development analytics
+The OpenJDK Developer Experience
+G1 - Not^H^H^HNever Done!
+Samba AD in Fedora The long road to AD
+A pixel format guide to the galaxy A tool for interpreting pixel format definitions
+Samba authentication and authorization Introduction to Active Directory Auth protocols and winbind …
+Why People Don't Contribute To Your Open Source Project
+JITing PostgreSQL using LLVM
+De-mystifying contributing to PostgreSQL
+Open Build Service in Debian It is impressive how much time and resources a team can save
+Beyond string-based logging Structured logging with Serilog
+What's new in Graphite 1.1
+Elasticsearch (R)Evolution You Know, for Search...
+Proposal for an open and democratic Design Rule format A missing piece in the open source EDA world
+Matroska Low-Latency streaming Why Matroska is (always) Better
+Building a WebRTC gateway Hacking with WebRTC native API
+Maximizing UX for Customizing Improving user experience and accessibility of LibreOffice's Customiz…
+Integrating cloud and container projects in the OPNFV community: Cross Community CI In this talk we…
+Networking-VPP A fast forwarding vSwitch/vRouter for OpenStack
+Nakadi Event Broker An event broker with a REST API, on top of Kafka-like queues
+PBX on a non-specialized distro How and why we included an easy FreePBX setup in NethServer
+EU-FOSSA 2 OSS bug bounties sponsored by the EU
+Writing Node.js Modules in Rust An introduction to Neon
+Blame (and) DNS: debugging tutorial Find out who, where, and how broke your DNS.
+Idiomatic Rust Writing concise and elegant Rust code
+Let's Fix The Internet
+Introduction to LibrePCB A new, powerful and intuitive EDA tool for everyone
+Portable graphics abstraction in Rust Bringing Vulkan everywhere with gfx-rs
+Introducing gtk-rs Making the unsafe safe
+ZFS: Advanced Integration Server, Laptop, Embedded, or Appliance -- ZFS is the Answer
+Easy Ada Tooling with Libadalang
+Distance computation in Boost.Geometry
+Urbit: the personal server A clean-slate decentralized software stack.
+Gluster-4.0 and GD2 Learn what's in Gluster's future
+Improving Linux Laptop Battery Life Reducing Linux Power Consumption
+Efficient and interactive 3D point cloud processing Combining the strengths of pdal, ipyvolume and …
+MySQL 8.0 Roles Giving direction to MySQL privilege system
+What's new with FPGA manager Overview and Updates
+Turbocharging MySQL with Vitess
+DNS privacy, where are we? A general examination of the current state of the DNS privacy project
+Welcome to the Retrocomputing DevRoom A new devroom, for old tech
+Orchestrator on Raft: internals, benefits and considerations
+DOSEMU and FreeDOS: past, present and future
+Dragonflow - An open network services ecosystem
+SSSD: From an LDAP client to the System Security Services Daemon
+i3 window manager A tiling wm for developers
+Configuring build base on FreeBSD Making things easy for the user
+Virtio 1.1  What's new in the next version of the Virtio standard
+The Dynamo After Diffie Extending Disco-Era Crypto For Ubiquitous Secure Frameworking With Integral…
+Zonemaster Comprehensive tool for DNS validation
+A crash course on remote, moderated usability testing
+User-level networking on Genode
+DLR-CAFE: CUDA Filterbank Updates Brand-New: Arbitrary Resamplers for everyone
+Will it blend? Comparison of oVirt, OpenStack and Kubernetes schedulers
+DNSSEC for higher performace How aggressive use of DNSSEC-validated cache boosts DNS performace.
+Open Source BIOS at Scale We gave it a try, it worked. You can jump in!
+KiCad Version 5 New Feature Demo
+NetBSD - A modern operating system for your retro battlestation
+Qt GUIs with Rust Rust Qt Binding Generator
+Moldable analysis with Moose
+Nexmark A unified benchmarking suite for data-intensive systems with Apache Beam
+Living on the Edge Greatly needed stub resolver capabilities for applications and systems with the …
+DNS-based discovery for OpenID Connect Taking Single-Sign-On to the next level
+Finding inter-procedural bugs at scale with Infer static analyzer
+Forwarding system calls to userspace Using Seccomp to intercept system calls and forwarding them to…
+Intro to Open Source Radio Telescopes
+Accelerating Big Data Outside of the JVM Adventures with Apache Arrow, Spark, BEAM, Flink, and frie…
+Langkit: source code analyzers for the masses Reviving the meta-compiler dream
+HOMER 7 Introducing the latest HOMER 7
+A unique processor architecture meeting LLVM IR and the IoT
+NoSQL Means No Security?
+Zero Downtime Deployment with Ansible
+Developing Enterprise and Community distributions at the same time, impossible ? openSUSE / SUSE ex…
+Perl 6 on Jupyter
+A Guided Tour of Eclipse IoT: 3 Software Stacks for IoT
+Welcome to the Legal and Policy Issues devroom
+The State of OpenJDK
+Breaking with conventional Configuration File Editing Puppet with a Key/Value API in a User Study
+OpenJDK Governing Board Q&A
+Parsing Posix [S]hell Yann Regis-Gianas
+In the SpOOTlight: gr-radar Measuring EM backscatter, free and easy
+Intro Geospatial devroom
+Qt in Automotive What does the Qt Automotive Suite do?
+The MySQL Ecosystem - understanding it, not running away from it!
+Containing container memory Snapshots and live migration with CRIU
+Shared Memory Parallelism in Ada: Load Balancing by Work Stealing
+rustfix …and the journey to getting better code automatically
+containerd 1.0 Project Update the how, why, brief history of containerd, and its use today as a cor…
+Productionizing Spark ML Pipelines with the Portable Format for Analytics
+Software Philanthropy for Everyone Engaging corporate philanthropy in free and open source software
+Closing FOSDEM 2018
+Intro to the SDR Devroom ..and updates from the community
+Speech-to-Text in Jitsi Meet Is it possible to provide WebRTC meeting transcriptions? Let's find ou…
+Scaling Deep Learning to hundreds of GPUs on HopsHadoop
+How to write your own NIC device driver (and why) Our experience writing 10G/100G drivers for Snabb…
+The circuit less traveled Investigating some alternate histories of computing.
+Building Decentralised Communities with Matrix Introducing Matrix Communities (and more!) as a dece…
+CrateDB: A Search Engine or a Database? Both! How We Built a SQL database on top of Elasticsearch a…
+Rapid SPI Device Driver Development over USB
+Open communication in WebVR with Matrix! Where Matrix.org meets The Matrix...
+Browser-as-GUI and Web Applications with Gnoga
+An Introduction to Ada for Beginning and Experienced Programmers
+Advanced Go debugging with Delve
+Ecosystems of Professional Libre Graphics Use
+Distributions are not democracies and that's okay
+Does data security rule out high performance? Is it possible to maintain the anonymity of people co…
+AI on Microcontrollers uTensor brings Deep-Learning to MCUs
+The Julia programming language A look at arrays and Trilinos integration
+Godot 3, libre gamedev for everyone The 2D and 3D game engine you've waited for!
+Designing a Libre Embedded / Mobile RISCV64 SoC Distillation of the best features and pin-multiplex…
+Nouveau Status Update
+Scaling messaging systems XMPP server MongooseIM and it's scalability options
+The Magnificent Modular Mahout An extensible library for distributed math and HPC
+How DeepLearning can help to improve geospatial DataQuality , an OSM use case.
+The IoT botnet wars, Linux devices, and the absence of basic security hardening
+Modules v4 Pushing forward user environment management
+Python 3: 10 years later Looking back at Python evolutions of the last 10 years
+Automated Linux Containers deployment for fun and profit. How we deploy system containers for our d…
+Kids and Schools and Instant Messaging Experiences with free communications among kids and in educa…
+GDAL Tips and Tricks GDAL installation, Python usage, and Cloud GeoTIFFs
+Slurm in Action: Batch Processing for the 21st Century
+Tools for large-scale collection and analysis of source code repositories Open source Git repositor…
+Scale Out and Conquer: Architectural Decisions Behind Distributed In-Memory Systems
+Distributing DevOps tools using GoLang and Containers, for Fun and Profit!
+Behind the scenes of a FOSS-powered HPC cluster at UCLouvain Ansible or Salt? Ansible AND Salt!
+Modern tools to debug GStreamer applications
+Testing Red Hat Enterprise Linux the Microsoft way Diving into Pairwise (a.k.a. all-pairs) test cas…
+Tying software deployment to scientific workflows Using Guix to make software deployment a first-cl…
+Contract-based Programming: a Route to Finding Bugs Earlier
+Melting the Snow Using Active DNS Measurements to Detect Snowshoe Spam Domains
+Testing and Validating distributed systems with Apache Spark and Apache Beam
+Combining CVMFS, Nix, Lmod, and EasyBuild at Compute Canada
+High performance network functions with VPP
+Lift your Speed Limits with Cython Fast native code for Python
+BIND 9 Past, Present, and Future The future is scary. But you can't just run back to the past becau…
+Rendering of subtitles in HTML5 with imscJS
+XMPP as the road to innovation
+A real life story about product testing with robotframework Lessons learned testing IoT devices wit…
+Installing software for scientists on a multi-user HPC system A comparison between conda, EasyBuild…
+Binary packaging for HPC with Spack
+XWiki: a case study on managing corporate and community interests 14 years of Open Source in a Smal…
+SystemTestPortal A web application for managing manual system tests
+Ada, or How to Enforce Safety Rules at Compile Time
+Repairing DNS at TLD scale DNS health in .CZ
+Tips & Tricks to finance an Open Source Project without selling your soul
+SPARK Language: Historical Perspective & FOSS Development
+Load testing web services at Mozilla with Molotov http://molotov.readthedocs.io/
+i++: run your FOSS off Automatically counting laps at the 24 hour run in Leuven
+Migrating to Red Hat IdM in a large Linux Environment
+Valgrind register allocator overhaul
+Advanced testing in action on a Java project Demonstrating testing practices using Java, Maven, Doc…
+Implementing a safe and auditable access to customer instances of your SaaS for the support staff w…
+Asynchronous Decision Making - why and how How Asynchronous Decision Making works and why it's esse…
+Working in the ODF TC
+Piece of cake testing remote embedded devices made easy with MuxPi
+Building an integration testing framework Integration testing framework we are building to test Git…
+Rubber 'Duke' Debugging
+Grafanalib - Dashboards as Code
+Load testing with Locust
+Passing the Baton: Succession planning for FOSS leadership
+The LTTng approaches to solving complex problems
+Observability: not just an Ops thing
+Consensus as a Service Twenty Years of OSI Stewardship
+pot: another container framework based on jails and ZFS A personal/educational project to run conta…
+Live sculpting a Genode-based operating system
+Graphite at Scale at Criteo: BigGraphite Bye bye whisper !
+Wikilab, architecture & CNC Collaborative architecture and construction with FreeCAD
+Monitoring Legacy Java Applications with Prometheus
+Declarative Extensions for Kubernetes in Go
+Grafana Tips & Tricks & Whats New in v5
+Æ-DIR -- Authorized Entities Directory from paranoid user management to secure system management
+Configuration Revolution Why it Needed 13 Years and How it Will be Done
+IPC in 1-2-3 Everything you always wanted from a network, but were afraid to ask
+You’ve Got Some Explaining to Do! So Use An FAQ!
+Graph-based analysis of JavaScript source code repositories
+Unix Architecture Evolution from the 1970 PDP-7 to the 2018 FreeBSD Important Milestones and Lesson…
+Packaging C/C++ libraries with Conan
+Simplifying the contribution process for both contributors & maintainers A case study of the GitHub…
+How To Make Package Managers Cry
+Building and testing a distributed data store in Go
+LibreOffice's automatic updater work A progress report
+Make your Go go faster! Optimising performance through reducing memory allocations
+Generic Graphics Tablets in Linux Hardware peculiarities, software challenges, and how to make them…
+Evolving Prometheus for the Cloud Native World
+oVirt Metrics and logs - in a unified solution
+CBSD, Isolation manager How to manage jails, bhyve VMs and Xen via CBSD, while keeping it all simple
+What's new in Upipe
+The free toolchain for the STM8 Getting into first place when non-free tools had years of head star…
+Italy: the most hacker-friendly country? Developers Italia, what happens when a nation goes Open
+Creating GopherJS Apps with gRPC-Web
+OpenBSD as house alarm system Openbsd is not only good for network related projects
+User Session Recording in Cockpit Introducing User Session Recording support in Cockpit - a server …
+pkgsrc on ChromeOS
+The FreeBSD Foundation and How We Are Changing the World
+Networking Swiss Army Knife for Go
+syspatch(8)OpenBSD base system maintenance made easy
+The MDN Browser Compat Data Project
+BulletinBoard DHT and wireguard-p2p
+Native GTK3 UIprogress from gtk3 themed vcl widgets to native gtk widgets
+Automated system partitioning based on hypergraphs for 3D stacked integrated circuits
+Pulp 3 - Simpler, Better, More awesome
+Addressing the long tail of applications
+Reducing CPU usage of a Toro Appliance
+Hurd's PCI arbiter
+MethodHandles Everywhere!
+The many ways of using Guix packagesA guide to which ways might suit you
+NetBSD and MercurialThe challenges of a long history
+GPU resource multiplexing in component based systems
+Media 101 for Communities
+Everything is a device!Lessons learned from experimenting with MH
+BSD from scratch - from source to OS with ease on NetBSD
+Arthur Huillet   Anatomy of a role playing game
+Why the community should welcome Average Jane and Joe
+Wikiotics
+Working with contributor communities  round table
+coapp
+The Wild West of UNIX I O
+Native Linux KVM Tool
+vcsh
+Q A with the FOSDEM  staff
+Coreboot
+Wayland
+Working with contributor communities  round table
+Minemu
+Bringing monitoring into the 21st century
+FOSS in Broadcast
+How we scaled up OpenQuake
+netmagis
+Voice Applications for the Modern Open Source Hacker
+Wazaabi
+A strategy for managing diverse equipment in the CERN controls group
+Caching and tuning fun for high scalability
+Threat Modeling Revolutionized
+Multipath TCP
+mail2trac
+Debian packaging for beginners
+dovecot
+Geeklog  The secure CMS
+ARM BoF
+Re thinking system and distro development
+QA tools for FOSS distributions
+Libre fm and GNU FM   Supporting free culture artists with free software
+cassandra
+Linux containers and OpenVZ
+Virtualization with KVM
+Implementing Domain Specific Languages with LLVM
+semantic mediawiki
+Free Software  A Viable Model for Commercial Success
+EFL
+Internet of Threads
+The Growl Project
+ganeti
+LibreOffice
+Multi OS Continuous Packaging with Project Builder org
+A New OSI for A New Decade
+git annex   manage files with git, without checking their contents into git
+Hacking in the real world
+fosdem2012  anders rundgren open security hardware
+EPFSUG   everybody needs a hacker
+Unhosted
+PMD5
+openremote
+Powerful tools for Linux C C   developers based on Eclipse
+fosdem2012  tomas gustavsson cesecore common criteria
+Greenlight for girls
+You're doing it wrong
+fosdem2012  branko majic x509 free software deployment
+SDWB
+Btrfs and Snapper
+ZIOFramework
+XQuery 3 0 Rocks
+fosdem2012  paul bakker polarssl part1
+Introduction to hardening, the Gentoo Hardened approach
+LISPmob
+fosdem2012  anders rundgren open security hardware
+fosdem2012  branko majic x509 free software deployment
+welcome talk
+Transifex
+An introduction to EclipseRT
+fosdem2012  tomas gustavsson cesecore common criteria
+Debian Secrets   what I wish I knew before joining Debian
+fosdem2012  benedikt heintel cacert
+fosdem2012  benedikt heintel cacert
+fosdem2012  paul bakker polarssl part2
+How to replace a legacy tool with 100k installations
+Caret and Stick
+How to replace a legacy tool with 100k installations
+fosdem2012  paul bakker polarssl part2
+fosdem2012  kashyap chamarthy dogtag
+Univention Corporate Server
+Gentoo EAPI 5
+fosdem2012  paul bakker polarssl part1
+Distributions  infrastructure system administration  round table Q A
+OpenQA
+fosdem2012  chris conlon yassl
+Coping with wide impact changes in a distribution
+fosdem2012  kashyap chamarthy dogtag
+Adventure of setting common account database for a distribution infrastructure
+debtags debian net reloaded
+Gnuk
+Illumian
+Multiarch - why it's important
+Gentoo ruby packaging
+Succeeding in the Google Summer of Code as a large project
+Why Political Liberty Depends on Software Freedom More Than Ever
+Data as a service with infinispanfull
+apache wicket
+The Storage Technologies Behind Facebook Messages
+firefox4, new features for userd and developers
+The life of a firefox feature
+Liberating Open Office Development
+linux disaster recovery with rear
+golang, practical Go Programming
+systemd, beyond init
+openstack building a free massively scalable cloud computing platform
+How kernel development goes wrong and why you should be a part of it anyway
+I'm going M.A.D
+objectc, Not just for Macs and iPhones
+devops More than Marketing
+webODF, an office suite built on browser technology
+calligra Under the Hood
+Django's architecture - the good, the bad, and the ugly
+qt webkit goes Mobile
+Forban: a simple link-local opportunistic p2p free software
+PL/Parrot: Cutting Edge Free Software
+chicken
+xwiki
+aalto
+scala
+Opening talk FOSDEM 2011
+Coreboot: x86 system boot and initialization
+neo4j
+mediamosa
+villagetelco
+Sahi: automated cross-browser web testing
+Mongrel2: Lighting up IPv6
+cyassl
+Apache Etch: Efficient and feature-rich network services
+timebank
+freemedforms
+libregraphics
+flashrom
+agora
+irail
+PageKite: Making The Web 1000x Bigger
+magellan
+sirius
+cloud9
+ucengine
+0mq
+android video streaming
+railsadmin
+seeks
+kdevelop
+security 1800   opensc  paljak
+security 1415   libcurl  stenberg
+security 1730   dynalogin  pocock
+security 1345   ssh  adamantiadis
+mozilla sun1330   mozmill  skupin
+security 1700   systemtap  kunysz
+Fighting I/O: a story of Firefox startup speed improvements
+security 1315   smartcard  poure
+security 1630   trust  walter
+security 1445   cyassl  stefonic
+security 1600   pkcs11  mavrogiannopoulos
+security 1500   fribid  borell
+security 1530   ejbca  gustavsson
+security 1300   intro  paljak
+drools
+The Ruby and .NET love child
+Building The Virtual Babel: Mono In Second Life
+Mono Edge
+Moonlight and you
+ParallelFx, bringing Mono applications in the multicore era
+MonoDevelop
+The Evolution of MonoTorrent
+OSCTool - learning C# and Mono by doing
+Image processing with Mono.Simd
+Smuxi - IRC in a modern environment
+RPM packaging collaboration
+Transactionally Protected Package Management
+Distribution HR management
+Packaging perl and CPAN modules
+The Maemo Community Council a case study in governance
+Mobile distributions and upstream challenges
+NixOS configuration system
+MirrorBrain
+Cross distro dependency resolution reusing solvers among distros
+Fedora Governance
+Linux distribution for the cloud
+Infrastructure round table
+The youri project
+Spacewalk Linux Systems Lifecycle Management
+Debian and Ubuntu
+Continuous Packaging with Project Builder org
+Config Model and configuration upgrades during package upgrade
+YaST Future Roadmap
+Working with GNOME upstream
+bootchart2
+How to be a good upstream
+Cross distro packaging experience with the openSUSE Buildservice
+Translations of package descriptions
+Hermes Message Dispatching
+Debian Secrets power tools for power users
+Cross distro packaging with top git
+Fedora fr and upstream French communities
+Distribution Image building with KIWI
+The free software desktops graphics driver stack
+GPU Userspace - kernel interface & Radeon kernel modesetting status
+Polishing X11 and making it shiny
+Coreboot and PC technical details
+ACPI and Suspend/Resume under coreboot
+Building a Database Application with (almost) no Code   Lars Sonchocky Helldorf   FOSDEM  2009
+Building Server Applications using Objective C and GNUstep   Nicola Pero   FOSDEM  2009
+GAP Applications + PRICE   Riccardo Mottola   FOSDEM  2009
+Garbage collection with Objective C   Richard Frith Macdonald   FOSDEM  2009
+Web Services in Objective C   Richard Frith Macdonald & Riccardo Mottola   FOSDEM  2009
+Etoile   David Chisnall (via iChat) & Damien Pollet   FOSDEM  2009
+Theming in GNUstep   Richard Frith Macdonald   FOSDEM  2009
+ScalableOGo   Helge Hess   FOSDEM  2009
+Systems management with RHQ and Jopr
+Starting the sysadmin tools renaissance: Flapjack + cucumber-nagios
+Building High Performance Web Applications with the Dojo Toolkit
+Postgresql: Lists and Recursion and Trees (oh my)
+Scaling Facebook with OpenSource tools
+CouchDB! REST and Database!
+Maemo 6 security framework, making happy DRM business and freedom lovers with the same device
+RepRap - Manufacturing for the Masses
+Write and Submit your first Linux kernel Patch
+MariaDB: extra features that make it a better branch of MySQL
+MooTools as a General Purpose Application Framework
+Ganglia: 10 years of monitoring clusters and grids
+Javascript charting with YUI Flot
+The Nmap scripting engine
+Tor: Building, Growing, and Extending Online Anonymity
+OSSEC
+Promoting Open Source Methods at a Large Company
+Inside StatusNet: How Identi.ca Works
+Evil on the Internet
+What is my system doing - Full System Observability with SystemTap
+Large scale data analysis made easy - Apache Hadoop
+MINIX 3: a Modular, Self-Healing POSIX-compatible Operating System
+Welcome to FOSDEM 2010
+Kaizendo.org: Customizing schoolbooks the free software way
+SIP Communicator: Skype-like conf calls with SIP Communicator
+OpenPCF: An Open Provisioning and Control Framework
+tinc: the difficulties of a peer-to-peer VPN on the hostile Internet
+Faban: Developing benchmarks and workloads using Faban 1.0
+Wt::Dbo: a C++ ORM (Object Relational Mapping) library
+SyncEvolution: From the SyncML Protocol to Free and Open Implementations
+shadowcircle: a pentesting distribution alternative
+PortableApps.com: The PortableApps.com Platform, an Introduction and Overview
+GeeXboX: An Introduction to Enna Media Center
+Beernet: Building peer-to-peer systems with transactional replicated storage
+GNU Savannah: 100% free software mass-hosting
+CAcert: Client-certificates and SSO - the old-new thing
+Uzbl: A webbrowser which adheres to the unix philosophy
+Qi Hardware's Ben NanoNote: open to the bone device
+asterisk: An introduction to Asterisk Development
+csync: Roaming Home Directories
+QuBit: Introducing Quantum Superpositions
+Kamailio (OpenSER) 3.0.0: redefinition of SIP server
+Kerrighed: Flexible distributed checkpoint/restart
+Open-source software: Blaming the unknown, or a constructive approach to technology
+Padre, the Perl IDE: Building an open source team, getting the project to users against the odds
+jpoker: a pure javascript poker client
+OpenERP: Design applicactions with OpenObject in minutes
+UmlCanvas: bringing UML diagrams to the web
+LiMux: 5 years on the way to free software in Munich
+CiviCRM: Common goals of FOSS and Not For Profit Organisations
+Coccinelle: Finding bugs in open source systems code
+Cloudlets: universal server images for the cloud
+The Wiki for Open Technologies: How to share your projects and knowledge
+FOSDEM 2009 openSUSE Cross Build
+FOSDEM 2009 openSUSE Education
+FOSDEM 2009 openSUSE cdn
+FOSDEM 2009 openSUSE Netbooks
+FOSDEM 2009 openSUSE KDE
+FOSDEM 2009 openSUSE Legal
+FOSDEM 2009 openSUSE Yast
+FOSDEM 2009 openSUSE Wine
+FOSDEM 2009 openSUSE Apport
+FOSDEM 2009 openSUSE Gnome
+FOSDEM 2009 openSUSE Zypper
+FOSDEM 2009 openSUSE Collaboration
+FOSDEM 2009 openSUSE openfate
+FOSDEM 2009 openSUSE Studio
+FOSDEM 2009 openSUSE Community
+FOSDEM 2009 openSUSE Welcome
+FOSDEM 2009 MySQL High Availability Solutions
+FOSDEM 2009 Help my system is slow
+FOSDEM 2009 Google Summer Of Code
+FOSDEM 2009 Zarafa
+FOSDEM 2009 Syslinux and the dynamic x86 boot process
+FOSDEM 2009 Upstart
+FOSDEM 2009 MediaWiki
+FOSDEM 2009 CalDAV - the open groupware protocol
+FOSDEM 2009 Free and Open Future
+FOSDEM 2009 OSI
+FOSDEM 2009 Ext4
+FOSDEM 2009 OWASP Web Testing Methodology
+FOSDEM 2009 Debian
+FOSDEM 2009 OpenAMQ
+FOSDEM 2009 - 10 cool things about Exherbo
+FOSDEM 2009 Scala - A Scalable Language
+FOSDEM 2009 Cobbler & Koan
+FOSDEM 2009 Welcome
+FOSDEM 2009 The Fedora Project
+FOSDEM 2009 Reverse Engineering of Proprietary Protocols, Tools and Techniques
+FOSDEM 2009 Fusil fuzzing
+FOSDEM 2009 FreeIPA, Identity Management
+FOSDEM 2009 Xwiki
+FOSDEM 2009 Secure List Server
+FOSDEM 2009 MuseScore
+FOSDEM 2009 LTS
+FOSDEM 2009 Usbpicprog
+FOSDEM 2009 TikiWiki
+FOSDEM 2009 Linux Defenders
+FOSDEM 2009 SmallMail
+FOSDEM 2009 Marionnet
+FOSDEM 2009 Pyroom
+FOSDEM 2009 ModularIT
+FOSDEM 2009 Hyves Puppet
+FOSDEM 2009 Opsview
+FOSDEM 2009 Games engines done good
+FOSDEM 2009 Camelot
+FOSDEM 2009 FreedroidRPG
+FOSDEM 2009 Gemvid
+FOSDEM 2009 eZ Find
+FOSDEM 2009 Mobile Development
+FOSDEM 2009 Bug
+FOSDEM 2009 LXDE
+FOSDEM 2009 FLOSSMetrics
+FOSDEM 2009 Apache felix
+FOSDEM 2009 Custom OpenSolaris
+FOSDEM 2008  hudson
+FOSDEM 2008  webscarab
+FOSDEM 2008  packagekit
+FOSDEM 2008  wesnoth
+FOSDEM 2008  xen
+FOSDEM 2008  tuxwithshades
+FOSDEM 2008  globulation2
+FOSDEM 2008  swpat
+FOSDEM 2008  openqrm
+FOSDEM 2008  virtualbox
+FOSDEM 2008  klik
+FOSDEM 2008  jruby
+FOSDEM 2008  scons
+FOSDEM 2008  perl6
+FOSDEM 2008  cakephp
+FOSDEM 2008  largescale
+FOSDEM 2008  mozprism
+FOSDEM 2008  conary
+FOSDEM 2008  crystalspace
+FOSDEM 2008  welcome
+fosdem08_day2_12_zeroconf
+fosdem08_day2_11_accessibility
+fosdem08_day2_08_satsolver
+FOSDEM 2008  zapcat
+FOSDEM 2008  squeak
+FOSDEM 2008  view os
+FOSDEM 2008  terracotta
+FOSDEM 2008  wir3d
+FOSDEM 2008  tangogps
+FOSDEM 2008  xmms2
+FOSDEM 2008  stylebaseeclipse
+FOSDEM 2008  project indiana
+FOSDEM 2008  openafs
+FOSDEM 2008  polippix
+FOSDEM 2008  sepia
+fosdem08_day1_02_coolo
+FOSDEM 2008  mamona
+fosdem08_day2_10_redirector
+FOSDEM 2008  opentc
+FOSDEM 2008  eff
+FOSDEM 2008  ggz gaming zone
+fosdem08_day2_06_kiwi
+FOSDEM 2008  iogrind
+FOSDEM 2008  k3d
+FOSDEM 2008  indywiki
+fosdem08_day1_04_buildservice_webclient
+FOSDEM 2008  bongo
+FOSDEM 2008  foresight
+fosdem08_day2_09_1click
+FOSDEM 2008  coherence
+FOSDEM 2008  archetype
+FOSDEM 2008  ganeti
+FOSDEM 2008  dacco
+git___Pierre_Habouzit
+FOSDEM 2008  alfresco
+FOSDEM 2008  cloudbridges
+fosdem08_day2_03_energystar
+fosdem_2008 _remi
+fosdem_2008 _bridgman
+fosdem_2008 _nouveau
+fosdem_2008 _gallium
+Cross building_Debian_and_Tdebs___Neil_Williams
+fosdem_2008 _intel
+fosdem08_day2_02_gnome
+fosdem08_day2_05_suspend
+FOSDEM 2008  ajatus
+FOSDEM 2008  bluepad
+fosdem08_day2_01_kde4
+fosdem_2008 _helge
+fosdem_2008 _eich
+fosdem_2008 _daniel
+fosdem_2008 _michael
+fosdem08_day1_06_basesystem
+fosdem08_day1_05_buildservice_bestpractices
+The_long_road_to_Debian_Edu_in_main___Holger_Levsen
+fosdem08_day2_07_yast
+fosdem08_day2_04_hal_dbus
+Lenny_the_past_and_the_future___Luk_Claes
+Update_on_Virtualization_in_Debian___Henning_Sprang
+The_Belgian_electronic_ID_card_in_Debian___Wouter_Verhelst
+Apt_Xapian_Index___Enrico_Zini
+How_accessible_is_Debian___Samuel_Thibault
+Persistent_device_naming___Frans_Pop
+FOSDEM 2007  Xorg
+FOSDEM 2007  Samba
+FOSDEM 2007  ProfilingDesktopApplication
+FOSDEM 2007  Plone
+FOSDEM 2007  SecurityTesting
+FOSDEM 2007  Metasploit
+FOSDEM 2007  Liberating Java
+FOSDEM 2007  BeyondGPLv3
+FOSDEM 2007  GEGL
+FOSDEM 2007  LinuxBios
+FOSDEM 2007  ReactOS
+FOSDEM 2007  SecureCommunicationsWithJabber
+FOSDEM 2007  Mozilla
+FOSDEM 2007  Bacula
+FOSDEM 2007  OLPC
+FOSDEM 2007  Drupal
+FOSDEM 2007  Status of Software Patents in Europe
+FOSDEM 2007  JBoss
+FOSDEM 2007  Welcome
+FOSDEM 2007  AIGLX
+FOSDEM 2007  Thanks
+FOSDEM 2006  valgrind
+FOSDEM 2006  valgrind
+FOSDEM 2006  openSUSE 12 Live_CD 2006  02 26 video_full
+FOSDEM 2006  xen
+FOSDEM 2006  speex
+FOSDEM 2006  ser
+FOSDEM 2006  rife
+FOSDEM 2006  openSUSE 05 Packaging 2006  02 26 video_full
+FOSDEM 2006  openSUSE 03 PowerSave 2006  02 25 video_full
+FOSDEM 2006  plan9
+FOSDEM 2006  openSUSE 07 DRPMsync 2006  02 26 video_full
+FOSDEM 2006  subversion
+FOSDEM 2006  valgrind_questions
+FOSDEM 2006  ouverture
+FOSDEM 2005  kernel
+FOSDEM 2005  sysfs
+FOSDEM 2006  asterisk tuto
+FOSDEM 2006  XUL
+FOSDEM 2005  Copyright
+FOSDEM 2005  slackware
+FOSDEM 2006  GPL
+FOSDEM 2006  OpenOffice
+FOSDEM 2006  apparmor
+FOSDEM 2005  KDE
+FOSDEM 2005  Nautilus
+FOSDEM 2005  OpenGFS
+FOSDEM 2005  Globus
+FOSDEM 2005  devmapper
+FOSDEM 2005  LinuxHA
+FOSDEM 2005  Xfce
+FOSDEM TV Interview 2008 02 23

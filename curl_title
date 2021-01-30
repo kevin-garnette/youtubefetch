@@ -1,0 +1,3 @@
+ curl "https://www.googleapis.com/youtube/v3/channels\
+?part=brandingSettings\
+&id=UCAYF5jJkUBcmn1cor50yDOg&key=AIzaSyAFSUbQnFBBQnO8Vbs_2db_wDeeIwCVk8s" | grep title | awk -F: '{print $2}'

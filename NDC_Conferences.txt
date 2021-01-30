@@ -1,0 +1,2118 @@
+NDC London 25-29 January 2021 - Live and Online
+Modernizing an existing system to take a more domain-driven approach - William Penberthy
+A deep dive into Conversational AI with Microsoft Bot Framework - Arafat Tehsin
+Easier infrastructure and safer secrets with Pulumi, Azure, and .Net Core - Rian Finnegan
+Common mistakes and misconceptions in Web App Security using OAuth 2.0 and OpenId Connect
+Svelte, cybernetically enhanced web apps - Devlin Duldulao
+The Power of Performance Feedback - Amber Vanderburg
+Cloud-Native Kubernetes Workflows on AKS with Argo - Rahul Rai & Tarun Pabbi
+Fixing poor performance patterns in Azure SQL Database applications - Martin Cairney
+Serverless Azure In The Enterprise - Duncan Hunter & Adam Stephensen
+Effective Communication in a Remote First World - Rob Crowley
+Introduction to PASETO (platform-agnostic security tokens) - Ruby Jane Cabagnot
+Distributed Tracing Made Easy with .NET Core - Jimmy Bogard
+Make your mouse move like a human - modern AI directly in web browser - Jakub Ledworowski
+The sunny side of AI - Henk Boelman
+Securing Serverless Applications in Azure - Sjoukje Zaal
+The Background on Background Tasks in .NET Core - Scott Sauber
+Common quandaries implementing your first Event Driven Architecture - Sarah & Ann
+What We Learned Going Serverless - Illia Kavaliou
+PWA For Games: An Enhanced Web Gaming Experience - Stephen Vinuya
+Rise of the Machines – Technology in Humanity - Lars Klint
+Practical Domain-Driven Design with EF Core - Hossam Barakat
+AI for the better - Dennie Declercq
+C# Source Generators - Write code that writes code - David Wengier
+Eventing with Knative and Cloud Run: From Basics to Advanced - Mete Atamel
+A Friendly Introduction to Deep Learning for Computer Vision - Seth Juarez
+Machine Learning for .NET developers - Olia Gavrysh
+Kafka as a Platform: the Ecosystem from the Ground Up - Robin Moffatt
+Running atomic transactions across multiple data models?!? - Loris Cro
+Production readiness in Azure: A practical guide - David Pazdera
+Tackling Social-technical complexity in the heart of your team - Evelyn & Kenny
+Vue.js is going to take the world - Thiago Passos
+How not to choke on a big old project - Yuri Minaev
+The Pipes Library: How Plumbing Can Make Your Code More Expressive - Jonathan Boccara
+QProperty - QML property binding in C++ - Mikhail Svetkin
+Leadership Guide for the Reluctant Leader - David Neal
+What do you mean by "Cache Friendly"? - Björn Fahller
+Lazy QObject tree traversal - Vitaly Fanaskov
+Proactive Security, less buzzword, more action - Siren Hofvander
+Paradigms Lost, Paradigms Regained: Programming with Objects and Functions and More - Kevlin Henney
+Coroutines are Qt: safer thread pools interactions -  Pietro Fezzardi & Alain Carlucci
+C++ Parallel Programming Models - Eran Gilad
+C++ Error Handling Revisited - Raphael Meyer
+C++ ecosystem: the renaissance edition - Anastasiia Kazakova
+Algorithmic and microarchitecture optimizations of C++ applications -  Alexander Maslennikov
+Embracing Simplicity - Guilherme Ferreira
+Battles of an Impostor - Melissa Houghton
+25 Years of SSL - Secure(ish) Sockets Layer - Scott Helme
+Trying to build an Open Source browser in 2020 - Patricia Aas
+Hiding The Lead - Sam Newman
+Rise of the Machines – Technology in Humanity - Lars Klint
+Advanced OAuth - Private In-House Training with Dominick Baier
+Navigating microservices with .NET Core - Ryan Nowak
+Building real-time applications with Blazor and GraphQL - Michael Staib
+Getting graphy - a hands-on crash course with Neo4j - Ljubica Lazarevic
+Microservices for building an IDE – The innards of JetBrains Rider - Maarten Balliauw
+The Ethical Dilemma of AI: Save the World or Forsake It? - Tim Huckaby
+Don't Fly Blind - Implementing Effective Application Instrumentation - John Garland
+Security Tooling in Your DevOps Pipeline - Nancy Gariché
+Keep your nose out of it. Denying yourself access to production - Glenn F. Henriksen
+3D printed Bionic Hand a little IOT and a Xamarin Mobile App - Clifford Agius
+Migrate and Modernize with Kubernetes and Windows Containers - Vishwas Lele
+Owning Your Experience: Talking about Mental Health In the Workplace - Arthur Doler
+AI in the battle against fakes - Henk Boelman
+Rendering 3D Worlds in C# - David Whitney - NDC Oslo 2020
+How we almost delivered 100 tons of Stracciatella Mousse - Björn Wendland & Tobias Schröder
+Data Mesh in Practice - Arif Wider & Max Schultze - NDC Oslo
+From Tables to Documents -- Changing Your Database Mindset - Lauren Schaefer - NDC Oslo 2020
+BeeIoT - Enter the World of Bees - Tom Erik Støwer & Kim Bredesen - NDC Oslo 2020
+It's a Polyglot World - Mark Fussell & Shailendra Singh Chauhan - NDC Oslo 2020
+NDC Sydney 2020 - Party Livestream
+NDC Sydney 2020 - Opening Keynote
+OpenFaaS: Serverless platform with no strings attached? - Andreas Mosti - NDC Oslo 2020
+Why we’ll never see time travellers of the 80s in year 2038 - Sindre Lindstad - NDC Oslo 2020
+SQL Server hates you(?) - what the DBAs never told the developers - Alexander Arvidsson - NDC Oslo
+Building Quality in Legacy Systems - The Art of Asking Questions - Mufrid Krilic - NDC Oslo 2020
+Browser Fingerprinting: Stalking With a Personal Touch - Eivind Arvesen - NDC Oslo 2020
+A motivating process for deriving Objectives and Key Results (OKRs) - Helge Grenager Solheim
+Azure cloud for the web frontend developers - Maxim Salnikov - NDC Oslo 2020
+See a heart surgery being planned with HoloLens 2 - Scott Leaman - NDC Oslo 2020
+Confessions of a reformed pentester - Nick Murison - NDC Oslo 2020
+Pull Requests: Merge With Your Team - Eirik Isene - NDC Oslo 2020
+My experiences using Azure Blueprints for a year - Børge Wiik - NDC Oslo 2020
+Beyond LINQ: Using Expression Trees in .NET - Max Arshinov - NDC Oslo 2020
+Choosing The Best Mobile Framework - Brandon Minnick
+Don’t Drop ACID - Transactions in Distributed NoSQL - Matthew Groves - NDC Oslo 2020
+Billions of records: the real success story using Microsoft Power BI Embedded - Irina Dragunova
+Complex systems design in nature - Ian Johnson - NDC Oslo 2020
+Smart home from scratch - Nir Dobovizki - NDC Oslo 2020
+Event-driven computing with Kubernetes - Jakob Ehn - NDC Oslo 2020
+The Accidental Security Professional - Elin Tøndel - NDC Oslo 2020
+Capability Mapping - Ian Cooper
+Total Rewrite: A Story About F# and Azure Functions in Production - Almir Mesic - NDC Oslo 2020
+Serving election results to an entire nation - Hallstein Brøtan - NDC Oslo 2020
+Improve the illusion of speed - Optimize your web experience to perfection! - Marius Røed - NDC Oslo
+High Level Advise for your Cloud Security Strategy - Andreas Lohne - NDC Oslo 2020
+Fighting Back Against a Distracted World - Increasing your Focus and Self-motivation - NDC Oslo 2020
+Headless CMS and Decoupled CMS in .NET Core - Ruby Jane Cabagnot
+What's it like to attend NDC Sydney Online?
+Making your interns succeed! - Sara Bergman - NDC Oslo 2020
+This Startup Life: 3 Years Deep - Ben Cull - NDC Oslo 2020
+DIY security and privacy: roll your own VPN in 10 minutes - Jonas Nordstrand - NDC Oslo 2020
+Death of a Craftsman: A software developer identity crisis - Einar Høst - NDC Oslo 2020
+Considerations for a large-scale low-latency system - Helge Grenager Solheim - NDC Oslo 2020
+When each millisecond counts? - Dmitry Konovalov - NDC Oslo 2020
+Breaking the build with K6 load tests - Lars Jakobsen - NDC Oslo 2020
+How we saved the Black Friday sales for a major jewelry shop - Niklas Bae Pedersen - NDC Oslo 2020
+Immutable Infrastructure on Azure - Evgeny Borzenin - NDC Oslo 2020
+Building a Better GitHub Pages Experience Using Azure Services, How Hard Can It be? - Chris Klug
+Refactoring the Architect’s role - Yogi Aradhye - NDC Oslo 2020
+“OAuth 2.1” and beyond - Dominick Baier - NDC Oslo 2020
+Fluxing Up Your .NET Apps - Alex Dunn - NDC Oslo 2020
+Building a real-time serverless app in Blazor using AWS - Martin Beeby. -NDC Oslo 2020
+Analyzing source code using Roslyn - Erik Schierboom - NDC Oslo 2020
+The Power of Composition - Scott Wlaschin - NDC Oslo 2020
+Agile is a Dirty Word - James Birnie
+Functional data that adapts to change - Don Syme - NDC Oslo 2020
+Kafka as a Platform: the Ecosystem from the Ground Up - Robin Moffatt - NDC Oslo 2020
+Learning from Disaster - Ian Hughes
+OpenMetrics, OpenTracing, OpenTelemetry - are we there yet? - Alexey Zimarev - NDC Oslo 2020
+The Developer's Field Guide to Software Security - Jennifer Janesko - NDC Oslo 2020
+Embracing Simplicity - Guilherme Ferreira - NDC Oslo 2020
+Top 5 Things to do Today to Give Your Users a Better Experience - Billy Hollis - NDC Oslo 2020
+Measuring DevSecOps: building metrics to understand effectiveness and success  - Victoria Almazova
+Autism in Tech - Dennie Declercq - NDC Oslo 2020
+From Devops to DevSecOps - Bruno Amaro Almeida - NDC Oslo 2020
+DevOps in Real Life, A How-To - Ola Petersson & Jessica Andersson - NDC Oslo 2020
+Introduction to GitHub Actions - Edward Thomson - NDC Oslo 2020
+The leadership balancing act - achieving success without burning out - Donna Edwards - NDC Oslo 2020
+E2E testing goes Corporate - Björn Weström - NDC Oslo 2020
+Cardboard boss - Elise Garborg Undheim - NDC Oslo 2020
+NDC Minnesota - Online - 8-11 September 2020
+Hybrid Cloud Restore by Veeam Software - Magnus Lislevatn - NDC Oslo 2020
+Infrastructure as Software - Paul Stack - NDC Oslo 2020
+Ring-fence the Chaos: When Technical Teams Meet Organisational Systems - Anthony Dang
+Feature flags: the toggle, the A/B test and the canary - Santosh Hari - NDC Oslo 2020
+The "Guilded" Age: How a UX Guild can transform design at your company - Ash Banaszek
+Let’s stop blaming our users for getting hacked when it is our problem to solve - Scott Brady
+Quantum Computing Deep Dive - Johnny Hooyberghs - NDC Oslo 2020
+Reducing Third-Party Security Risk in .NET Core Applications - Niels Tanis - NDC Oslo 2020
+From WCF to gRPC - Mark Rendle - NDC Oslo 2020
+Real rebels pay their taxes - Nils Norman Haukås - NDC Oslo 2020
+Build a DevOps Culture: Microsoft's Journey to adopt an Agile Mindset and DevOps culture - Gousset
+The Art & Joy of Testing in Production - Geert van der Cruijsen - NDC Oslo 2020
+Building an open source government application platform in the cloud - Buadu, Larsen & Kylstad
+Megahertz, Gigahertz, Registers and Instructions: How does a CPU actually work? - Kendall Miller
+What is a software security initiative and do I need one? - Nick Murison - NDC Oslo 2020
+F# as a Better Python - Phillip Carter - NDC Oslo 2020
+Modern Web UI with Blazor WebAssembly - Steve Sanderson - NDC Oslo 2020
+Does Your Codebase Spark Joy? - Jenna Pederson - NDC Oslo 2020
+Do Developers Dream of Stateless Apps? - Łukasz Gebel - NDC Oslo 2020
+Domain Driven UI - Roman Sachse - NDC Oslo 2020
+Chinafy your apps + Lessons you can steal from China - Adam Cogan - NDC Oslo 2020
+Where's my Stuff? Exploring data storage options in Azure - Mike Benkovich - NDC Oslo 2020
+Building confidence in concurrent code with a model checker - Scott Wlaschin - NDC Oslo 2020
+A Tale Of Four Startups - Liam Westley - NDC Oslo 2020
+Welcome to the (state) machine - Mauro Servienti - NDC Oslo
+OpenID Connect & OAuth 2.0 – Security Best Practices - Dominick Baier - NDC Oslo 2020
+Safety-critical systems from the inside - Maciej Gajdzica - NDC Oslo 2020
+Make it Boring - Jeremy Wagner - NDC Oslo 2020
+Type-setting in CSS: Using typography to enhance your design - Martine Dowden - NDC Oslo 2020
+Authoring ARM templates the easy way with FARMer - Isaac Abraham
+Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020
+How Sigmund Freud would perform a code review? - Piotr Czajka - NDC Oslo 2020
+Domain-Driven Refactoring - Jimmy Bogard - NDC Oslo 2020
+Anatomy of ASP.NET Core Requests - Steve Gordon - NDC Oslo 2020
+Kiss My Sass - Martine Dowden - NDC Oslo 2020
+Reinforcement Learning: Pac-Man - Malte Loller-Andersen & Manu Gopinathan - NDC Oslo 2020
+GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley - NDC Oslo 2020
+Designing and rewriting asynchronous tasks from scratch - Kevin Gosse - NDC Oslo 2020
+Why you should consider Web Assembly in your next frontend project - Håkan Silfvernagel
+The 5 Pillars of Collaborative Product Ownership - John Le Drew - NDC Oslo 2020
+Strangling Hydra one head at the time - Markus Fanebust Dregi - NDC Oslo 2020
+A Brief History of Computer Music - Anders Norås - NDC Oslo 2020
+Compassionate Components - Kristofer Selbekk - NDC Oslo 2020
+Going fast and cheap with Bots, Sanity and Kubernetes - Olav Nybø - NDC Oslo 2020
+TDD and the Terminator - An introduction to Test Driven Development - Layla Porter - NDC Oslo 2020
+Future-Proof Mobile Cross-Platform Apps with Flutter - Christian Wenz - NDC Oslo 2020
+Continuous Delivery with Azure Web Apps - Vidar Kongsli - NDC Oslo 2020
+How Effective Teams Use Git - Enrico Campidoglio - NDC Oslo 2020
+Who's your user? OpenID from the ground-up - Johannes Brodwall - NDC Oslo 2020
+Vertical Slice Architecture - Jimmy Bogard
+Continuous Delivery For Machine Learning: Patterns And Pains - Emily Gorcenski
+Continuous Intelligence: Keeping your AI Application in Production - Emily Gorcenski & Arif Wider
+ASP.NET Core Beyond the Basics - Chris Klug
+Build Your Cloud Infrastructure as Code With .Net Core - Hossam Barakat
+Event-driven computing with Kubernetes - Jakob Ehn
+.NET Core Data Security : Hope is not a Strategy - Stephen Haunts
+Three years of lessons from running potentially malicious code inside containers - Ben Hall
+Let's fly a drone with AI, and a bit of JavaScript - Yaser Adel Mehraban
+Consuming Microservices - Ian Cooper
+Keynote - Developing on Windows (and Linux) (and Remotely) in 2020 - Scott Hanselman
+How to Build an Inaccessible App - Amy Kapernick
+NDC Melbourne Online - 27-30 July 2020
+JavaScript: Past, Present and Future - David Neal
+The lazy programmer's guide to writing thousands of tests - Scott Wlaschin
+Implementing OpenID Connect and OAuth 2.0 – Tips from the Trenches - Dominick Baier
+Measuring DevSecOps: building metrics to understand effectiveness and success. - Victoria Almazova
+What You Need to Know About Open Source—Trust Me, I'm a Lawyer - Jeffrey Strauss
+The Mentor Playbook - Gabriela Dombrowski
+Real World Guide to Web API authentication on Azure - Heather Downing
+AI in the battle against fakes. - Henk Boelman
+Hot Chocolate: An introduction to GraphQL on ASP.Net Core - Michael Staib
+Forget about HTTP - Irina Scurtu
+NDC Oslo - Friday - Room 1
+NDC OSLO 2020 -  Online event
+NDC Oslo - Thursday - Room 1
+NDC OSLO 2020 - ROOM 10
+Have I Got NDC For You! (20:00 CEST)
+NDC Oslo Room 1
+NDC Oslo 2020 - Keynote: Keep Talking - Dylan Beattie
+How Effective Teams Use Git - Enrico Campidoglio
+From the OWASP Top Ten(s) to the OWASP ASVS - Jim Manico
+TypeScript for F# zealots - Tomas Petricek
+How to migrate an existing application to serverless - Marcia Villalba
+Breaking black-box AI - Evelina Gabasova
+C# into the Future - Mads Torgersen
+Deep Dive on Server-Side Blazor .NET - Carl Franklin
+The Abridged History of Application Security - Jim Manico
+NDC Oslo Online - 8-12 June 2020
+What you always wanted to know about Deep Learning, but were afraid to ask - Wei Meng Lee
+Confusion In The Land Of The Serverless - Sam Newman
+.NET Rocks Live – the API in 2020
+Keynote - NDC Porto 2020
+Cultivating Production Excellence - Liz Fong-Jones
+Measuring DevSecOps: building metrics to understand effectiveness and success - Victoria Almazova
+Top Secret Cloud Native Security Lessons - Ben Hall
+How Effective Teams Use Git - Enrico Campidoglio
+Octopus Runbooks, putting the Ops in DevOps - Derek Campbell
+Infrastructure as code - is it really? - Shahid Iqbal
+Microservices and Serverless - Sam Newman
+Database Deployment Cowboys to Continuous Delivery Heroes - Adam Close
+It's A Trap! - Sam Newman
+Using Immutable Data Structures in C# and .NET - Spencer Schneidenbach
+Reducing Third-Party Security Risk in .NET Core Applications - Niels Tanis
+Introducing the benefits of the testing diamond - Moreton Brockley
+Fighting Back Against a Distracted World - Increasing your Focus and Self-motivation -Stephen Haunts
+The Rise of Klintwalker – Mastering Your Inner Developer Part 2 - Lars Klint
+Modernizing Large Frontends with Web Components - Sam Julien
+GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley
+Lowering in C#: What's really going on in your code? - David Wengier
+Who’s not in the room? Build better products by engaging hard to reach users - Ariba Jahan
+Big Data Analytics in Near-Real-Time with Apache Kafka Streams - Allen Underwood
+Getting the best out of Entity Framework Core - Jon P Smith
+The Perimeter Has Been Shattered: Attacking and Defending Mobility and IoT on the Enterprise Network
+The Art of Code - Dylan Beattie
+Combatting illegal fishing with Machine Learning and Azure - Carmel Eve & Jess Panni
+A tale of two sides of 2FA - Christine Seeman
+Drinking a river of IoT data with Akka.NET - Hannes Lowette
+Common API Security Pitfalls - Philippe De Ryck
+ML and the IoT: Living on the Edge - Brandon Satrom
+Lambda? You Keep Using that Letter - Kevlin Henney
+How to Build a Magical Living Room - Saron Yitbarek
+Continuous Integration and Delivery for Databases - Jimmy Bogard
+How To Secure Your MicroServices - Andy Davies
+Test Driven Compliance - Mike Long
+Five Ways to Break a Git Repository - Edward Thomson
+How to train your impostor - Carolina Gilabert
+UX Design Fundamentals: What do your users really see - Billy Hollis
+Deep Dive on Server-Side Blazor - Carl Franklin
+Crash, bang, wallop: miscellaneous lessons from exploring a drum kit - Jon Skeet
+The Reduced NDC Company - Mark Rendle
+Fly the Enterprise: Applying Aviation Lessons to DevOps Teams - Kendall Miller
+Reinventing the Transaction Script - Scott Wlaschin
+Breaking black-box AI - Evelina Gabasova
+Navigating microservices with .NET Core - Ryan Nowak
+Building Trust in Teams - Richard Campbell
+Single Page Architectures with VueJS and ASP.NET Core - Kevin Griffin
+Go Pro on .NET with F# - Isaac Abraham
+Serverless containers with Knative and Cloud Run - Mete Atamel
+How does designing your culture help your code? - Vimla Appadoo
+How to hire great engineers - Norman Noble
+Building a real-time serverless app in Blazor using AWS - Martin Beeby
+3D printed Bionic Hand a little IOT and a Xamarin Mobile App - Clifford Agius
+Alexa, ask Cortana to tell Google to... - Alex Dunn
+Challenges of Managing CoreFX repo - Karel Zikmund
+Sprinkle some sparkle on it: Teaching Xamarin with Selfies - Luce Carter & Layla Porter
+Ordering the chaos - cleaning logs and ordering events in microservices - Adam Furmanek
+Real World Guide to Web API authentication on Azure - Heather Downing
+Angular and The Case for RxJS - Sandi Barr
+How Does Data Science Revolutionize the World of Machines? - Victoriya Kalmanovich
+How to code music? - Laura Silvanavičiūtė
+Effective Microservice Communication and Conversation Patterns - Jimmy Bogard
+Svelte, cybernetically enhanced web apps - Devlin Duldulao
+Solving Tricky Coordination Problems in Stateless .NET Services - Loris Cro
+Wait, I have to test the front end too? - Amy Kapernick
+Introduction to GitHub Actions - Edward Thomson
+The State of Vue.js in 2020 - Why You Should Make The Leap - Gwendolyn Faraday
+Shrink The Web: How To Get Happier By Removing Crap - Lemon
+Turbocharged: Writing High-Performance C# and .NET Code - Steve Gordon
+25 Years of SSL - Secure(ish) Sockets Layer - Scott Helme
+Best practices for securing CI/CD pipeline - Victoria Almazova
+Turning a side project into a business 10 lessons in 10 minutes - David James
+The monster under the bed - working with legacy code - Ioana Bota
+OWASP ZAP HUD WTF? - Robin Minto
+Keep it Clean: Why Bad Data Ruins Projects and How to Fix it - Philip Winder
+Blazor in more depth - Ryan Nowak & Steve Sanderson
+From the OWASP Top Ten(s) to the OWASP ASVS - Jim Manico
+Change your habits: Modern techniques for modern C# - Bill Wagner
+DDD Really Matters! - Jimmy Nilsson
+Why Kubernetes is Not Enough - Gaurav Gupta
+Beyond REST with GraphQL in .Net core - Irina Scurtu
+Machine Learning for .NET developers - Olia Gavrysh
+The Internet of Pwned Things - Troy Hunt
+Can TypeScript really make infrastructure management easy? - Paul Stack
+Micro Frontends – a strive for fully verticalized systems - David Leitner
+Frontend in F#? Hold my beer! - Vagif Abilov
+An introduction to Machine Learning using LEGO - Jeppe Tornfeldt Sørensen
+Delightful Durable Function Patterns - Adrienne Tacke
+Empowering Soft Skills with Team Dynamics/Communication Skills - Crux Conception
+A Developer's Introduction to Electronics - Guy Royse
+Frictionless Frontends for Backend Developers - Mandy Michael
+Modernizing the enterprise desktop application - Oren Novotny
+Shor's Algorithm is Scary NOW - James Birnie
+Serverless: Five Key Things you need to Know - Gojko Adzic
+There’s an Imposter in this room! - Angharad Edwards
+From WCF to gRPC - Mark Rendle
+A Developer’s Introduction to Kubernetes - Chris Klug
+Cynicism Doesn’t Build Products - Gwen Diagram
+Controlling Wildfires While Only Getting Singed. - Jessica White
+Capability Mapping - Ian Cooper
+How to Steal an Election - Gary Short
+What you always wanted to know about Deep Learning, but were afraid to ask - Wei-Meng Lee
+There are no snow days when you work remote. - Jennifer Wadella
+EVE Online: Defending our players from hackers and the evolution of account security
+OpenID Connect & OAuth 2.0 – Security Best Practices - Dominick Baier
+Lean, not mean. Building sustainable software with Lean software practices - David James
+Using cats to purfect your software architecture - Andy Clarke
+Debugging - A dive into Breakpoints - Philip Sutton
+Securing Serverless Applications in Azure - Sjoukje Zaal
+Blazor, a new framework for browser-based .NET apps - Steve Sanderson
+Rip It Up And Start Again? - Sam Newman
+: The OWASP Top Ten Proactive Controls 2018 - Jim Manico
+Application Diagnostics in .NET Core 3.1 - Damian Edwards & David Fowler
+Make your custom .NET GC - "whys" and "hows" - Konrad Kokosa
+SignalR Deep Dive: Building Servers - David Fowler & Damian Edwards
+We are the Guardians of our Future - Tess Ferrandez-Norlander
+The Cyberattack on Visma in 2018, experience sharing and views from the blue team - Espen Johansen
+.NET Core Data Security : Hope is not a Strategy - Stephen Haunts
+Implementing OpenID Connect and OAuth 2.0 – Tips from the Trenches - Dominick Baier
+Designing a Secure Software Development Lifecycle with DevOps - Mike Long
+Modern Web Vulnerabilities 2020 - Erlend Oftedal
+Common API Security Pitfalls - Philippe De Ryck
+The Future of AppSec is Cloud-Native - Jimmy Mesta
+OpenID Connect & OAuth 2.0 – Security Best Practices - Dominick Baier
+The Internet of Pwned Things - Troy Hunt
+Why Don't Users Do What They are Supposed to Do? A look at users and security - Silje Lærk
+25 Years of SSL - Secure(ish) Sockets Layer - Scott Helme
+Measuring DevSecOps: building metrics to understand effectiveness and success - Victoria Almazova
+A reasonable guide to security practices - Niall Merrigan
+Introduction to Election Security - Patricia Aas
+Keynote: Post Quantum Future - Jaya Baloo
+NDC Melbourne 2020
+NDC Sydney 2020
+Blazor in more depth - Steve Sanderson & Ryan Nowak
+Beyond infrastructure as code DSLs - Jake Ginnivan
+Clean Architecture with ASP.NET Core 3.0  - Jason Taylor - NDC Sydney 2019
+Unity for the enterprise developer - Matt Ellis
+NDC Sydney 2019 Lightning Talks - Has AlTaiar, Michael John Pena, Negar Ghanbari & Vatsalya Goel
+Access All Areas: Making Accessibility More Accessible - André Lemos
+gRPC for ASP.NET Core, a new framework for high performance APIs - James Newton-King
+Busting the Func'ing Jargon - Daniel Chambers
+Tackling Dreaded .Net Cold Starts When Going Serverless - Sarjeel Yusuf
+Modern day C# development in Visual Studio 2019 - Kevin Pilch
+Introduction to Angular 8 - Alain Chautard
+C# 8 and Beyond - Filip Ekberg
+Being cheap with the cloud - Aaron Powell
+Apache Kafka Event streaming platform for .NET developers - Viktor Gamov
+EVE Online: Defending our players from hackers - Stefán Jökull Sigurðarson
+A brief history of Cloud - Alex Mackey
+Blazor, a new framework for browser-based .NET apps - Steve Sanderson
+Full Stack Accessibility, and the Business Case for being Inclusive - Larene Le Gassick
+The next 5 years of ASP.NET Core - Ryan Nowak
+Monitoring a Global Multitenant Service - Magnus Mårtensson
+Hack to the Future - Troy Hunt
+Bank Grade Security - Kieran Jacobsen
+Static Sites, Dynamic microservices, & Azure: How we built Microsoft Docs and Learn - Dan Fernandez
+The Moon: Gateway to the Solar System - Richard Campbell
+Service degraded: Tackling burnout in the IT industry - Sonia Cuff
+Cloud Governance: Winning the battle between speed and control - Sonia Cuff
+Getting Started with Cosmos DB + EF Core - Thiago Passos
+So, you want to be a CTO? - Mahesh Krishnan
+GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley
+Going 0 to 100 with Kubernetes - Scott Holden
+Modern JavaScript For Web Dinosaurs - Ryan Preece
+Internals of Exceptions - Adam Furmanek
+Chinafy your apps + Lessons you can steal from China - Adam Cogan
+Dungeons, Dragons and Functions - Mathias Brandewinder
+Real-time Face Recognition With Microsoft Cognitive Services - Jernej Kavka (JK)
+Building a Realtime "Backend in a Box" with PostgreSQL and Vue - Rob Conery
+Async demystified - Karel Zikmund
+Empower Your Microservices with Istio Service Mesh - Hossam Barakat
+Dissecting Kubernetes (K8s) - An Intro to Main Components - Joshua Sheppard
+Reverse Engineering a Classic Video Game - Tim Comport
+DataDevOps for the Modern Data Warehouse on Microsoft Azure - Lace Lofranco
+Serverless and App Service Security on Azure - Pratik Khasnabis & Mahesh Krishnan
+AI in the battle against fakes - Henk Boelman
+DDD really matters! - Jimmy Nilsson
+DevOps for the Commodore 64: so what's your excuse? - Todd Whitehead
+Opening Doors with JSON Web Tokens - Ben Dechrai
+Pragmatic DevOps - How and Why - Damian Brady
+Kubernetes – going beyond the basics - Shahid Iqbal
+Keeping your builds green using Docker - Jakob Ehn
+Deep Learning with CNTK and F# - Mathias Brandewinder
+I Don’t Need No Stinkin’ Framework - Mastering Shadow DOM - Martine Dowden
+How to put a Penguin in a Cloud: Linux on Azure - Brendan Richards
+API team characteristics and best practices - Nahid Farrokhi
+Handling Angular Forms Without Losing Your Sanity - Jennifer Wadella
+TypeScript - Beyond the Basics - Eric Potter
+A Tale Of Four Startups - Liam Westley
+Modern day C# development in Visual Studio 2019 - Kevin Pilch
+Using Flutter to develop cloud enabled mobile applications - Pooja Bhaumik & Nick Randolph
+Commuting like a developer - Anton Ball
+Innovation and Trends in Cloud Computing - Julio Faerman
+How to do in-app chaos testing - Wesley Cabus
+Thousands of concurrent connections with Azure SignalR Service - Nelly Sattari & Stafford Williams
+Building Trust in Teams - Richard Campbell
+Containers/Docker - what, why and how - Shahid Iqbal
+Iterative metrics, dashboards and monitors - Carmel Hinks
+Continuous Intelligence: Keeping your AI Application in Production - Arif Wider
+Microservices for building an IDE – The innards of JetBrains Rider - Maarten Balliauw
+Quantum Computing Concepts - John Azariah
+Understanding Git — Behind the Command Line - Enrico Campidoglio
+Cognitive biases in software development - Ian Hughes
+Back to Basics: Efficient Async and Await - Filip Ekberg
+Azure SpendOps – The Art of Effectively Managing Azure Costs - William Liebenberg
+Building Great Teams - Donna Edwards
+What's going on with Project Fugu? - Phil Nash
+F# Code I Love - Don Syme
+Renault car infotainment system with TomTom LIVE Services - Peter Bindels
+Freestanding C++ - Past, Present, and Future - Ben Saks
+Testing The Tests: Mutation Testing for C++ - Seph De Busser
+The Evolution of Accelerated 2D and 3D Graphics in Qt - Laszlo Agocs
+Uncertain Models - Learning from the past and optimizing for the future - Markus Fanebust Dregi
+The Dawn of a New Error - Phil Nash
+The Anatomy of an Exploit - Patricia Aas
+Just enough Assembly for Compiler Explorer - Anders Schau Knatten
+C++ Insights: See your source code with the eyes of a compiler - Andreas Fertig
+Reverse engineering a legacy software in a complex system: A systems engineering approach
+Scaling Qt from Desktop to Servers and Micro-controllers - Volker Hilsheimer
+The ultimate guide to software updates on embedded Linux devices - Mirza Krak
+Embracing Modern CMake - Stephen Kelly
+Make your tests tell the story of your domain - Mads Opheim & Anne Landro
+No Nonsense UI Design - Erik Engheim
+Unicode - going down the rabbit hole - Peter Bindels
+Customizing Qt to create first class graphical experiences on highly customized hardware
+Using Conan in a real-world complex project - Kristian Jerpetjøn
+Prioritizing Security correctly - Ole Alexander Pihl Konstad
+Overview on the Synthesis of Beyond Budgeting, Open Space, Sociocracy & Ag
+Locknote: The Internet of Pwned Things - Troy Hunt
+Compile Time Regular Expressions - Hana Dusíková
+"New" Features in C - Dan Saks
+C++ Code Smells - Jason Turner
+C++ Smart Pointers - Usage and Secrets - Nicolai Josuttis
+Containers unplugged: understanding user namespaces - Michael Kerrisk
+Containers unplugged: Linux namespaces - Michael Kerrisk
+Modern techniques for keeping your code dry - Björn Fahller
+Anchored Metadata - Austin Bingham
+"Allegro" Means Both Fast and Happy. Coincidence? - Andrei Alexandrescu
+Securing the Connected Car - Mirza Krak
+HiMake - the build tool that builds the Kongsberg missile software - Arne Førlie
+Developing the Bloomberg Terminal -- Local performance & measurement techniques - Paul Williams
+Storage Duration and Linkage in C and C++ - Dan Saks
+The Hitchhiker's Guide to Faster Builds - Viktor Kirilov
+How to build Python-C++ libraries - Jørgen Kvalsvik
+Using Android as OS for a single purpose system - Martin Ertsås
+A Short Life span - For A Regular Mess - Victor Ciura
+From circuit board design to finished product: the hobbyist’s guide to hardware manufacturing
+How did Linux become a mainstream embedded operating system? - Chris Simmonds
+Developing a missile simulator - Arnstein Tinjar
+How I learned to love Ada as a C++ developer - Maya Posch
+Generators, Coroutines and Other Brain Unrolling Sweetness - Adi Shavit
+Model Based SW Engineering: a success story from development of the Joint Strike Missile
+C++ in containers - Marc Goodner
+C++ Modules and Large-Scale Development (Part 2) - John Lakos
+C++ Modules and Large-Scale Development (Part 1) - John Lakos
+C++ Concepts for Developers - Hubert Matthews
+The Most Average Function There Is - Andrei Alexandrescu
+C++: λ Demystified - Andreas Fertig
+Combining C++17 Features - Nicolai Josuttis
+The TANDBERG Way - Olve Maudal
+NDC TechTown 2019 Keynote: Elections: Trust and Critical Infrastructure - Patricia Aas
+An in-flight port from Angular to React, a tale of performance and happiness - Christiansen & Paulin
+NDC Sydney 2019
+Privacy and GDPR: What all developers should know - Johannes Brodwall
+Correcting Common Async/Await Mistakes in .NET - Brandon Minnick
+Advanced .NET debugging techniques from real world investigations - Christophe Nasarre and Kevin Gos
+Hack to the Future - Troy Hunt
+A practical look at security and identity in ASP.NET Core and Entity Framework Core - Jon P Smith
+Security Static Analysis - Avoiding an Angry Mob of Engineers - Josh Brown-White
+Blazor, a new framework for browser-based .NET apps - Steve Sanderson
+Best practices for securing CI/CD pipeline - Victoria Almazova
+Shaving my head made me a better programmer - ​Alex Qin
+UX Design Fundamentals: What do your users really see - Billy Hollis
+Logging, Metrics and Events in ASP NET Core - Martin Thwaites
+A practical guide to deep learning - Tess Ferrandez-Norlander
+The Moon: Gateway to the Solar System - ​Richard Campbell
+Real world hypermedia at NRK TV - Einar W. Høst
+Building a bank from scratch in the Cloud - Hans Kristian Flaatten
+Moving the enterprise to Kubernetes - Gustav Kaleta and Fredrik Klingenberg
+Powering 100+ million daily users - Rezaul Hoque
+The New Frontier: A Gentle Introduction to Rust - Matthew Gathu
+Write your own domain specific language with F# - Mikhail Smal
+Functional Web Programming in .Net with the SAFE Stack - Anthony Brown
+How we messed everything up but still got LoRa to the stratosphere - Sindre Lindstad
+Mobile AR in 10 minutes - Kristina Simakova
+I didn't know that - Stefan Judis
+What's cooking for JavaScript: a look at current TC39 proposals - Branislav Jenco
+Why our products and communities need our empathy - Sasha Romijn
+Securing the web with AI - Callum Whyte
+5 Tips for Cultivating EQ in the Workplace - Christina Aldan
+Kotlin coroutines: new ways to do asynchronous programming - Svetlana Isakova
+Developing Kernel Drivers with Modern C++ - Pavel Yosifovich
+Deliberate Architecture - Robert Smallshire
+The Curiously Recurring Pattern of Coupled Types - Adi Shavit and Björn Fahller
+Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard
+Monolith Decomposition Patterns - Sam Newman
+Empower Your Microservices with Istio Service Mesh - Hossam Barakat
+Getting Started with Cosmos DB + EF Core - Thiago Passos
+Deep Learning in the world of little ponies - Galiya Warrier
+A Skeptics Guide to Graph Databases - David Bechberger
+ML and the IoT: Living on the Edge - Brandon Satrom
+Real-Time, Distributed Applications w/ Akka.NET, Kubernetes, .NET Core, and Azure Kubernetes Service
+Code the future, now - Adam Ralph
+Kotlin for C# Developers - Alex Dunn
+Mirror mirror on the wall, what is the vainest metric of them all? - ​Paul Stack
+Keynote: Enterprise transformation (and you can too) - Donovan Brown
+Living in eventually consistent reality - Bartosz Sypytkowski
+Is AI right for me? - Amber McKenzie
+Hacking with Go - Victoria Almazova
+The Visible Developer- Why You Shouldn't Blend In - Heather Downing
+Celebrate Your Expert: Overcoming Imposter Syndrome - Jay Harris
+Trying to learn C# - Patricia Aas
+Rediscovering fire - on designing portable, multi-language libraries - Jørgen Kvalsvik
+Evolving compositional user interfaces - Thomas Presthus & Asbjørn Ulsberg
+It's about time - Christin Gorman
+Who's Who? Federating Identity with Azure B2C - Andrew Coates
+Machine Learning: The Bare Math Behind Libraries - Piotr Czajka and Łukasz Gebel
+Protecting sensitive data in huge datasets: Cloud tools you can use - Felipe Hoffa
+ML BuzzWords demystified - Oleksandra Sopova & Natalia An
+The Hitchhiker's Guide to the Cloud - Bruno Amaro Almeida
+Advanced Azure App Services - K. Scott Allen
+Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood
+Creating solutions for everyone - Alex Mackey
+Building Great Teams - Donna Edwards
+The Neverending Story: Agile Transformation for DevOps - Sarah Ziegenfuss
+Entity Framework debugging using SQL Server: A Detective Story - Chris Woodruff
+Serverless with Knative - Mete Atamel
+Architecture: The Stuff That's Hard to Change - Dylan Beattie
+Microservices without DDD is risky business! - Trond Hjorteland
+CompSci and My Day Job - Rob Conery
+Deep Learning in Microsoft Azure: CNTK, CaffeOnSpark and Tensorflow - Jen Stirrup
+System Stable: Robust connected applications with Polly, the .NET Resilience Framework - Bryan Hogan
+Lowering in C#: What's really going on in your code? - David Wengier
+Modern Continuous Integration with Azure Pipelines - Edward Thomson
+Dev and Test Agility for your Database with Docker - Julie Lerman
+War stories from .NET team - Karel Zikmund
+DevOps for Machine Learning - Damian Brady
+Futurology for Developers - the Next 30 Years in Tech - Mark Rendle
+Building personalization with Orleans and Actor Modelling - Harald Schult Ulriksen
+Solving Tricky Coordination Problems in Stateless .NET Services - Loris Cro
+Making the most of Security Tests - Paweł Krzywicki
+Fabulous – F# for cross-platform mobile apps - Don Syme
+Security – only developers can make it proactive - Beata Szturemska
+Security Vulnerabilities Decomposition: Another way to look at Vulnerabilities - Katy Anton
+Getting started with Azure DevOps - Donovan Brown
+Cognitive biases in software development - Ian Hughes
+Source Instrumentation for Monitoring C++ in Production - Steven Simpson
+5 Lessons Learned from Implementing 40+ Machine Learning Projects - Xiaopeng Li
+test && commit || revert. What?! - Kari Eline Strandjord
+Five Ways to Break a Git Repository - Edward Thomson
+Unlocking the doors of parliament - Sindre Lindstad
+How to tame your team monsters! - Hanne Lian & Nora Holte
+I Love Learning From People! - Bryan Hogan
+"OMG! A Girl?!" What to do when a woman joins your team - Meg Gotshall
+How to deal with your demons - Lubaba Farin Tanisha
+Emojis – the fun and weird parts! - Jøran Vagnby Lillesand
+Practical Chaos Engineering  breaking things on purpose to make them more resilient against failure
+Universal Design of Software Solutions  Necessary for some, good for everyone
+Terraform best practices with examples and arguments - Anton Babenko
+Observability Driven Development - Geert van der Cruijsen
+Lessons from the API Management trenches - Eldert Grootenboer
+Building a parser in C#, from first principles - Nicholas Blumhardt
+How to be cool in the age of legacy - Jøran Vagnby Lillesand
+Bulletproof Transient Error Handling with Polly - ​Carl Franklin
+Pragmatic Performance: When to care about perf, and what to do about it - David Wengier
+An Introduction to WebAssembly - Guy Royse
+Build your Cloud Operating Model on Azure from zero to hero - David Pazdera
+Why FIDO Security Keys & Webauthn are Awesome - Jen Tong
+How to use ML NET to write crushing metal riffs - Michał Łusiak
+Heterogeneous pipeline processing with Kubernetes and Google Cloud Pub Sub - Håkon Åmdal
+Pointless or Pointfree - Damjan Vujnovic
+The Seven Deadly Presentation Sins - Samantha Coates and Andrew Coates
+Empathetic Design Systems - Jennifer Wong
+What vulnerabilities? Live hacking of containers and orchestrators - Lewis Denham-Parry
+Indexing and searching NuGet.org with Azure Functions and Search - Maarten Balliauw
+Securing Web APIs from JavaScript/SPA Applications - Brock Allen
+Anchored Metadata - Austin Bingham
+Crash, Burn, Report - Scott Helme
+We are the guardians of our future - Tess Ferrandez-Norlander
+Adding business logic to your tokens. What could possibly go wrong - Linda Lawton
+Developing privacy - Glenn F. Henriksen
+Functional Patterns for the Object Oriented - Øystein Kolsrud
+Terraforming Azure - Torstein Nicolaysen
+The Functional Toolkit - Scott Wlaschin
+DIY Async Message Pump: Lessons from the trenches - Daniel Marbach
+Chasing holograms - the future of HoloLens development - Scott Leaman
+A Primer on Functional Programming - Sarah Withee
+Azure on the cheap - Karl Syvert Løland
+Understanding Git — Behind the Command Line - Enrico Campidoglio
+Getting out of quicksand, with DevOps! - Roman Pickl
+Chinafy your apps + Lessons you can steal from China - Adam Cogan
+Kill Evil Mutants! - Dave Aronson
+10 years of microservices at FINN.no - and we still haven’t slain that dragon! - Henning Spjelkavi
+Testing GraphQL: From Zero To Hundred Percent - Roy Derks
+Panel discussion on the future of .NET
+CSS Grid - What is this Magic?! - Amy Kapernick
+Responsible JavaScript - Jeremy Wagner
+Web components and micro apps, the web technologies peacekeeper - Yaser Adel Mehraban
+I'm Going To Make You Stop Hating CSS - Lemon
+Mechanical C++ Refactoring in the Present and in the Future - Stephen Kelly
+Making IoT: An Intro for Web Devs - Kristina Durivage
+Rust for C++ developers - What you need to know to get rolling with crates - Pavel Yosifovich
+C++: λ Demystified - Andreas Fertig
+Dungeons, Dragons and Functions - Mathias Brandewinder
+C# and Rust: combining managed and unmanaged code without sacrificing safety - Ashley Mannix
+Avoiding the Agile Alignment Trap with DevOps - Mike Long
+Automatic text summarization - Masa Nekic
+Drones & AI - What's all the buzz about ? - Adam Stephensen
+Why databases cry at night? - Michael Yarichuk
+How to Steal an Election - Gary Short
+An introduction to Machine Learning using LEGO - Jeppe Tornfeldt Sørensen
+Advanced Serverless Workflows with Durable Functions - Jeremy Likness
+Event Driven Collaboration - Ian Cooper
+Adding Observability to Distributed Systems - David Ostrovsky
+Reactive DDD—When Concurrent Waxes Fluent - Vaughn Vernon
+Getting to DDD: Pragmatic or Principled? - Julie Lerman
+Building APIs Rapidly with Azure Functions - Lars Klint
+C# 8 and Beyond - Filip Ekberg
+Writing Allocation Free Code in C# - Matt Ellis
+Writing a Neural Net from Scratch - Joe Albahari
+What is the point of Microsoft? 3.0 - Liam Westley
+Hidden gems in .NET Core 3 - David Fowler & Damian Edwards
+Unity 101 for C# Developers - Andy Clarke
+Three Rewrites, One Startup - An Architect’s Journey - Spencer Schneidenbach
+Turing's Toy - The story of a mathematical idea that changed the world - Øystein Kolsrud
+Code Review Etiquettes 101 - Janani Subbiah
+I thought we did things right until I went looking - Security errors in Norwegian websites - Håvard
+RSA encryption in 10 minutes - Fredrik Meyer
+What hit my webservice with 408?! - Paweł Krzywicki
+Root-of-trust - What it is and why you need one in IoT - Ole Alexander Konstad
+IoT meets IPv6: The Perfect Storm? - Kristian Bognæs
+Shiny objects are cool, but so is building products people use - Jenna Pederson
+DevOps ICU: Improving DevOps Results by (Correctly) Integrating UX - Debbie Levitt
+Keynote: Leadership Guide for the Reluctant Leader - David Neal
+The Shape of Data: Machine Learning and Topology - Kaisa Taipale
+SignalR: To Chat and Beyond - David Pine
+Patterns for high-performance C# - Federico Andres Lois
+One Codebase to Rule Them All - Using React Native Everywhere - Jesse Weigel
+How not to be the best app no one uses: Effective Onboarding for fun & profit - Kendall Miller
+Azure Functions 2.0: Enterprise-Grade Serverless - Katy Shimizu
+CSS Grid - What is this Magic?! - Amy Kapernick
+From one release per quarter to 30 times a day - Marcel de Vries
+The Dark Side Of Events - Vladik Khononov
+HACKERS, HOOLIGANS, HEISTS, & HISTORY - Brian Contos
+Networking at conferences for autistic people and introverts - Dennie Declercq
+Scaling microservices with Message queues, .NET and Kubernetes - Lewis Denham-Parry
+UX Design Fundamentals: What do your users really see - Billy Hollis
+IP Fundamentals—Trust Me, I'm a Lawyer - Jeff Strauss
+Quantum Computing Concepts - John Azariah
+Continuous Learning for Developers - Brian MacDonald
+Cypress: Where Automated Acceptance Testing Isn’t Just for QA Anymore - Justin James
+Modern web application bugs - Erlend Oftedal
+DevOps for Machine Learning - Damian Brady
+Service Workers: Transforming your App into a Progressive Web Application - Avindra Fernando
+Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard
+Game On! Gamifying Your Apps for Fun and Profit - Gwendolyn Faraday
+Using C# Expression Trees in the Real World - Spencer Schneidenbach
+CloudWatch-ing: Creating More Useful Logs & Alerts with AWS - Rhia Dixon
+Bulletproof Transient Error Handling with Polly - Carl Franklin
+Distributed Tracing and Monitoring with OpenCensus - Simon Zeltser
+Dungeons, Dragons and Functions - Mathias Brandewinder
+Blazor: C# running in the browser via WebAssembly - Scott Sauber
+Goodbye REST APIs. Hello GraphQL! - Cory House
+How to Build a RESTful Service with ASP.NET Core and Swagger - Gregor Dzierzon
+Getting Started with Cosmos DB + EF Core - Thiago Passos
+Clean Architecture with ASP.NET Core 2.2 - Jason Taylor
+An AI with an Agenda: How Our Cognitive Biases Leak Into Machine Learning - Arthur Doler
+Hacking Humans : Social Engineering Techniques and How to Protect Against Them - Stephen Haunts
+Serverless with Knative - Mete Atamel
+UX + Engineering: A Tale of Two Cities - Edward Ecker & Joe Karlsson
+Hacking Your Processes - Richard Wellum
+Everyday Agile for One: Recipes that make development for one … Fun - Elsa Vezino
+NDC Porto 2020 - Save the date!
+Are You Really Using Kanban, or Just Making a List of Issues? - Tom Cudd
+Augmented Reality - The State of Play - Rafał Legiędź
+Securing Web Applications and APIs with ASP.NET Core 2.2 and 3.0 - Brock Allen
+Modern Web Testing: Going Beyond Selenium - Dmitry Vinnik
+Fundamentals of Azure IoT - Justin Grammens
+How to Escape The Distributed Monolith - Ian Cooper
+Async injection - Mark Seemann
+No Strings Attached: JavaScript without Webpack, Transpilers, or Frameworks - Ashley Grant
+Exploring C# 8: The Deep Dive - David Pine
+ECMA 6 JavaScript, the Good Parts - Jennifer Estrada
+Designing a Flexible UI Architecture with React and GraphQL - Kamran Ayub
+A Skeptics guide to functional style javascript - Jonathan Mills
+From zero to CD in 60 minutes - Glenn F. Henriksen
+From localhost to production: Managing your code with Azure DevOps -  Jay Harris
+Kubernetes - going beyond the basics - Shahid Iqbal
+Kubernetes, Azure and .NET - What's it all about? - Shahid Iqbal
+Elasticsearch Suggesters: Beyond Autocomplete - Brett Hazen
+Serverless Architecture Patterns - Lynn Langit
+Keynote: Hack to the Future - Troy Hunt
+Autonomous microservices don't share data. Period - Dennis van der Stelt
+Real World Guide to Web API authentication on Azure - Heather Downing
+Keyboards? Where we’re going, we don’t need keyboards - Don Wibier
+Reading other peoples code - Patricia Aas
+Protecting Encryption Keys with Azure Key Vault - Stephen Haunts
+All our aggregates are wrong - Mauro Servienti
+Quantum Computing Concepts - John Azariah
+Dungeons, Dragons and Functions - Mathias Brandewinder
+Developer Accessible Machine Learning - Michal Lusiak
+Recent Solutions Using Deep Learning Models/ The How and Why - Hazel Clarke
+Agility ≠ Speed - Kevlin Henney
+Fantastic Mr. Function - Damjan Vujnovic
+A Practical Guide to Dashboarding - Jessica White
+Building Clients for OpenID Connect/OAuth 2-based Systems - Dominick Baier
+Code the future, now - Adam Ralph
+Securing Web Applications and APIs with ASP.NET Core 2.2 and 3.0 - Dominick Baier
+What Is This Cloud Native Thing Anyway? - Sam Newman
+Async injection - Mark Seemann
+A lap around Azure Devops - Jakob Ehn
+CSS Grid - What is this Magic?! - Amy Kapernick
+Pragmatic Performance: When to care about perf, and what to do about it - David Wengier
+Dynamic Runtime Code with Roslyn - Jeremy Miller
+GraphQL Will Do To REST What JSON Did To XML - Roy Derks
+A Skeptic's Guide to Functional Style Javascript - Jonathan Mills
+Deep Learning in the world of little ponies - Galiya Warrier
+Tabs, spaces and salaries: a data science detective story - Evelina Gabasova
+Architectural patterns for the cloud - Mahesh Krishnan
+APIs Exposed! - Layla Porter
+From 'dotnet run' to 'Hello World!' - Matt Warren
+Dungeons, Dragons and Functions - Mathias Brandewinder
+Build cross-platform mobile apps using Fabulous - Jim Bennett
+Zero to Mobile Hero - Intro to Xamarin and Visual Studio Team Services - Luce Carter
+Let’s Talk About Mental Health - Arthur Doler
+Skip the first three months of development for your next app - Gojko Adzic
+Serverless with Knative - Mete Atamel
+ASP.NET Core: The One Hour Makeover - Jon Galloway
+Patterns for Resilient Architecture - Adrian Hornsby
+DevSecOps for Developers: How To Start - Patricia Aas
+Linux Security APIs and the Chromium Sandbox - Patricia Aas
+Implement DevSecOps in Azure - Victoria Almazova
+Securing Kubernetes with Istio - Erlend Oftedal
+Protecting Encryption Keys with Azure Key Vault - Stephen Haunts
+Building Clients for OpenID Connect/OAuth 2-based Systems - Dominick Baier
+Hacking a Cat — Going Beyond Traditional Attack Vectors - Niall Merrigan
+Crash, Burn, Report - Scott Helme
+Securing Web Applications and APIs with ASP.NET Core 2.2 and 3.0 - Dominick Baier
+Hack to the Future - Troy Hunt
+Domain-Driven Design: Hidden Lessons from the Big Blue Book - Nick Tune
+Icons and the Web: Symbols of the Modern Age - Tim G. Thomas
+Distributed Tracing: How the Pros Debug Concurrent and Distributed Systems - Aaron Stannard
+Observability and the Development Process - Christine Yen
+Four Languages from Forty Years Ago - Scott Wlaschin
+Crash, Burn, Report - Scott Helme
+Society (n+1).0: smashing the patriarchy and other ways of changing the world
+The Functional Programmer's Toolkit - Scott Wlaschin
+Ctrl-Alt-Del: Learning to Love Legacy Code - Dylan Beattie
+.NET Rocks Live on Software Feature Selection with Christine Yen
+A practical guide to deep learning - Tess Ferrandez-Norlander
+Scaling microservices with Message queues, .NET and Kubernetes - Lewis Denham-Parry
+Small Steps, Giant Leaps: Engineering Lessons from Apollo - Dylan Beattie, Kevlin Henney
+The State of C# - What Have I Missed? - Filip Ekberg
+Structure and Interpretation of Test Cases - Kevlin Henney
+CompSci and My Day Job - Rob Conery
+Panel discussion on the future of .NET
+Avoiding the Agile Alignment Trap with DevOps - Mike Long
+Getting Started with Cosmos DB + EF Core - Thiago Passos
+Building Clients for OpenID Connect/OAuth 2-based Systems - Dominick Baier
+Securing Web Applications and APIs with ASP.NET Core 2.2 and 3.0 - Dominick Baier
+What you need to know about ASP.NET Core 2.2 - Damian Edwards, David Fowler
+Keynote: The Microsoft Open Source Cinematic Universe - Phase 2 - Scott Hanselman
+Futurology for Dummies - the Next 30 Years in Tech - Mark Rendle
+The promise of an async future awaits - Bill Wagner
+Solving Diabetes with an Open Source Artificial Pancreas - Scott Hanselman
+Versioning 1.0.1 - Jon Skeet
+Async injection - Mark Seemann
+Data on the Inside, Data on the Outside - Ian Cooper
+DiagnosticSourcery 101 - Mark Rendle
+Where is C# headed? - Mads Torgersen, Jon Skeet
+Blazor, a new framework for browser-based .NET apps- Steve Sanderson
+Beyond Developer - Dan North
+Leadership Guide for the Reluctant Leader - David Neal
+How We Got Here - The History of Web Development - Richard Campbell
+Hack to the Future - Troy Hunt
+Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard
+Why your ASP.NET Core application won't scale - Damian Edwards, David Fowler
+Insecure Transit - Microservice Security - Sam Newman
+Real Quantum Computing - James Birnie
+Migrating to Microservice Databases: From Relational Monolith to Distributed Data - Edson Yanaga
+Breaking Down Your Build: Architectural Patterns For A More Efficient Pipeline - Abraham Marin-Perez
+Using Service Meshes and Kubernetes to Solve Service-to-Service Communications... - Ben Hall
+Build software like a bag of marbles, not a castle of LEGO® - Hannes Lowette
+Building Progressive Web Apps with React - Jonathan Mills
+Agile Software Architecture - Ian Cooper
+Manual memory management in .NET Framework - Adam Furmanek
+HTTPS in ASP.NET Core 2 in Docker Linux Containers Deep Dive - Rob Richardson
+Measure All The Things with App Metrics - Mark Rendle
+Need for speed 8, performance tuning of your web application - Yaser Adel Mehraban
+Give it a REST - Tips for designing and consuming public API's - Liam Westley
+Leadership Guide for the Reluctant Leader - David Neal
+Handy Tools for Designing Great Web APIs - Mike Amundsen
+Drones, AI & IOT - What's all the buzz about ? - Adam Stephensen
+Dungeons, Dragons and Functions - Mathias Brandewinder
+A Practical Guide to Dashboarding - Jessica White
+Tabs, spaces and salaries: a data science detective story - Evelina Gabasova
+The Web That Never Was - Dylan Beattie
+Reactive DDD—When Concurrent Waxes Fluent - Vaughn Vernon
+Build vs Buy: Software Systems at Jurassic Park - Todd Gardner
+Containers for Real Integration Tests - Philipp Krenn
+Kubernetes - going beyond the basics - Shahid Iqbal
+How to seamlessly transition from Developer to Leader - Ian Hughes & Donna Edwards
+Natural Language Processing with Deep Learning and TensorFlow - Barbara Fusinska
+Finding your service boundaries - a practical guide - Adam Ralph
+.NET Rocks Live with Domnick Baier and Brock Allen
+ARMGDN - Build modern web apps using Apollo, React, MobX GraphQL, Db and Node.js - Vladimir Novick
+Rock-Solid Components with TypeScript and GraphQL - Mat Warger
+Adapting ASP.NET Core MVC to your needs - Filip W
+Six Little Lines of Fail - Jimmy Bogard
+Neural Networks: A Primer - Rishal Hurbans
+Practical Security for Web Applications - Chris Holland
+The Enterprise DevOps Challenge - Roy Osherove
+Using Kotlin Coroutines for Asynchronous and Concurrent Programming - Pedro Felix
+The secret unit testing tools no one ever told you about - Dror Helper
+Functional-first programming with F# - Tomas Petricek
+Implement DevSecOps in Azure - Victoria Almazova
+Building Clients for OpenID Connect/OAuth 2-based Systems - Brock Allen & Dominick Baier
+Scaling Frontend Development - Luis Vieira
+How to build a social network entirely on serverless - Yan Cui
+C# 8 and Beyond - Filip Ekberg
+Hacking your work life __ balance to take over the world - Jennifer Wadella
+Using C# Expression Trees in the Real World - Spencer Schneidenbach
+Async injection - Mark Seemann
+Embracing Messaging and Eventual Consistency in your Microservices Solutions - Michele Bustamante
+Securing Web Applications and APIs with ASP.NET Core 2.2 and 3.0 - Brock Allen & Dominick Baier
+Insecure Transit - Microservice Security - Sam Newman
+Keynote: The Moon: Gateway to the Solar System - Richard Campbell
+Distributed Tracing and Monitoring with OpenCensus - Simon Zeltser
+3D printed Bionic Hand a little IOT and a Xamarin Mobile App - Clifford Agius
+What is this Blazor thing, anyway? - John Stovin
+Security stand-up - Victoria Almazova
+Raising next generation of passionate coders - Tomasz Bartoszewski
+Poetry in the air - Suzie Gray
+Read and write considered harmful - Hubert Matthews
+Fallacies of Doom - Lessons learned from porting Doom 3 to Java - Mahmoud Abdelghany
+Clean Architecture with ASP.NET Core 2.2 - Jason Taylor
+System Stable : Robust connected applications with Polly - Bryan Hogan
+Accessible App Design - Dennie Declercq
+I love learning from people! - Bryan Hogan
+Functional Web Programming in .Net with the SAFE Stack - Anthony Brown
+How thanking people can lead to a better culture - Jim Bennett
+Help! My co-worker is autistic !? - Dennie Declercq
+Why should you care about edge computing? - Glenn F. Henriksen
+A Practical Guide to Dashboarding - Jessica White
+NDC MINNESOTA 2019  - Conference for Software Developers
+Learn / Share / Repeat - Lewis Denham-Parry
+Can a robot code my website? - Salman Iqbal
+Alternative Ways To Think About Serverless - Chris Priest
+How My Dad Taught Me to Code - Ari Hunt & Troy Hunt
+Reading other peoples code - Patricia Aas
+Kotlin for C# Developers - Alex Dunn
+Unity 101 for C# Developers - Andy Clarke
+Kubernetes - going beyond the basics - Shahid Iqbal
+Just what is a "service mesh", and if I get one will it make everything OK? - Elton Stoneman
+Lessons learned building ASP.NET Core MVC - Ryan Nowak
+Scaling Frontend Development - Luis Vieira
+An Introduction to WebAssembly - Guy Royse
+(WPF + WinForms) * .NET Core = Modern Desktop - Oren Novotny
+Think Like a Trainer: Improving Your Communication Skills - Olivia Liddell
+Keeping it DRYer with Templates - Layla Porter
+Introducing Razor Components in ASP.NET Core 3.0 - Daniel Roth
+Let’s talk patterns - Chris Klug
+Build vs Buy: Software Systems at Jurassic Park - Todd Gardner
+The tech future is diverse - Tannaz N. Roshandel & Line Moseng
+Power BI for Developers - Laurent Amar & Peter Myers
+Designing Nullable Reference Types in F# - Phillip Carter
+Teaching New Tricks – How to enhance the skills of experienced developers -  Clare Sudbery
+What You Need to Know About Open Source—Trust Me, I'm a Lawyer - Jeff Strauss
+A Piece of Git - Edward Thomson
+Megahertz, Gigahertz, Registers and Instructions: How does a CPU actually work? - Kendall Miller
+"Hey Mycroft": Getting Started with the OSS Home Assistant - Sarah Withee
+A Developer's Guide to Advertising - Krista LaFentres
+Making Accessibility Testing Suck Less: An Intro to Pa11y - Jennifer Wadella
+Let's Talk HTTP in .NET Core - Steve Gordon
+Reverse Engineering a Bluetooth Lightbulb - Jesse Phelps
+ML.NET for developers without any AI experience - Lee Mallon
+Build Nodejs APIs using Serverless on Azure - Simona Cotin
+Augmented Reality - The State of Play - Rafał Legiędź
+Hacking with Go - Victoria Almazova
+Deep Learning with PyTorch - Seth Juarez
+Much Ado about Nothing: A C# play in two acts. Act 2 - Mads Torgersen & Bill Wagner
+Much Ado about Nothing: A C# play in two acts - Act 1- Mads Torgersen & Bill Wagner
+Keynote: Welcome to the Machine - Hadi Hariri
+NDC Security Australia 2019 Promo
+NDC Sydney 2019 Promo
+NDC Security Workshop: Hack Yourself First: How to go on the Cyber-Offence - Troy Hunt
+NDC Sydney 2019
+Planet scale or planet fail? - Paul Gavich
+How did our DevOps team become another silo? - Kevin Crawley
+The Boring Security Talk - Kieran Jacobsen
+Make Your Life Easier With Logic Apps + Save $$$ - Thiago Passos
+Advanced Testing Techniques: Tips from the trenches - Graeme Foster & Rob Moore
+Enterprise Mobile DevOps - Ian Hughes
+Infrastructure as Code with Terraform on Azure - Tom Harvey
+Redux for Angular -- Introduction to Ngrx Ecosystem - Mohamed Meligy
+This Startup Life: A Developer's Mistakes and Tips - Ben Cull
+Introducing Juvet: Building Bots in Elixir - Jamie Wright
+Two platforms, one codebase: Cross-platform React and React Native app at Sportsbet - Ben Teese
+Let's Launch A Website, Right Friggin' Now! - Lemon
+Going Full Duplex - Building Apps for Speech - Madoka Chiyoda & Vishesh Oberoi
+Lightning Talks - Day 3 NDC - Sydney 2018
+Implementing Augmented Reality (AR) in Apple's ARKit - Michael Ridland
+Maximal Fun Times: Monitoring Theme Parks (and distributed systems) - Mike Minutillo
+Securing your dependencies - Nina Juliadotter
+Pragmatic Performance: When to care about perf, and what to do about it. - David Wengier
+Deploy microservices confidently using Consumer Driven Contracts - Henrik Stene
+Why Vue.js is Taking Over the Front-end World - Gwendolyn Faraday
+Crafting compelling real-time web experiences with GraphQL and React - Rob Crowley
+Getting the first PR into .NET and other tales from an OSS contributor - Adam Ralph
+There are no snow days when you work remote - Jennifer Wadella
+A World Without Programmers? - Ravi Gadhia
+Artificial Intelligence. Our journey towards singularity - Agustinus Nalwan
+Powering 100+ million daily users - Rezaul Hoque
+Creating & Maintaining Impactful Dashboards' - Jessica White
+Haskell - A Peek Inside the Ivory Tower - Daniel Chambers
+DevOps for Data Science - Damian Brady
+Apps are Making Us Dumber - Heather Wilde
+Modern web application bugs - Erlend Oftedal
+Move legacy apps to Windows Containers - Regan Murphy
+ASP.NET Core: The One Hour Makeover - Jon Galloway
+Developing microservices applications on the Kubernetes platform - Shahid Iqbal
+Porting MVVM Light to .NET Standard: Lessons learned - Laurent Bugnion
+The Web That Never Was - Dylan Beattie
+Building APIs for developers with Identity Server 4 - Ben Cull
+Deploying anything to Azure with Azure DevOps - Damian Brady
+The History Of Programming, Part 1 - Mark Rendle
+Learn to love meetings - Dr. Neil Roodyn
+WIP: Debugging Depression - Ellen Mey
+What's that fruit? - Scott Holden
+The Visible Developer: Why You Shouldn't Blend In - Heather Downing
+How to avoid UX-traps with a deck of cards - Jessica Engström
+Data lakes beyond clusters - Dom Raniszewski
+What You Need to Know About Open Source—Trust Me, I'm a Lawyer - Jeff Strauss
+Cross-Platform Desktop Apps with Electron - David Neal
+Serverless SQL Pipelines - Lynn Langit
+Building truly Universal applications with Azure, Xamarin and MVVM - Laurent Bugnion
+Git at Scale - Edward Thomson
+Parsing in C# from first principles - Nicholas Blumhardt
+What's new in the Microsoft's Conversational AI Stack - Vishesh Oberoi
+Kubernetes for .NET Developers - Hossam Barakat
+Testing Microservices - Anne-Marie Charrett
+How We Got Here - The History of Web Development - Richard Campbell
+Reignite your desire to improve - Richard Banks
+Leadership Guide for the Reluctant Leader - David Neal
+AI on the Edge - Nigel Parker & Dan Glover
+Mission Impossible: Lifehack Protocol - Lars Klint
+What's New In ASP.NET Core - Jon Galloway
+The Code Behind The Vulnerability - Barry Dorrans
+Service Meshes - Powering the next wave of microservice architectures - Rob Crowley
+Flutter from idea to app in 45min - Mitchell Tilbrook
+What has 4 years of AWS Microservices taught me? - Abhaya Chauhan
+Lightning Talks - NDC Sydney 2018 - Day 2
+Building Advance Analytics pipelines with Azure Databricks - Lace Lofranco
+Broken crypto is broken - Erlend Oftedal
+Feature Toggles: The Good, The Bad, and The Ugly - Andy Davies
+Offline UX - Simon Knox
+Holo world - Create your first HoloLens app with Unity - Jimmy Engström
+Attraction and retention strategies for Women in Tech - Donna Edwards
+Need for speed 8, performance tuning of your web application - Yaser Adel Mehraban
+Git as Blockchain - Michael Perry
+How to survive and thrive as an engineering leader - Isabel Nyo
+Android TDD with Kotlin - Heather Downing
+Moving Fast - without crashing - Marcus Bristol
+7 Years of DDD: Tackling Complexity in Large-Scale Marketing Systems - Vladik Khononov
+Google Home meets .NET containers on Google Cloud - Ankur Kotwal
+Field Notes : .NET Core and Docker in Production - Damian MacLennan
+Navigating the React Solar System - Ben Ilegbodu
+Lessons from a real HoloLens project - Luke Drumm
+Practical design patterns in the age of the cloud - Magnus Mårtensson
+Hacking with Go - Victoria Almazova
+Correcting Common Mistakes When Using Async/Await in .NET - Brandon Minnick
+Why I bet my business on React - Jess Telford
+How To "Dot" Into Anything, Anywhere, Anytime (Facilitating Data-First Programming)  - Steven Taylor
+Cloud Native .NET -Mark Rendle
+NDC London 2019 - Conference for Software Developers
+.NET on Azure - Shayne Boyer
+60 Minutes to Accessibility - Larene Le Gassick
+Open-Source Maintainers are Jerks! - Nick Randolph & Geoffrey Huntley
+Serverless with Firebase in the wild - Duncan Hunter
+The Structure of Software Revolutions - Mike Long
+The beauty of stupid ideas - Aaron Powell
+Power BI for Developers - Peter Meyers
+NDC Sydney Lightning Talks
+Service workers - beyond the cache - Phil Nash
+Serverless Continuous Delivery with the Serverless Framework - Fabien Ruffin
+A fistful of Blazor; Its .NET in the browser - William Tulloch
+ARM FTW – Azure Resource Manager For The Win - Magnus Mårtensson
+Reading other peoples code - Patricia Aas
+Programming for Amazon Alexa - Terence Le Grange & Mahesh Krishnan
+Autonomous Exploration Robotics with a Raspberry Pi - Christian Catchpole & Rachael Colley
+Jewelbots: How to Get More Girls Coding! - Jennifer Wadella
+APIs and Microservices in ASP.NET Core Today and Tomorrow - Glenn Condron
+Selling DevOps - Vanessa Love
+Deep Learning with TensorFlow - Seth Juarez
+The 9 Knights of Azure: Services to Get You Started - Adam Cogan
+Mentoring Junior Developers Into Productive Team Members - Daniel Mallott
+Creating a ‘best place to work’ culture - Donna Edwards
+Easily Add Artificial Intelligence To Your Apps Using Machine Learning - Brandon Minninck
+JavaScript Futures—ES2018 and Beyond - Jeff Strauss
+Introduction to ML.NET - John Alexander
+Deep Learning in the world of little ponies - Galiya Warrier
+Neural Networks: A Primer - Rishal Hurbans
+Easier AI allows everyone to build smart apps - Azadeh Khojandi & David Burela
+Getting started with Chaos Engineering - Paul Stack
+The conversation every parent dreads - how to talk to your kids about the blockchain - David Burela
+Vertical Slice Architecture - Jimmy Bogard
+Empowering the Quantum revolution with Q# - John Azariah
+Designing for speech - Jessica Engström
+Writing a Neural Net from Scratch - Joe Albahari
+Betting on evolutionary architecture - James Lewis
+Sifting Technologies - Separating the Wheat From the Chaff - Nathaniel Schutta
+Get value out of your monad - Mark Seemann
+What We’ve Learned From Billions of Security Reports - Scott Helme
+Security in ASP.NET Core 2.1 - Barry Dorrans
+Bots - the next UI revolution - Adam Stephensen
+I’m Pwned. You’re Pwned. We’re All Pwned - Troy Hunt
+Keynote: Apps, Algorithms and Abstractions: Decoding our Digital World - Dylan Beattie
+Linux Security APIs and the Chromium Sandbox - Patricia Aas
+C++ at High Subsonic Speed - Arne Førlie
+Binary Reproducible Builds with Docker - Mike Long
+Taking testing to the next level - Ole André Vadla Ravnås
+Everything you want to know about C/C++ pre-processor but couldn't ask - Jon Jagger
+Using Seccomp to Limit the Kernel Attack Surface - Michael Kerrisk
+What I Talk About When I Talk About Cross Platform Development - Adi Shavit
+What Do We Mean When We Say Nothing At All? - Kate Gregory
+Designing for consumers, succeeding with professionals - Espen A. Jørgensen
+Zivid One - The story behind the World’s most Accurate, Real time 3D Color Camera - Arild Ulfeng
+C++ Cryptozoology - A Compendium of Cryptic Characters - Adi Shavit
+Real-time prototyping using visual programming languages - Rui Martins
+IncludeOS - running C++ applications without an operating system - Per Buer
+Sane and Safe C++ Class Types - Peter Sommerlad
+Isolating GPU access in its own process - Patricia Aas
+C++: No more nulls! (Fixing the billion dollar mistake) - Anders Schau Knatten
+Building useful project utils in Python - Johan Herland
+Threat Modeling: uncover vulnerabilities without looking at code - Chris Romeo
+Sociocracy for Creating Better Products - Jutta Eckstein
+Huddly - The thinking camera and applied machine learning - Mats Gabriel Love Johansen & Kai Wig
+Yara Birkeland - a global game changer - An-Margritt Tinlund Ryste
+Type safe C++? LOL! - Björn Fahller
+Words of Wisdom - Tony Van Eerd
+Self-Awareness in C++ Code - Paul Williams
+C++ Unit testing - the good, the bad & the ugly - Dror Helper
+The Nightmare of Move Semantics for Trivial C++ Classes - Nicolai Josuttis
+Optimising a small real-world C++ application - Hubert Matthews
+The Git Parable - a different approach to understanding Git (90 min) - Johan Herland
+Agile Development at Scale With Autonomous teams - Thomas Malt & Jan Henrik Gundelsby
+Part II: A Performance Analysis of a Trading System over Compliers - Jason McGuiness
+Part I: A Performance Analysis of a Trading System over Compliers - Jason McGuiness
+Fuzzing with AFL - Erlend Oftedal
+SW Testing: Can ML save us? - Marius Liaaen & Carl Martin Rosenberg
+How to Transform Developers into Security People - Chris Romeo
+Microservice Architectures in Embedded Linux and FreeRTOS - Tore Martin Hagen
+An introduction to Behaviour Driven Development (BDD) for embedded systems - Seb Rose
+Great UX, Despite Agile: How to Get the Best Out of Your Design Team in Agile Projects - Aras Bilgen
+"Who do I innovate for?" A Product Manager's perspective! - Shubham Bhattacharya
+The Golden Age of Design - Paal Holter
+CUDA Kernels with C++ - Michael Gopshtein
+Integrate Python and C++ with pybind11 - Robert Smallshire
+Reflections around SW obsolescence - Andreas Bredesen
+Unlocking secrets of proprietary software using Frida - Ole André Vadla Ravnås
+A Modern Embedded Product Platform - Anders Norman
+Working with C++ Legacy Code - Dror Helper
+Strace: Monitoring The Kernel-User-Space Conversation - Michael Kerrisk
+User Research For Everyone - Aras Bilgen
+Design for Test - Hubert Matthews
+Higher order functions for ordinary C++ developers - Björn Fahller
+Introduction to Lock-free Programming - Tony van Eerd
+C++ (Core) Guidelines - Safer C++ - Peter Sommerlad
+Simplicity: Not Just for Beginners - Kate Gregory
+C++17 in Practice - The good and the ugly - Nicolai Josuttis
+Keynote: What can C++ do for embedded systems developers? - Bjarne Stroustrup
+Low power cellular for the IoT - Peder Rand
+Writing simpler ASP.NET Core - Jonathan Channon
+Getting Started with your First Mining Rig! - Clarence Chng & Wei-Meng Lee
+Turn specs into high quality apps - Marco Kuiper
+Getting benefits of OWASP ASVS at initial phases - Oleksandr Kazymyrov
+Breaking Your Code in New and Exciting Ways - Michael Newton
+The Digital Transformation is not Digital - Eline Giskeødegård
+JavaScript the Cute Parts - Venkat Subramaniam
+When your Twin is Digital. And in 3D - Petri Wilhelmsen
+Super large, ultra fast, mega scaling cloud computing - Espen Brandt-Kjelsen
+Gotchas using Terraform in a secure delivery pipeline - Anton Babenko
+Attacking Modern Web Technologies - Frans Rosén
+Dos and Don'ts for Serverless and Azure Functions - Jeff Hollan
+Stop reinventing the wheel with Istio - Mete Atamel
+Kubernetes for .NET developers - Shahid Iqbal
+The History of .NET - Richard Campbell
+Google Home meets .NET containers on Google Cloud - Ian Talarico & Mete Atamel
+Docker, FROM scratch - Aaron Powell
+Managing your Black Friday Logs - David Pilato
+Overcoming a million reasons not to be HTTPS only - Halvor Skagshaug
+Deploy microservices confidently using Consumer Driven Contracts - Henrik Stene
+Integrating visual testing into the build pipeline - Shokoofeh Hesari
+Machine learning algorithms, choosing the correct algorithm for your problem - Joakim Lehn
+Dr AI, cure my low back pain! - Tale Prestmo
+The History of AI - what can we learn from the past? - Håkan Silfvernagel
+Type-safety in low-level programming: Modern C++ in game console emulators - Tony Wasserka
+Rapid App Development With React Native: Lessons Learned at NSB - Eirik Wendel
+Keyboards? Where we’re going, we don’t need keyboards. - Don Wibier
+How FINN.no went from being search engine hostile to be a little bit friendly - Henning Spjelkavik
+Let’s Talk About Mental Health - Arthur Doler
+Constructing Modern UIs with SVG - Tim G. Thomas
+Behind the AI Curtain - Designing for Trust in Machine Learning Products - Crystal C. Yan
+12 Factor MicroServices - Andy Davies
+Not a magic : What to expect from Machine Learning projects - Katya Mustafina, Natalia An
+Information saves lives - Anine Kongelf & Einar Ingebrigsten
+Kotlin for the curious - Matt Ellis
+The Future of Data Visualization on the Web - Alan Mendelevich
+Security Holes in Git - Edward Thomson
+Deep Learning with CNTK and F# - Mathias Brandewinder
+Implementing Event-Driven Microservices architecture in Functional language - Nikhil Barthwal
+Simple Guide to Secure SDLC - Audrey Nahrvar
+NDC TechTown 2018 - Software development for products
+F# and Fable: re-think web development - Maxime Mangel
+Refactoring to Functional Style - Venkat Subramaniam
+Become a Wireless Connectivity Ninja 101 - Joakim Lindh
+IoT is fun using MicroPython - Sebastian Roll
+Prison Break - When the web escapes the browser - Dominik Kundel
+The Hello World Show
+**Freaking computers, how do they work? - Code Inception** - Michal Luziak
+Everything is awesome: the Lego approach to being an awesome coworker - Paul Verbeek-Mast
+Accessibility vs latest Web APIs. Can’t we just get along? - Mauricio Palma
+What and where? - Machine learning for geospatial image analysis - Mathilde Ørstavik
+Deconstructing Privilege - Patricia Aas
+I just hacked your app! - Marcos Placona
+Four Languages from Forty Years Ago - Scott Wlaschin
+Blockchain, Smart Contracts, and Ethereum - Wei-Meng Lee
+Building Event-Driven Microservices with Event Sourcing and CQRS - Lidan Hifi
+How to be a better interviewer - Suzi Edwards Alexander
+What Doctors Can Teach Us on Continuous Learning - Johnny Graber
+The Enterprise DevOps Challenge - Roy Osherove
+Immutable application deployments with F# Make - Nikolai Norman Andersen
+Containers in Production: It’s Like Orchestrating Cats - David Ostrovsky
+The Pyschology of Social Engineering - Niall Merrigan
+People that make computers go crazy - Gojko Adzic
+Neural Networks: Where do I start?!? - Chase Aucoin
+Notorious B.I.G. Data: Wins and fails when building a big data platform in the cloud - Andreas Heim
+When will we have a Rosie of our own? - Amber McKenzie
+TypeScript Decorators - Higher Order Functions in Disguise - Damjan Vujnovic
+Betting on Evolutionary Architecture - James Lewis
+Finding your service boundaries - a practical guide - Adam Ralph
+Dates and times aren't that hard - honestly! - Jon Skeet
+Serverless with Firebase in the wild - Duncan Hunter
+Hacking your work life __ balance to take over the world - Jennifer Wadella
+Implementing Authentication and Authorization with ASP.NET Core 2 - Chris Klug
+Serverless architectural patterns - Yan Cui
+Pilot Decision Management - Clifford Agius
+Actors in clusters: why, when and how - Pawel Banka, Vagif Abilov
+Security in Cloud-Native - Robin Minto
+Hacking 4G and how to get arrested in 10 minutes - Christian Sørseth
+ACME TLS-SNI-01 issuing Let's Encrypt SSL-certs for any domain using shared hosting - Frans Rosén
+C++ Cryptozoology - A Compendium of Cryptic Characters - Adi Shavit
+Lightning Talks: Secure Communication between Extensions and Applications - Pavel Studený
+Lightning Talks: Breaking into Security - Audrey Nahrvar
+Securing the last mile of IoT solutions - Anders Lybecker
+Type safe C++? LOL! - Björn Fahller
+Secure Programming Practices in C++ - Patricia Aas
+Mötley Crüe and Mödern JavaScript - Eric Brandes
+Adapting ASP.NET Core MVC to your needs - Filip W
+"Hello, Multiverse!" - Quantum Computing and You - John Azariah
+Architecting your next SPA - Guy Nesher
+2018 - The Year of Web Components - Dominik Kundel
+Five ways to be a happier JavaScript developer - Christian Heilmann
+How to teach programming and other things? - Felienne
+Ditching Promises and Socially Acceptable Callback Hell - Brandon Satrom
+NDC 2018   Dag 2   Sesjon 5   Sal 4Deconstructing TypeScript’s Type System - Spencer Schneidenbach
+Event Driven UIs - Matt Barrett, Bhavesh Desai
+Using Kafka for Real-Time Data Ingestion with .NET - Kevin Feasel
+"Beyond the Usual Suspects, Emerging Cognitive Services" - Hank Boelman
+From SQL to Azure Cosmos DB - Jimmy Bogard
+The Erlang Ecosystem - Robert Virding
+From Reactive Extensions to Reactive Streams - Bartosz Sypytkowski
+Modern Security with Microservices and the Cloud - Sandeep Dinesh
+The F# Path To Relaxation - Don Syme
+Dependency Injection revisited - Mark Seemann
+The Curious Case of Freya, Suave and Giraffe: reducing risks in picking a new tech - Gien Vershatse
+Billions of Sensors - The UX Beyond the Screen - Niklas Norin
+Enough string_view to hang ourselves - Victor Ciura
+C++: Be type-safe - The journey of determining the number of elements in an array - Andreas Fertig
+Reverse Engineering a Bluetooth Lightbulb - Jesse Phelps
+Despagghetifying code with NDepend - Jim Pelletier
+♫ These are a few of my favourite (Android) Things ♫ - Marcos Placona
+Web Application Security Trends - Christian Wentz
+Google Assistant VS Alexa: Battle of the Bots - Heather Downing
+How to network if you’re scared of people - Kasia Rachuta
+Choose your own adventure: the tech career version - Nabeelah Ali
+Domain-Driven Design: Hidden Lessons from the Big Blue Book - Nick Tune
+Muddling Through The Middle Bits: what comes after Junior and before Senior - Anne Cahalan
+Rise of the Tech Influencer - Small steps you can take to increase your reach - Michelle Sandford
+Productivity Bots - Marcus Bristol
+Drone CI vs Jenkins. Fight!- Niklas Hole, Ole Anders Stokker
+Taming Infrastructure Workflow at Scale - Anubhav Mishra
+Monitoring A-Z - Steve Simpson
+Manifesto for a DevOps-like Culture Shift in Data & Analytics - Sean Gustafson, Arif Wider
+The 9 Knights of Azure: Services to Get You Started - Adam Cogan
+Building and Training your own Custom Image Recognition AI - David Giard
+A Practical Guide to Graph Databases - David Bechberger
+Understanding Alexa - Jeff Blankenburg
+What We’ve Learned From Billions of Security Reports - Scott Helme
+Deep Learning with TensorFlow - Seth Juarez
+I’m Pwned. You’re Pwned. We’re All Pwned - Troy Hunt
+Technical debt isn't technical - Einar W. Høst
+The State of C# - What Have I Missed - Filip Ekberg
+Give it a REST - Tips for designing and consuming public API's - Liam Westley
+Containers and Serverless with AWS - Norm Johanson
+Implementing the Clean Architecture in .NET Core - Ian Cooper
+Insecure Transit - Microservice Security - Sam Newman
+The IoT Requires Upgradable Security - Lars Lydersen
+ClojureScript - It's not just the language - Christian Johansen
+Succeeding with Xamarin - Filip Ekberg
+Lightning Talks: Tell me the money! How I made my bank talk to me by way of PSD2 - Anders Breivik
+Lightning Talks: PWA - A Farewell To Apps - Andreas Ahlgren
+A Failed Project and the Technical Architecture That Saved It - Dominic Robinson
+Lightning Talks - The Power of Inclusion - Dennie Declercq
+Frontend Development 2018 - What's in your stack? - Stefan Judis
+Lightning Talks - What's in a name? - Meg Gotshall
+Higher order functions for ordinary C++ developers - Björn Fahller
+An Opinionated Approach to ASP.NET Core - Scott Allen
+Protecting Encryption Keys with Azure Key Vault - Stephen Haunts
+How I Learned to Stop Worrying and Love the Website - Jackie Balzer
+Authorization for modern Applications - Dominick Baier
+C# 8 - Jon Skeet and Mads Torgersen
+Database as API with PostgreSQL and Massive.js - Dian Fay
+Building an Azure IoT pipeline for LoRaWAN devices (live demo) - Ronnie Sauremann
+So you want to create your own .NET runtime? - Chris Bacon
+The Power of Roslyn - Kasey Uhlenhuth
+Lightweight microservice collaboration using HTTP - Christian Horsdal
+The Web That Never Was - Dylan Beattie
+Build your own Excel 365 in an hour with F# - Tomas Petricek
+Reinventing MVC pattern for web programming with F# - Krzysztof Cieślak
+Why you should use F# - Phillip Carter
+A Practical Introduction to Data Science - Mark West
+Tabs, spaces and salaries: a data science detective story - Evelina Gabasova
+The Power of Composition - Scott Wlaschin
+Cellular Connectivity for IoT - Albert Skog
+Agile Software Architecture - Ian Cooper
+What I Talk About When I Talk About Cross Platform Development - Adi Shavit
+Fastware - Andrei Alexandrescu
+Internals of Exceptions - Adam Furmanek
+Expect the Expected - Andrei Alexandrescu
+A developers guide to Machine Learning - Tess Ferrandez-Norlander
+A Penny for Every Object - Mads Torgersen
+User Experience for Professionals - Paul Holter
+Beautiful code: typography and visual programming - Peter Hilton
+Automatically categorizing news articles on nrk.no - Øyvind Holmstad
+Jewelbots: How to Get More Girls Coding! - Jennifer Wadella
+We Didn’t Stop to Ask If We Should: Understanding Build vs. Buy - Todd Gardner
+Blockchain, Smart Contracts, and Ethereum - Wei-Meng Lee
+The Web That Never Was - Dylan Beattie
+Introduction to webpack - Chris Klug
+Contract First API Design with OpenAPI V3 - Darrel Miller
+How to Build a Smart Garage Door Opener / Sensor for Under $100 - Matt Milner
+Designing for Trust - Crystal C. Yan
+TECHRADAR #3
+NDC Oslo - TechRadar #2
+NDC Oslo - TechRadar
+Practical Ghostbusting: Meltdown, Spectre and You - Ian Coldwater
+Running containerized applications on Azure Container Services - Marcel de Vries
+It’s Dangerous To Go Alone! Take This Team. - Trent Willis
+What You Need to Know About Open Source—Trust Me, I’m a Lawyer / Jeff Strauss
+“Hello, Multiverse!” - Quantum Computing and You - Simon Middlemiss
+Browser Invasion: Desktop Apps and the Web - Tim G. Thomas
+Modern TypeScript is amazing! - Jake Ginnivan
+Setting Fire To My Desk: Adventures in Redis and Microcontrollers - Kyle Davis
+Let’s Make A Website, Right Frickin’ Now! - Lemon
+Building Scalable, Maintainable Apps Using TypeScript and React - Kamran Ayub
+Home Alone: How working for a fully remote company actually works - David Boike
+Cloud Native .NET - Mark Rendle
+Introduction to Natural Language Processing with Python - Barbara Fusinska
+The Death of Data: Risk, Retention, and Rot - Heidi Waterhouse
+Who Needs Dashboards? - Jessica White
+From SQL to Azure Cosmos DB - Jimmy Bogard
+Analyzing StackExchange with Azure Data Lake - Tom Kerkhove
+Why you should never build Microservices - and why we do it anyway - Martin Larsen
+Surviving Microservices - Michele Bustamante
+The Hello World Show LIVE at NDC Minnesota 2018
+Docker Containers on Azure - let me count the ways - Michele Bustamante
+Containers without Docker - Ben Hall
+Docker On Windows 101 - Ashley Poole
+Implementing authorization in web applications and APIs - Brock Allen
+Serverless Applications with AWS - Norm Johanson
+The whirlwind tour of Authentication and Authorization with ASP.NET Core - Chris Klug
+Your Car “Knows” You: Security in Connected Vehicles & Roadway Infrastructure - Tiffany Rad
+Bigger, Faster and More Secure - Laura Bell
+Protecting Encryption Keys with Azure Key Vault - Stephen Haunts
+Leadership Guide for the Reluctant Leader - David Neal
+Cross-Platform Desktop Apps with Electron - David Neal
+Cloud, Containers, Kubernetes - Bridget Kromhout
+Angular Unit Testing from the Trenches - Justin James
+Push it (Push it Real Good) - Lyndsey Padget
+Ionic, ngrx and Angular: building web and mobile apps with one code base - Duncan Hunter
+Up and Running with Progressive Web Apps - Nik Molnar
+Creating airplane mode proof Xamarin applications - Gerald Versluis
+Go Mobile with Xamarin - Brent Edwards
+Lightning Talks - Fear of the Bus: Docs and DevOps - Heidi Waterhouse
+Lightning Talks - Leveraging APIs to Transform Healthcare - Crystal C. Yan
+Lightning Talks - Angular2+ Reactive Forms - Lyndsey Padget
+Introduction to Python - Austin Bingham
+Augmented Reality: The Lion, The Witch and The Robot - Lars Klint
+Machine Learning for Gamers - Dungeon Forecasts & Dragon Regressions - Guy Royse
+Dependency Injection revisited - Mark Seemann
+Intelligent Interfaces with Cognitive APIs, BOTs and IOT - Ian Philpot & Anu Prasad
+Deep Learning with CNTK and F# - Mathias Brandewinder
+Own the future, NSB-style - Udi Dahan
+Own the future - Udi Dahan
+An Opinionated Approach to ASP.NET Core - Scott Allen
+Blazor, a new framework for browser-based .NET apps - Steve Sanderson
+Keynote: Apps, Algorithms and Abstractions: Decoding our Digital World - Dylan Beattie
+NDC Minnesota - 7-10 May 2018
+NDC Security Australia - 14-16 May - Gold Coast
+NDC Minnesota 2018
+NDC Mini Copenhagen 2018
+Serverless - the brief past, the bewildering present, and the beautiful (?) future - Mike Roberts
+How to parse a file - Matt Ellis
+Anchor Modelling: Sixth Normal Form Databases! - Stephanie Locke
+The Hello World Show Live with Scott Hanselman, Troy Hunt, Felienne, and Jon Skeet
+Web Apps can’t really do *that*, can they? - Steve Sanderson
+Running .NET Containers on Google Cloud - Chris Bacon & Mete Atamel
+What C# Programmers Need to Know About Pattern Matching - Eric Potter
+GitOps - Using Git as your source of truth for build, deploy and observability - Alexis Richardson
+Mobile Architecture at Scale - Gergley Orosz
+The Modern Cloud - Scott Guthrie
+Easier AI allows everyone to build smart apps - David Burela & Azadeh Khojandi
+Pilot Decision Management - Clifford Agius
+Painless visual testing - Gojko Adzic
+Nginx for .NET Developers - Ian Cooper
+Testing in Production - Gel Goldsby
+Developing for Mixed Reality with HoloLens - Rafał Legiędź
+Inclusive Design Series: How to stop worrying and love accessible forms - Elle Waters
+Jewelbots: How to Get More Girls Coding! - Jennifer Wadella
+Succeeding with Xamarin - Filip Ekberg
+Xcode to Unreal Engine - Lessons Learned from Doing the Impossible - Ellen Mey
+Tips & Tricks with Azure - Scott Guthrie
+The Psychology of Social Engineering - Niall Merrigan
+Kotlin: Next level of Android Development - Igor Wojda & Marcin Moskała
+Why you should use React Native for your next mobile app - Gwendolyn Faraday
+How to win with automation and influence people - Gwen Diagram
+The data dichotomy: Rethinking data and services with streams - Ben Stopford
+Building real-time API's with GraphQL - Sandeep Singh
+Observability: it's not just an ops thing - Charity Majors
+Styleguide-Driven Development - Arvid Torset & Tatiana Kolesnikova
+Designing for speech - Jessica Engström
+What is .NET Standard? - Adam Ralph
+Speak To Me: Voice App Conversation Practices - Heather Downing
+Sonic Pi - Sam Aaron
+Amazon Machine Learning to Predict Responses - Kesha Williams
+A developers guide to Machine Learning - Tess Ferrandez-Norlander
+Networks are like onions: Practical Deep Learning with TensorFlow - Barbara Fusinska
+The Performance Investigator's Field Guide - Sasha Goldshtein
+What is this cloud native thing anyway? - Sam Newman
+Deploying Windows Container based apps using Kubernetes - Ben Hall
+HTTP: History & Performance - Ana Balica
+CSP XXP STS PKP CAA ETC OMG WTF BBQ… - Scott Helme
+Going Solo: A Blueprint for Working for Yourself - Rob Conery
+.NET Rocks Live with Jon Skeet and Bill Wagner – Two Nice C# People
+Hack Your Career - Troy Hunt
+Building a Raspberry Pi Kubernetes Cluster and running .NET Core - Alex Ellis & Scott Hanselman
+Probing the Mysteries of Saturn’s E-Ring with PostgreSQL - Rob Conery
+An Opinionated Approach to ASP.NET Core - Scott Allen
+Building for Resiliency and Scale in the Cloud - Scott Allen
+GitHub Beyond your Browser - Phil Haack
+An introduction to Kotlin by example - Dmitry Kandalov
+The Power of Inclusion - Dennie Declercq
+Serverless in production, an experience report - Domas Lasauskas & Yan Cui
+The Power of Composition - Scott Wlaschin
+Beyond JavaScript Frameworks: Writing Reliable Web Apps With Elm - Erik Wendel
+Go & Microservices - Matt Heath
+You build it, you run it (why developers should also be on call) - Chris O'Dell
+Simplifying Web App Development With Elm and Functional Programming - Ingar Almklov
+The History of .NET - Richard Campbell
+Take Control of the Data of You - Nigel Parker
+Travel Guide to Software Systems - Patrick Kua
+How to be a better interviewer, change the world and work with amazing people-Suzi Edwards Alexander
+Sondheim, Seurat and Software: finding art in code - Jon Skeet
+Compositional UIs - the Microservices Last Mile - Jimmy Bogard
+Diagnosing issues in ASP.NET Core Applications - David Fowler & Damian Edwards
+C# 7.1, and 7.2: The releases you didn't know you had - Bill Wagner
+C# 7 - Jon Skeet
+Refactoring to Immutability - Kevlin Henney
+I’m Pwned. You’re Pwned. We’re All Pwned. - Troy Hunt
+Implementing Authorization in Web Applications and APIs - Brock Allen & Dominick Baier
+NDC Security Australia - Troy Hunt
+NDC Security Australia - Troy Hunt & Scott Helme
+WELCOME TO THE AGE OF CONVERSATIONAL INTERFACES! - Rabeb Othmani
+Make It Fixable - Patricia Aas
+Ionic, ngrx and Angular: building web and mobile apps with one code base - Duncan Hunter
+Mötley Crüe and Mödern JavaScript - Eric Brandes
+Harnessing Chaos; the hidden ingredient behind building better systems - Russ Miles
+Why I’m Not Leaving .NET - Mark Rendle
+Cake + .NET Core = Write Once, Build Anywhere - Enrico Campidoglio
+That's not in the User Manual: Unity3D Software and Hardware - Amie Dansby
+Who Needs Dashboards? - Jessica White
+Starts with a search - Maria Naggaga
+Good Code: What, Why, and How to Get There - Jane Prusakova
+Adventures in teaching the web - Jasmine Greenaway
+The Developer’s Guide to Promoting Your Work - Todd Gardner
+The power of technical decisions - Jake Ginnivan
+API Gateway to Service Mesh: Navigating a Changing Landscape - Zhamak Dehghani
+IdentityServer for ASP.NET Core 2 - Brock Allen & Dominick Baier
+Keynote: What is programming anyway? - Felienne
+The Power ⚡️ and Responsibility 😓 of Unicode Adoption ✨ - Katie McLaughlin
+♫ These are a few of my favourite (Android) Things ♫ - Marcos Placona
+CSP XXP STS PKP CAA ETC OMG WTF BBQ… - NDC Security 2018
+Hear no evil, See no evil, Code no evil(); - NDC Security 2018
+Hacking your neighbours and other life skills - NDC Security
+Adaptive Threat Modeling - NDC Security 2018
+​Hacking Humans : Social Engineering Techniques and How to Protect Against Them
+Secure Programming Practices in C++ - NDC Security 2018
+I’m Pwned. You’re Pwned. We’re All Pwned. - NDC Security 2018
+Hack back - bug hunting on the dark side - NDC Security 2018
+​Beyond the OWASP Top 10 - Modern web application bugs - NDC Security 2018
+​.NET Data Security : Hope is not a Strategy - NDC Security 2018
+Data Distribution Service - Lars Ivar Miljeteig
+Deliberate Architecture - Robert Smallshire
+Design by Introspection - Andrei Alexandrescu
+The Holy Grail  - A Hash Array Mapped Trie for C++ - Phil Nash
+Microservices and the Inverse Conway Manoeuvre - James Lewis
+C++ Performance and Optimisation -  Hubert Matthews
+Holograms of the Galaxy vol. 2 - Lars Klint
+There are Robots in my Bedroom - Introduction to Windows Mixed Reality - Lars Klint
+History and Spirit of C - Olve Maudal
+Math, Juggling, Hidden Markov Models, and embedded Python - Jan Dyre Bjerknes
+Threat modeling - Erlend Oftedal
+Concurrent Programming in C++ - Venkat Subramaniam
+Modern alternatives to make - Mike Long
+Effective test scrubbing - Carl-Martin Rosenberg, Thomas Hanssen Nornes, Marius Liaaen
+Property based testing with Hypothesis - David R. MacIver
+Seven Things Every Python Programmer Should Know - Robert Smallshire
+3D Printing for Software Developers - Nir Dobovizki
+Fastware - Andrei Alexandrescu
+Keynote: The Art of Simplicity - Venkat Subramaniam
+Debugging and Profiling .NET Core Apps on Linux - Sasha Goldshtein
+Blockchain is Cyberpunk - David Burela
+HTTP/2 - The future of the web today - Rob Crowley
+Create a Consistent, Repeatable and Dependable DevOps process using FAKE - Has AlTaiar
+.NET Data Security : Hope is not a Strategy - Stephen Haunts
+Site Reliability 101 - Adrian Ubalde
+F# Without Windows - Mitchell Tilbrook
+Building Native Android Apps using React Native - Wei-Meng Lee
+#CANchangeratio - Women in Tech program to inspire more women into technology - Subha Chari
+Imposter Syndrome: Overcoming Self-Doubt in Success - Heather Downing
+Herding cats is easy compared to managing developers - Dom Millar
+Squashing JavaScript Bugs - Todd Gardner
+When Feature flags go bad - Edith Harbaugh
+Virtual reality for web developers - Alex Mackey
+APIs with Microsoft Azure PaaS Services - Bill Chesnut
+Service Workers - Patrick Kettner
+Take your ASP.NET apps to the next level with Google Cloud Platform - Mete Atamel
+Scaling Docker Containers using Kubernetes and Azure Container Service - Ben Hall
+Developing Object Recognition for HoloLens - Stephen Carter
+Growing Serverless code with Azure Functions and F# - Mathias Brandewinder
+Ionic, ngrx and Angular - Duncan Hunter & Adam Stephensen
+Prescriptive Architecture Guidance for Cloud Applications - Mahesh Krishnan
+Security And Microservices - Sam Newman
+Hack Your Career - Troy Hunt
+Web Apps can’t really do *that*, can they? - Steve Sanderson
+Docker, FROM scratch - Aaron Powell
+Life is like a Box of Chocolate(y) - David Gardiner
+Building a development environment out of your production deployment - Orin Thomas
+Asynchronous Programming From The Ground Up - Filip Ekberg
+The Code Behind The Vulnerability - Barry Dorrans
+Accessing Accessible Accessibility - ​Jennifer Wong
+Choice is Overrated - Designing Products That Know What You Want Before You Do - Heather Wilde
+Shipping Many Small React Components at Domain.com.au - Jess Telford
+Pushing C# to the limit - Joe Albahari
+Confusion In The Land Of The Serverless: - Sam Newman
+C# Language Internals - Bart De Smet
+From C# to Golang, My data science journey. - Julian Bright
+Tales of a Unicorn Herder - Security in Startups and Disruptive Teams - Laura Bell
+A lap around Microsoft Cognitive Services Vision API - Tim Huckaby
+Writing high performance code in .NET - Bart De Smet
+Embracing Docker simplicity - while harnessing platform power - ​Michele Bustamante
+Continuous Delivery in Azure - Jimmy Bogard
+Profiling Node Applications - Sasha Goldshtein
+ASP.NET Core for Angular, React, and Knockout developers - Steve Sanderson
+The History of .NET - Richard Campbell
+How to start and run a software lifestyle business - Joe Albahari
+Designing Wonderful .NET APIs - James Newton-King
+Microservices at Scale - ASP.NET Core, Service Fabric, and Azure in production - ​Louis DeJardin
+Where's my free lunch? - Hadi Hariri
+HoloLens Development: The Next Steps - Lars Klint
+An Introduction Into Using Angular’s Material Design - Tracy Lee
+What is React Fibre? - Jake Ginnivan
+Deploying Applications as Containers on Windows Server 2016 - Ben Hall
+Reverse Engineering a Bluetooth Lightbulb - Jesse Phelps
+DevOps For Dishwashers - Bringing grown up practices to the Internet of Things - Christopher Biggs
+Machine Learning with F#, Redux - Mathias Brandewinder
+Self-Aware Applications: Automatic Production Monitoring - Dina Goldshtein
+Techniques and practices for testing Angular - Duncan Hunter & Adam Stephensen
+Building Native iOS Apps using React Native - Wei-Meng Lee
+TensorFlow in Three Sentences - Barbara Fusinska
+Building Docker Applications with .NET - Michele Bustamante
+Transient Test Environments with Octopus - Robert Wagner
+"The website's down!" Stories and lessons on keeping your website up. - Adrian Ubalde
+Software & the art of bicycle maintenance - Edith Harbaugh
+Accessibility for UX: Don't worry, it's much worse than you think - Elle Waters
+How success can take you to the brink of failure: a case study - Vanessa Love
+UX Patterns for Web Developers - Nicole Saidy & Jad Joubran
+The bold promise of teaching computers to understand the visual world - Tim Huckaby
+Something Something Cyber - Troy Hunt
+Introduction to ASP.NET Core Razor Pages - Damian Edwards
+C#: Change, Openness, and Innovation - Bill Wagner
+Your Customers Hate You (And Other Lies) - Heather Wilde
+Implementing authorization in web applications and APIs - Dominick Baier
+A team's transition to Continuous Delivery - Ashley Noble
+Building AI Solutions with Google OR-Tools - Barry Stahl
+What can we learn from 750 billion GitHub events and 42 TB of code - Felipe Hoffa
+Elasticsearch: you know, for more than search - Russ Cam
+Analyzing StackExchange data with Azure Data Lake - Tom Kerkhove
+Data Cleansing With SQL And R - Kevin Feasel
+Peanut Butter and Chocolate: Integrating Hadoop with SQL Server - Kevin Feasel
+Analyzing 33 million bike trips with BigQuery - Sara Robinson
+Machine Learning and Big Data Magic with Node.js and Google Cloud - Sara Robinson & Bret McGowen
+How to Tame a Penguin - Master Linux with ASP.NET Core - Brendan Richards
+Functional Design Patterns - Scott Wlaschin
+Crappy to Happy: Strategies to Help You Kick Butt at Work - Kylie Hunt
+Building Resilient Applications In Microsoft Azure - Scott Allen
+UX design lessons from fighting games - Xharmagne Carandang
+Simplified Unit Testing with the Entity Framework Core InMemory Provider - Jason Taylor
+Serilog: Instrumentation that Works for You - Nicholas Blumhardt
+The Power of Inclusion - Dennie Declercq
+Congratulations, You're an Architect - Stephen Kennedy
+Windows Subsystem for Linux - Jorge Arteiro
+Gang up on difficult problems with Mob Programming - Jim Pelletier
+Running a Bug Bounty Program @ SEEK - Julian Berton
+Real world PowerBI - Matt Davies
+Security in ASP.NET Core 2.0 - Barry Dorrans
+Deep dive into building Bots with the Microsoft Bot Framework and Cognitive Services- Vishesh Oberoi
+Top Ten Worst Repositories to host on GitHub - Carlos Martín Nieto
+Interactive C# Development with Roslyn - Filip W
+Continuous Security - Laura Bell
+Domain Modeling Made Functional - Scott Wlaschin
+The Art of Coding a Conversation: Designing Bots - Vishesh Oberoi
+Take Control of the Data of You - Nigel Parker
+Six Little Lines of Fail - Jimmy Bogard
+Successful Code Sharing Principles for Mobile Development - Filip Ekberg
+Effective Eventual Consistency with Actor Models + Amazon Web Services - Philip Laureano
+An Introduction to NativeScript - John Bristowe
+Hacking Humans : Social Engineering Techniques and How to Protect Against Them - Stephen Haunts
+App deployment PaaS battle! - Matt Davies & Rob Moore
+Progressive what apps - Patrick Kettner
+Algebraic Data Types for C# - John Azariah
+New Features in TypeScript 2 and beyond - Basarat Ali Syed
+There is a better way - Geoffrey Huntley
+Techniques in creating great cross platform apps. - Nigel Sampson
+Beyond Chatops: Bots @ Domain - Paul McManus
+Building for Alexa with Web API - Heather Downing
+How one team built their first microservice - Jim Pelletier
+What the Functional? What, How and Why - Rob Howard
+Designing interfaces that don't suck when your customers scale! - Rob Pearson
+Designing Voice User Interfaces for Amazon Alexa - Fabien Ruffin
+Functional Programming Patterns for Mere Mortals - Daniel Chambers
+Learning effective Kanban from your coffee shop - Dom Raniszewski
+Adventure in learning Go for a C# dev! - Ken Faulkner
+In Summary - Chris Hewitt
+Chatbots - the next UI - Azadeh Khojandi & Jordan Knight
+Building Data Intensive Microservices with Apache Kafka - ​Yaniv Rodenski
+Programming Robots – Making Friends with Cozmo - Lars Klint
+Making Enabling Apps for disabled people - Dennie Declercq
+Designing Great Progressive Web Apps - Nicole Saidy
+Logic vs. side effects: functional goodness you don't hear about - Enrico Buonanno
+Using robots to test mobile apps - Sammy Connelly
+React Native Better Than Native - Mitchell Tilbrook
+10 Things I learnt from my first HoloLens app - Hannes Nel
+The (Awesome) Future of Web Apps - Jad Joubran
+Terraforming the world, one cloud at a time.  - Jeremy Cade
+The Technical Debt Prevention Clinic - Richard Banks
+Redux, beyond React - Aaron Powell
+Keynote: Using EEG and Machine Learning to Perform Lie Detection - Jennifer Marsman
+What’s new in ASP.NET Core 2.0 - Damian Edwards
+What’s New in Visual Studio 2017 and VS Code - Adam Cogan
+GraphQL - A query language to empower your API consumers - Rob Crowley
+C# Scripting in the .NET Core world - Filip W
+Keynote: Are There any Questions? - Dylan Beattie
+Web Application Security Risks: A Look at OWASP Top Ten 2017 - Christian Wenz
+Building Resilient Applications In Microsoft Azure - Scott Allen
+The State of NoEstimates - Woody Zuill
+The Future of Calling Microsoft APIs - Simon Jäger
+Why I'm Not Leaving .NET - Mark Rendle
+Accessibility for UX: Don't worry, it's much worse than you think - Elle Waters
+Functional Techniques for C# - Kathleen Dollard
+Scaling Docker Containers using Kubernetes and Azure Container Service - Ben Hall
+Web Apps can’t really do *that*, can they? - Steve Sanderson
+It's NDC - But Not As We Know It - Dylan Beattie & Mark Rendle
+.NET Rocks Panel Discussion: Going Serverless
+Building a Global App With Azure PaaS - Barry Luijbregts
+What’s New in VS 2017 + VS Code - Adam Cogan
+Microservices and Rules Engines – a blast from the past - Udi Dahan
+Composing high performance process workflows with Akka Streams - Vagif Abilov
+Data magic with the Elastic stack! - Aleksander Stensby
+AB-tests, lies, damned lies, and statistics. - Emil Cardell
+Going Serverless with GraphQL - Steve Faulkner
+Handling secrets in kubernetes using git secrets - Tomas Jansson
+Serverless Cross-platform Apps with Xamarin.Forms and Google Firebase - Bjørn Egil Hansen
+Solving 5th grade math with F# and OCR - Martin Andersen
+What’s new in ASP.NET Core 2.0 - Damian Edwards & David Fowler
+Fast and Small - What are the Costs of Language Features - Andreas Fertig
+Visualise, document and explore your software architecture - Simon Brown
+Serverless - reality or BS - notes from the trenches - Lynn Langit
+Becoming the bottleneck - Erlend Wiig
+Building a Serverless, EventSourced Slack clone - Andy Davies
+Suave – zero to hero of HTTP APIs - Henrik Feldt
+F# for C# programmers - Scott Wlaschin
+Creating A .NET Renaissance - Ian Cooper
+C++17, part 1: The Language Features - Nicolai Josuttis
+Implementing authorization in web applications and APIs - Dominick Baier & Brock Allen
+Stream Data Processing for Fun and Profit - David Ostrovsky
+Efficient Time Series with PostgreSQL - Steve Simpson
+Inviting everyone to the party - Andrea Magnorsky
+Thinking in Events - Mathew McLoughlin
+CSS Houdini - from CSS variables to JavaScript and back - Serg Hospodarets
+ASP.NET Core for Angular, React, and Knockout developers - Steve Sanderson
+Life, Liberty and the Pursuit of APIness : The Secret to Happy Code - Dylan Beattie
+C++ Performance and Optimisation - Hubert Matthews
+Domain Modeling Made Functional - Scott Wlaschin
+Easy Eventual Consistency with Actor Models + Amazon Web Services - Philip Laureano
+Azure Cosmos DB - The Best NoSQL Database You're Probably Not Using (Yet) - Josh Lane
+Functional C++ for Fun & Profit - Phil Nash
+C# 7 - Jon Skeet
+Paying taxes for fun and profit - Petter Hesselberg
+I put 7 years of meal data in Datomic - Here's what I learned - Christian Johansen
+Getting real(time) with Akka.NET, React and Redux - Francis Paulin
+Beyond JavaScript Frameworks: Writing Reliable Web Apps With Elm - Erik Wendel
+When Feature flags go bad - Edith Harbaugh
+Feature Branches And Toggles In A Post-GitHub World - Sam Newman
+Design principles and implementation strategies for better offline experience - Boyan Mihaylov
+Become a Visual Studio Ninja - Cecilia Wirén
+Cleaning the Sewage out of your DevOps Pipeline - Damian Brady
+Working with C++ Legacy Code - Dror Helper
+C++17 part 2: The Library Features - Nicolai Josuttis
+End-to-End Automated Testing in a Microservices Architecture - Emily Bache
+Domain Invariants & Property-Based Testing for the Masses - Romeu Moura
+What CRDTs, distributed editing and the speed of light means to your writer friends- Jonathan Martin
+From Monolith to Serverless - Rajpal Wilkhu
+Using C#'s Type System Effectively - Benjamin Hodgson
+"Doing Devops" as a politically powerless developer - Damian Brady
+Emerging Web Security Standards - Scott Helme
+The Developer’s Guide to Promoting Themselves - Todd Gardner
+From zero to hero using Visual Studio Team Service - Anthony Borton
+Swift For The Curious - Phil Nash
+Exploiting Relationship Graphs to Isolate Tenant Data - Dian Fay
+Investigating C++ Applications in Production on Linux and Windows - Sasha Goldshtein
+First Class Commands: The 2017 Edition - Reginald Braithwaite
+What is .NET Standard? - Adam Ralph
+Building for Alexa with Web API - Heather Downing
+Can you keep it a secret? - Lars Kristian Hagen
+ETW - Monitor Anything, Anytime, Anywhere - Dina Goldshtein
+Security in ASP.NET Core 2.0 - Barry Dorrans
+Using Trompeloeil - a mocking framework for modern C++ - Björn Fahller
+Making magik - Josh Wulf & Prahlad Wulf
+What To Expect When You Are Elixiring - Johnny Winn
+Deep Dive into Git - Edward Thomson
+Live Lambda Calculus - Einar W. Høst & Jonas Winje
+Debugging, Website Performance Issues & Real-Time Statistics - Hugo Cruz
+Grain + Hops + IoT = Beer - David Christiansen
+Skills vs Knowledge : are we learning the right things? - Natalia An
+Debugging and Profiling .NET Core Apps on Linux - Sasha Goldshtein
+Using F# on Azure Functions in Production - Nikolai Andersen
+Brave New .NET - Mark Rendle
+C++ Unit testing - the good, the bad & the ugly - Dror Helper
+Keeping the Noisy Neighbors Happy - Eran Stiller
+JavaScript in 2017: You might (not) need a framework - David Vujic
+.NET Blub: Frameworks beyond Microsoft - Joe Stead
+Conquer the JavaScript ecosystem with F# and Fable! - Alfonso Garcia-Caro
+Take Control of the Data of You - Nigel Parker
+Technology just killed the company - all hail the platforms - Jahn Arne Johnsen
+Aurelia vs “just Angular” a.k.a “the framework formerly known as Angular 2” - Chris Klug
+Visualisation - Gemma Cameron
+Everything You Always Wanted to Know About Azure Security But Were Afraid to Ask- Viktorija Almazova
+Don't worry, your credit card details are safe. BTW your kid is missing! - Halvor Sakshaug
+Abusing C# More - Jon Skeet
+Microservices and the Inverse Conway Manoeuvre - James Lewis
+Keeping it Simple With Go - Erik Engheim
+Betting on Performance: A note on Hypothesis-driven Performance Testing - James Lewis
+Develop Your Development Automation - Jessica Kerr
+State of the .NET Performance - Adam Sitnik
+The secret weapon for developers, Notebooks. - Cristian Prieto
+How to stop worrying and love MSBuild - Daniel Plaisted
+Linux Security and How Web Browser Sandboxes Really Work - Patricia Aas
+Angular War Stories - Duncan Hunter & Adam Stephensen
+Crappy to Happy: Strategies to Help You Kick Butt at Work - Kylie Hunt
+The (Awesome) Future of Web Apps - Jad Joubran
+Successful Code Sharing Principles for Mobile Development - Filip Ekberg
+The Web lands in the Virtual and Mixed Realities - Maximiliano Firtman
+Modern app development with Fable and React Native - Steffen Forkmann
+An Opinionated, Maintainable REST API Architecture for ASP.NET Core - Spencer Schneidenbach
+Getting Started with Electron - Brendan Forster
+Something Something Cyber - Troy Hunt
+Designing great progressive web apps - Nicole Saidy
+Flow - Am I Your Type? - Mark Volkmann
+Taming the Web with Cowboy & Coyote - Johnny Winn
+Building big teams with Nexus - Martin Hinshelwood
+Analyzing 33 million bike trips with BigQuery - Sara Robinson
+Azure Functions and Microsoft Cognitive Services Computer Vision API - Todd Fine
+ARM FTW – Azure Resource Manager For The Win - Magnus Mårtensson
+User Experience at Every Level of Business - Christina Aldan
+Terraform - colonising Azure! - Stefan Magnus Landrø
+Dynamic Teams - Fluidity for the win - Doc Norton
+Beyond step-by step debugging in Visual Studio - Tess Ferrandez
+Building Connected & Disconnected Mobile Apps - James Montemagno
+Confusion In The Land Of The Serverless: - Sam Newman
+Goodbye history tables, hello full audit- exploring message streams & event sourcing- M. Bustamante
+The blockchain: what, why and how - Benny Michielsen & Hans Peeters
+Hack Your Career - Troy Hunt
+Sensors, data and dashboards: Azure IoT end-to-end - Martin Abbott
+Imposter Syndrome: Overcoming Self-Doubt in Success - Heather Downing
+Programming is writing is programming - Felienne
+Beautiful apps with Fuse using your XAML and JavaScript skills - Christer Veland Aas
+Real-time surveillance of potential epidemics-Einar Ingebrigtsen, Tonje Tingberg & ​Richard Campbell
+AWS Serverless with .NET Core - Norm Johanson
+Keep you data safe in a containerized application - Hagai Barel
+Serilog: Instrumentation that Works for You - Nicholas Blumhardt
+Visual Studio Mobile Center: Fast and Fun Continuous Delivery for Mobile apps - Karl Krukow
+Scaling Serverless F# with Azure Functions - Mathias Brandewinder
+Banish Your Inner Critic v2.0 - Denise Jacobs
+ABC of CSS3 animations - Ronald Mavarez
+Making apps with React Native - Christian Brevik
+Become an SVG Architect, not a PowerPoint Architect! - Filip van Laenen
+A Vue to A Kill - an introduction to Vue.js - Andreas Ahlgren
+React components, atomic design and storybook - Einar Afiouni
+Coroutine Concurrency in Python 3 with asyncio - Robert Smallshire
+Compositional UIs - the Microservices Last Mile - Jimmy Bogard
+Cancer Genomics - a biologist and a developer - Samantha Langit & Lynn Langit
+#ToyFail: Is your child safe from the Internet of Things? - Martin Gravåk & Kristian Wille
+FAKE + Paket – PowerTools for .NET developers - Steffen Forkmann
+Microservices with Service Fabric. Easy... or is it? - Daniel Marbach
+HoloLens Development: The Next Steps - Lars Klint
+Microservice Swarms: Decentralized Discovery and Scaling - Allen Holub
+Adopting open source in your organization - Edward Thomson
+Better: Fearless Feedback for Software Teams - Erika Carlson
+Extending and Optimizing Xamarin.Forms Mobile Apps - James Montemagno
+It's not your parents' HTTP - Gleb Bahmutov
+Building a Serverless API With Google, Firebase and PostgreSQL - Rob Conery
+ReST 3.0 – A lap around HTTP Apis' next generation - Sebastien Lambla
+JavaScript Metaprogramming - ES6 Proxy Use and Abuse - Eirik Langholm Vullum
+Practical Empathy: Unlock the Super Power - Pavneet Singh Saund
+The Hybrid Docker Swarm: Mashing Windows and Linux Apps with Containers - Elton Stoneman
+Multi-container applications with .NET Core on Kubernetes - Magnus Stuhr & Ståle Heitmann
+Open Source Software Foundations: Not Totally Boring, Actually Super Awesome - Jon Galloway
+Identity Server 4 with Angular and ASP.NET Core - Ben Cull
+Scaling Agile in your Organization with the Spotify Model - Stephen Haunts
+Servant: Web APIs at the Type Level - Erlend Hamberg
+Goodbye REST; Hello GraphQL - Sandeep Singh
+Sex Robots - Kate Devlin
+Badass 101 - Lyndsey Padget
+The state of IoT in 2017 and how Norwegian Technology make IoT Easy - Joakim Lindh
+Optimism and the Growth Mindset - Reginald Braithwaite
+Building ASP.NET apps on Google Cloud - Mete Atamel
+Ben Cull Beer Research
+Ben Cull - NDC Oslo 2017 Beer Ølsmia
+C# Scripting in the .NET Core world - Filip W
+Where’s my free lunch? - Hadi Hariri
+Serverless Compute with Azure Functions - Magnus Mårtensson
+Big Scrum: Scaling Scrum with Nexus - Martin Hinshelwood
+Launching patterns for containers - it's more than just scheduling - Michele Bustamante
+Patterns for scalability and availability in (trading) systems - Michel André
+Agile Experiments in Machine Learning with F# - Mathias Brandewinder
+An Opinionated Approach to Using ASP.NET Core - Scott Allen
+Pushing it to the edge - Eirik Vullum
+Message Brokers and Containers - the new ESB is “no ESB” - Michele Bustamante
+IdentityServer4: New & Improved for ASP.NET Core - Dominick Baier
+There Be Dragons in the New JavaScript - Scott Allen
+Taking Elixir to the Metal with Rust - Sonny Scroggin
+Serverless F# with Azure Functions: fsibot goes nano-services - Mathias Brandewinder
+Collaborative Music with Elm and Phoenix - Josh Adams
+Fastware - Andrei Alexandrescu
+Three Unlikely Successful Features of D -  Andrei Alexandrescu
+Mobile DevOps with Xamarin and Visual Studio Team Service  - Richard Erwin
+Machine Learning for Muggles -  Martin Kearn
+Building Connected Azure Apps with Xamarin - Richard Hopkins & Mike James
+Microsoft Cognitive Services: Making AI Easy - Jennifer Marsman
+Next Generation Asynchronous Patterns in JavaScript - Jonathan Mills
+Techniques and practices for testing Angular 2 - Duncan Hunter and Adam Stephensen
+Go, Microservices and all the joy! - Andrzej Grzesik
+Chatbots: The hype, challenges and opportunities - Galiya Warrier
+Branching Out with Elm - Dave Fancher
+Visualizing Olympic Medals with F# and Fable - Tomas Petricek
+The (Awesome) Future of Web Apps - Jad Joubran
+Writing better tests for your JavaScript app - Jake Ginnivan
+The Victorian Age of JavaScript - Eric Brandes
+Where did you find that? - Niall Merrigan
+Applying Agile Thinking: Run Measure Learn - Julia Mitchelmore
+Deep .NET Debugging - Tess Ferrandez
+Of Elephants, Mooses and other problems in the Room -  Sabine Wojcieszak
+Predicting the future as a service with Azure ML and R - Barbara Fusinska
+Enhanced AML fraud detection solutions with Azure Machine Learning - Ravi Kanth
+High Tech Delight - Programming the 'Hard' out of Hardware - Suz Hinton
+Neural networks by example - Natalia An & Katya Mustafina
+Scaling applications with Azure Redis Cache and Machine Learning - Stefano Tempesta
+Chatbots: The hype, challenges and opportunities - Galiya Warrier
+DevOps and Agility with Visual Studio, Azure and Scrum - Martin Hinshelwood
+Focus on the User: Making the World a Better Place -  Jeremy Clark
+Deploying Applications to Windows Containers and Windows Server 2016 - Ben Hall
+Monitor your containers with the Elastic Stack - Philipp Krenn
+Brownfields DevOps in Practice - Damian Brady
+Real world DevOps with the Microsoft ALM Rangers - Wouter de Kort
+The .NET standards for Dummies - Matt Ellis
+The Velvet Revolution: Dockerizing Legacy ASP.NET Apps - Elton Stoneman
+The Async Arrow - Troy Kershaw
+Get Reactive with RxJS -  Venkat Subramaniam
+Software Engineering ​: Greatest Hits 1947   2047   Mark Rendle & Dylan Beattie
+Something Something Security  - Troy Hunt
+So many Docker platforms, so little time... - Michele Bustamante
+Exploring Pattern Matching in C# - Bill Wagner
+Visualise, document and explore your software architecture -  Simon Brown
+Using EEG and Azure Machine Learning to Perform Lie Detection - Jennifer Marsman
+Doing I.T. for SCIENCE! - Sprints, Startups and the Scientific Method - Dylan Beattie
+The Tension Between Expediency and Correctness - Josh Adams
+Exploring StackOverflow data - Evelina Gabasova
+C++17: The Library Features - Nicolai Josuttis
+Taming Cloud Complexity with F# DSLs - Yan Cui
+The C++ Type System is your Friend - Hubert Matthews
+Responsive Web Design for Developers with Visual Studio - Don Wibier
+C++17:  The Language Features - Nicolai Josuttis
+From Dependency injection to dependency rejection - Mark Seemann
+Let’s Get Lazy—The Real Power of Functional Programming - Venkat Subramaniam
+Squashing JavaScript bugs  - Todd H. Gardner
+TypeScript – JavaScript for C# devs - Chris Klug
+Avoiding Microservice Megadisasters - Jimmy Bogard
+Conversations for the masses - Peter Drougge
+Redux, beyond React - Aaron Powell
+UX Patterns for Developers - Nicole Saidy and Jad Joubran
+Punishment Driven Development - Louise Elliot
+Lean accessibility: Building inclusive design into your agile workflow - Elle Waters
+Feed the links, tuples' a bag – Intro to Linked Data APIs - Sebastien Lambla
+C#7 and Visual Studio 2017 - Kathleen Dollard
+Aurelia: Next Generation Web Apps - Ashley M Grant
+Get Func-y: Delegates in .NET - Jeremy Clark
+There's a Hologram in my UI! - Jessica Engström
+Angular 2 War Stories - Duncan Hunter &  Adam Stephensen
+The Afterlife: Languages after JavaScript - Jennifer Wong
+Consolidating Services With Middleware - Christian Horsdal
+Using AWS Lambda and Azure Functions to develop serverless applications - Rajpal Singh Wilkhu
+Fonts, Form and Function: A Primer on Digital Typography - Robby Ingebretsen
+Squeezing the Hardware to Make Performance Juice - Sasha Goldshtein
+Look Mommy, No GC! - Dina Goldshtein
+What are Graph Databases and Why should I care? - Dave Bechberger
+Web Application Security: Browsers Fight Back! - Christian Wenz
+Node.js Security - Ilya Verbitskiy
+Broken Crypto is Broken - Erlend Oftedal
+Get to grips with asyncio in Python 3 - Robert Smallshire
+Hacking Humans - Stephen Haunts
+Agile in a Business to Business relationship - Camilla Brown
+How to go from opening Visual Studio to interacting with a live chat bot in 10 minutes
+Testing in Python - Austin Bingham
+self.improve(): Building a Technical Career - Erika Carlson
+A world of devices - Laurent Bugnion
+Holographic Programming – Exploring the HoloLens - Lars Klint
+Engineering for Engineering's Sake - Mindaugas Mozūras
+Never RESTing – RESTful API Best Practices using ASP.NET Web API - Spencer Schneidenbach
+An independent look at the arc of .NET - Kathleen Dollard
+Build Your Own Azure - Mark Rendle
+Bundling your Front-End with webpack - Sandeep Singh
+.NET Rocks Live Panel on Machine Learning
+Mob Programming, A Whole Team Approach -  Woody Zuill
+Abusing C# - Jon Skeet
+The Post JavaScript Apocalypse  - Douglas Crockford
+The Seif Project   Douglas Crockford
+Working with Time is Easy   Jon Skeet
+Make Cyber Great Again - Troy Hunt
+This Is My 10-Year-Plan. What's yours? - Mark Rendle
+Troy Hunt on his "Hack yourself first" workshop
+Bundling your Front-End with webpack - Sandeep Singh
+Web apps that talk - Ilya Verbitskiy
+Remixing my career - João Lebre
+Better Code: Concurrency - Sean Parent
+Better Code: Runtime Polymorphism - Sean Parent
+Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks
+Functional C++ - Kevlin Henney
+Getting the best out of ASP.NET Core in Azure - Jon Galloway
+How to Break TypeScript (and How to Put it Back Together) - Benjamin Hodgson
+Thinking Outside the Synchronisation Quadrant - Kevlin Henney
+How to get your submission accepted at NDC London - Chris O'Dell
+JavaScript Patterns for 2017  - Scott Allen
+Becoming an awesome open source contributor - Christos Matskas
+0-60 in the .NET Framework - Software development for Formula 1 - Chris Alexander
+Ops and Operability - Dan North
+Back to Basics: Efficient Async and Await - Filip Ekberg
+Building JavaScript and mobile/native Clients for Token-based Architectures
+How Complexity Theory Can Save Your Job - Rob Conery
+Migrating to Serverless - an experience report - Gojko Adzic
+The Zen of Powershell - PowerShell for the C# dev - Peter Ibbotson
+The Force Awakens - Mastering Your Inner Developer - Lars Klint
+Web Performance Deep Dive - Chander Dhall
+Why User Data is about more than Forms - Chad Gowler
+Microservices and the Inverse Conway Manoeuvre - James Lewis
+Twelve Factor Apps in .NET : Building apps for the cloud - Ian Cooper
+Delivering Unicorns -  Kasia Mrowca
+Data + Docker = Disconbobulating? - Stephanie Locke
+An Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin
+Thirteen ways of looking at a Turtle -  Scott Wlaschin
+Phoenix: an Intro to Elixir's Web Framework - Sonny Scroggin
+VSCode: Tips and Tricks - Sahil Malik
+The Book of F# - Dave Fancher
+How to build real-world applications with Orleans - John Azariah and Sergey Bykov
+Becoming an awesome open source contributor - Christos Matskas
+Using Terraform and Consul to delegate service deployment to service teams - James Nugent
+Cloud nano-bots: Strongly-Typed State Machines In The Cloud - John Azariah
+The beauty of stupid ideas - Aaron Powell
+Life with actors: experience report - Vagif Abilov and Erlend Wiig
+Debugging your website with Fiddler and Chrome Developer tools - Robert Boedigheimer
+Building Fast and Beautiful apps with Xamarin.Forms - Michael Ridland
+Building a real-world cross-platform app with Xamarin and MVVM - Gill Cleeren
+Pipe forward : Using Elixir and F# together - Bryan Hunter
+How to Scale .NET Apps with Distributed Caching- Iqbal Khan
+Elasticsearch Do's, Don'ts and Pro-Tips  - Itamar Syn Hershko
+ARM FTW  Magnus Mårtensson
+Serverless Architecture - Tales from a world without servers - Robin Weston
+Patterns for application development with ASP.NET Core - Damian Edwards & David Fowler
+Introducing ASP.NET Core Sockets - Damian Edwards & David Fowler
+What were they thinking? Language design choices that seem wrong, until they don't. - Bill Wagner
+Head to Head: Jon Skeet, Kathleen Dollard and Rob Conery
+IdentityServer4: New & Improved for ASP.NET Core - Brock Allen & Dominick Baier
+An Opinionated Approach to ASP.NET Core - Scott Allen
+NDC London 2017 Keynote: Saving the World One App at a Time – Richard Campbell
+NDC - Inspiring Software Developers Since 2008
+Machine Learning with Functional Programming Workshop -  Mathias Brandewinder
+AngularJS 2.0 Workshop with Duncan Hunter and Adam Stephensen
+Dominick Baier - Identity & Access Control for modern Web Applications and API
+NDC London 2017  - Jennifer Marsman on EEG and Azure Machine Learning to perform lie detection
+NDC London 2017- Day 1 with Bill Wagner
+How to defeat feature gluttony  - Kasia Mrowca
+Performance & Stability Anti patterns - Alex Mackey
+Lightweight C# with Omnisharp and C# scripting - Filip W
+JavaScript through History  - Cristian Prieto
+A Security Tester's Toolbox - Niall Merrigan
+Scaling Professional Scrum with Visual Studio Team Services - Martin Hinshelwood
+.NET to The Power of R(1) - TJ Gokcen
+Diving into Elasticsearch with  .NET  - Russ Cam
+Facebook Development with ASP.NET and Microsoft Azure -  Nick Pinheiro
+A developers guide to the UX galaxy  - Tess Ferrandez
+Learning to program or speak a foreign language? - Anita Mongia
+Developing Distributed Systems with Apache Mesos - ​Yaniv Rodenski
+Look Ma! No servers! - Erwin van der Koogh
+Power BI for the Developer - Peter Myers
+Let's talk Auth - Jordan Knight
+Streams, lakes and oceans – working with on big data with Azure ML - Barbara Fusinska
+What's new in Xamarin.Forms - Michael Ridland
+Modern Authentication - Rob Moore
+TypeScript : More than just another JS transpiler - Basarat Ali Syed
+NDC Speaker Quotes: Troy Hunt
+NDC Speaker Quotes: Woody Zuill
+A picture is worth 1000 lines of code - Mike Minutillo
+HTTP/2 : What you need to know - Robert Boedigheimer
+Create the Internet of Your Things - The Microsoft Azure IoT Suite - Stefano Tempesta
+Inside the new team build - Richard Banks
+Faster & less risky releases with feature flags - Edith Harbaugh
+Sherlock Homepage - A detective story about running large web services - Maarten Balliauw
+NDC London 2017: Dan North - NDC Indulgence
+Microtesting - Matt Davies and Rob Moore
+A Walk Through Electron's Internals -  Brendan Forster
+The Future of automated testing  - Gojko Adzic
+Agile Project Management Anti-Patterns - Kasia Mrowca
+Creative Technology in the Classroom: Lessons from Teachers and Students - Cathy Hunt
+...because quality starts in your head - Sabine Wojcieszak
+Angular 2 War StoriesAngular 2 War Stories - Adam Stephensen and Duncan Hunter
+Azure Machine Learning for the Developer - Peter Myers
+Functional Programming for the Everyman - Daniel Chambers
+Continuous Delivery and DevOps and Robots; Oh my!   Fabien Ruffin and Jason Brown
+Code it like C#, run it like Erlang - Philip Laureano
+Domain Architecture Isomorphism and the Inverse Conway Maneuver - Dylan Beattie
+Beyond Docker Buzzwords - Kiruthika Samapathy
+Debugging your communication for more success and efficiency in DevOps - Sabine Wojcieszak
+Debugging Your Website with Fiddler and Chrome Developer Tools - Robert Boedigheimer
+Stairway to Cloud: Orleans Framework for building Halo-scale systems - Sergey Bykov
+Project Kudu, The Magic Behind Azure App Services' Continuous Deployment - Emad Alashi
+Soft Skills for the Developer - Mahesh Krishnan
+This is not the Async you are looking for - Liam Westley
+Real-time Twitter analysis with Reactive Extensions - Niall Connaughton
+Cloud Devops - Paul Stack and Lynn Langit
+Orleans Architecture Patterns - Sergey Bykov and John Azariah
+What makes React different? - Jake Ginnivan
+Teaching Kids Programming - Lynn Langit
+The State of Mobile Development with JavaScript - John Bristowe
+Experience NDC London - A Software Developers Conference
+The Agenda is out - NDC London 2017
+Don’t Be Dilbert: Survival Tactics for Uninspiring Workplaces - Kylie Hunt
+Cross Platform Mobile with XAML and MVVM - Nigel Sampson
+Angular 2 for Angular 1 developers - Mohamed Meligy
+Lessons learnt using Go - Paul Bouwer
+Distributed Computing made easy with Azure Service Fabric - Magnus Mårtensson
+Pacts to the Rescue! Making your microservices play nicely together - Beth Skurrie
+Azure IoT Service  - Dave Glover
+Don't miss out on the Early Bird tickets for NDC London 2017
+Windows 10 for IoT -  Dave Glover
+Visual Studio 2016 + Talk DevOps please - Adam Cogan
+Beyond console.log - Aaron Powell
+Call for papers deadline 1 October - NDC London 2017
+Docker and ServiceFabric - A taste of two platforms - Michele Bustamante
+Centralised Logging    without the blood, sweat and tears   Paul Stack
+Aurelia - Next Generation Web Apps - Ashley M Grant
+The Experimentation Mindset - Doc Norton
+Rider Tips & Tricks - Hadi Hariri
+Practical Microservice Security -  Laura Bell
+How to Hack Your Own Mobile App -  Alec Tucker
+Holographic Programming – Exploring the HoloLens - Lars Klint
+How to build  .NET Microservices - Richard Banks
+F# in the Real World - Yan Cui
+Managing Enterprise and Consumer Identity with Azure Active Directory - Nick Pinheiro
+Building Reactive Services using Functional Programming - Rachel Reese
+Video Transcoding at Scale for ABC iview - Daphne Chong
+Electron - Writing desktop applications using web technologies - Mahesh Krishnan & Cristian Prieto
+Creating Cross Platform Games with Unity - Brian Lagunas
+Web Diagnostics with a Glimpse into ASP.NET  - Anthony van der Hoorn
+Serverless - Sam Kroonenburg & Peter Sbarski
+ASP.NET Core – OWIN in disguise - Chris Klug
+JavaScript's Most Wanted - Todd Gardner
+Awesome Node.js microservices in the cloud for (almost) free - Gojko Adzic
+DIY Security for the Amateur Superhero - Laura Bell
+The Silver Bullet Syndrome - Hadi Hariri
+Open Source From The Trenches - James Newton-King
+Deploying and Scaling Microservices - Sam Newman
+The Technical Debt Trap - Doc Norton
+Patterns and practices for real-world event-driven microservices - Rachel Reese
+Building Code Analyzers with the new C# compiler platform (Roslyn) - Filip W
+Effective Data Visualization  - David Giard
+Deploying Docker Containers on Windows Server 2016 - Ben Hall
+The Force Awakens: Mastering Your Inner Developer - Lars Klint
+Microsoft Azure Without Microsoft - David Giard
+Where did you find that? - Niall Merrigan
+Deploying Kubernetes, a Container Cluster Manager - Ben Hall
+Continuous deployment in under 60 minutes with Octopus Deploy -  Damian Brady
+The Rest of ReST - Dylan Beattie
+Faster Websites with WebPageTest - Nik Molnar
+Performance as a First Class Feature with NBench - Aaron Stannard
+Akka.NET: The Future of Distributed Programming in .NET - Aaron Stannard
+50 Shades of AppSec - Troy Hunt
+Node.js Crash Course for .NET Developers - David Neal
+Looking forward to Bootstrap 4 - Shawn Wildermuth
+Head to Head: Scott Allen and Jon Skeet  -  Scott Hanselman
+One kata, three languages -  Mark Seemann
+Accessing the Google Cloud Platform with C#  - Jon Skeet
+Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors...
+What does an Open Source Microsoft Web Framework Look Like - Scott Hanselman
+A taste of EcmaScript 6: the language and the tools - Rob Richardson
+I say A “front end build pipeline” – You say WAT!? - Chris Klug
+How Real is this Cross Platform  .NET Thing Really? - Jon Galloway
+Functional architecture - The pits of success - Mark Seemann
+Architecture in the Azure Cloud - Scott Hanselman
+Making Hacking Childs Play - Troy Hunt
+The New Dragons in JavaScript - Scott Allen
+Solid ASP.NET Core -  Jimmy Bogard
+ASP.NET Core for Angular, React, Knockout etc  developers - Steve Sanderson
+Building ASP.NET Core Kestrel - Damian Edwards & Jon Galloway
+ASP.NET Core Deep(er) Dive - Damian Edwards
+What happens when...? - Tatham Oddie
+NDC Sydney 2017
+NDC Conferences
+Domain Driven Design: The Good Parts - Jimmy Bogard
+Keynote NDC Sydney 2016: If I knew then what I know now  - Scott Hanselman
+ASP.NET Core Kestrel: Adventures in building a fast web server - Damian Edwards & David Fowler
+Best Practices for using JS in your mobile app - Ricardo Minguez Pablos
+HTTP 2.0 from the Developer's Viewpoint - Dave Methvin
+Open data in intelligent transport systems - Trond Smaavik & Jørgen Abrahamsen
+Performance Optimizations in the Wild - Oren Eini
+There's Treasure Everywhere - Andrei Alexandrescu
+Functional web applications using F# and suave - Thomas Jansson
+Continuous Integration and Delivery - from the trenches at www.lego.com -  Kristian Bank Erbou
+Working Distributed - How Does It Even Work? -  Brendan Forster
+Bluetooth && Azure IoT hub == IoT - Or how to rule bilions of devices -  Jimmy Engström
+.NET without Windows - Matt Ellis
+Stairway to Cloud: Orleans Framework for building Halo-scale systems - Sergey Bykov
+Sensitive data in the cloud? You can’t do that! - Rune Grimstad
+Introduction to C++ Template Metaprogramming - Sasha Goldshtein
+Understanding parser combinators: a deep dive - Scott Wlaschin
+Modern Data Applications with Entity Framework 7 - Ido Flatow
+How to do a really good product demo - Katrin Grothues
+Performance is not an Option- Building services with GRPC and Cassandra - Dave Bechberger
+Generic Locking in C++ -  Andrei Alexandrescu
+MicroMonolith - Top anti-patterns of distributed systems - Michal Franc
+Automated UI Testing for iOS and Android Mobile Apps - Karl Krukow
+.NET Data Security : Hope is not a Strategy - Stephen Haunts
+Is your code ready for .NET Core? - Mark Rendle
+A Piece of Cake - C# powered cross platform build automation - Gary Ewan Park
+Hacking in 2016 - How is our systems broken? - Chris Dale
+IoT at home - The solution to all your spare time problems - Karl-Henrik Nilsson
+Cloud Patterns - Tamir Dresher
+The F#orce Awakens - Evelina Gabasova
+Real World HoloLens Mixed Reality Development with Unity - Be Part of the Future - Rene Schulte
+Optimizing the Programmer: Get More Done Faster - Dave Rael
+Windows IoT Core or Corny - Karl-Henrik Nilsson
+ASP.NET Core 1: What has changed for MVC and Web API developers? - Manfred Steyer
+Safety: off --- How not to shoot yourself in the foot with C++ atomics - Anthony Williams
+Scaling large Angular apps - Jad Joubran
+Keynote: Yesterday’s Technology is Dead, Today’s is on Life Support - Troy Hunt
+REPL Driven Development, Scrum, and the Wright Brothers - Jamie Dixon
+Head to Head #2: K. Scott Allen and Jimmy Bogard
+A High-Performance Solution to Microservices UI Composition - Arif Wider & Alexey Gravanov
+What every Node.js developer needs to know about Elixir - Bryan Hunter
+Talk To Your Microservice Via a Chat Bot, not UI  - Yegor Bugayenko
+Becoming a Social Developer -  Jeremy Clark
+Bringing beacons to the Windows platform - Michał Łusiak
+Choosing a JavaScript Framework - Rob Eisenberg
+NDC Oslo 2016: sequential, concurrent and parallel programming
+NDC Oslo 2016: Pre-Conference Workshops highlights
+NDC Oslo 2016: How to be a social developer
+NDC Oslo 2016: Highlights from day 2

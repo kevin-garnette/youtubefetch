@@ -1,0 +1,228 @@
+[GDG Rennes Android] ViewModel + Databinding = ❤️ - Cédric Creusot
+[SC] Living Documentation - Sébastien Fauvel
+[SC] Démystifions le Domain Driven Design - Maxime Sanglan-Charlier
+[GDG Rennes Android] Remote Android - Clément Garcia
+[GDG Rennes Android] The Flutter Journey to a Production App - Elaine Dias Batista
+[AndroidRennes] Android et IoT : Parlez-vous MQTT ?
+[SC] Vous livrez encore des bugs en prod en 2019 ? - Jordane Grenat
+[Rennes DevOps - BreizhJUG] Sécurisez vos applications avec Keycloak - Jérôme Marchand
+[AndroidRennes] Kotlin/Everywhere - Yacine Rezgui
+[SC] Entre industrialisation et artisanat, le métier de développeur - Arnaud Lemaire
+[BreizhJUG] Gradle: DSL Kotlin, performances des builds et autres nouveautés - Cédric Champeau
+Chérie, j'ai mis du fonctionnel dans mon Java ! (Édouard Siha, Charles Dufour)
+Cypress, l’outil qui va vous faire aimer les tests End-to-End ! (Rodolphe Bung)
+MADPIG: mesure et optimisation de la performance en Go (Valentin Deleplace)
+Scuttlebutt - Construire un Facebook décentralisé (Antoine Cailly)
+L'adoc : du néant à la galaxie Antora (Gautier de Saint Martin Lacaze, Nicolas Giraud)
+Comprendre les tours de passe-passe de Webpack (Cédric PATCHANE)
+The Web is still on ? F.I.R.E. ? !!! (Noël Macé)
+Kubernetes meublé, disponible de suite (Aurélien Maury, Aymen Lamara)
+⛳️ Votre API web passe-t-elle le contrôle technique ? (Francois-Guillaume Ribreau)
+The elevator problem (Xavier Van de Woestyne)
+Stop aux régressions visuelles de vos composants UI, avec Storybook et Loki (Jérémie Ledentu)
+Code moi un 'mouton de recherche' (Maxime Odye, Ludovic Boutros)
+MVI : une architecture robuste et moderne pour vos applications m… (Simone Civetta, Arnaud Piroelle)
+Comment fausser l'interprétation de vos résultats avec des dataviz (Romain Sagean)
+Au secours, je dois gérer la production ! (Morgan Leroi)
+Créez vos visualisations personnalisées dans Kibana avec Vega.js (Raphaël LUTA)
+Mon premier service en Rust (Francois Teychene)
+Minio, une nouvelle approche du stockage objet : promesses, enthousiasme et dés… (Sébastien BLAISOT)
+Comment j'ai hacké ma prise électrique (Florent Vuillemin)
+Les risques de la revue de code (François Gelineau)
+Dessine moi ... un DSL en Kotlin (Benoit PRIOUX)
+Comprendre la langue de bois pour survivre en entreprise (Vincent VIMARD, Marie Viley)
+Plongée dans les CSP (Laurent Brunet)
+Spring WebFlux par la pratique (Alan Menant, Benoit Travers)
+Le web décentralisé, comment ça marche ? (Antoine Cailly)
+Keycloak, le maître des clés (Jérôme Marchand)
+IoT et open source hardware pour la collecte de timeseries (Xavier MARIN)
+Dr Gopher, Anatomie du Scheduler (Nicolas Lepage)
+Machine Learning pour tous avec Python (Robin Allesiardo)
+Lessons learned on Microsoft’s DevOps Journey (François Bouteruche)
+Parcel.js : le bundler dont vous rêviez ;) (Mathieu ANCELIN)
+.NET Core le renouveau du .NET Framework (Fabien PAITRY)
+Du fer à souder à la manette : une console de jeux à partir d'un microcontrolleur (Xavier Moulet)
+Sous le capot des conteneurs Linux (Alessio Coltellacci)
+LE SUPER POUVOIR DES "TYPE CLASSES" (Alexandre Delègue)
+Istio, le meilleur ami de votre cluster K8S ❤️ (Kevin Davin)
+Outils et bonnes pratiques de développement d'applications Android sécurisées (Alain Muller)
+Ceci n'est pas un Talk sur LitElement, c'est un cours (Philippe Charrière)
+L’accessibilité des applications mobiles android (Léna NDIAYE)
+The CI as a partner for test improvement suggestions (Caroline Landry)
+Boostez le chargement de vos images ! (Jean-Michael Legait)
+CI/CD FIVE MILLION WORKERS (Benjamin Coenen, Richard Le Terrier, Steven Guiheux)
+FastText, le proton pack des WordBusters (Fabrice Depaulis)
+Feature Toggle et Microservices (Cédrick Lunven)
+WebAuthn: Le renouveau de l'authentification (Thomas Blaisot)
+De Java vers Kotlin, la migration du héron ! (Guillaume Lours, Audrey Neveu)
+De Java 8 à Java 11 sur un gros projet : les pièges à éviter (Thomas COLLIGNON, Alexis DMYTRYK)
+Comment... Or not comment? That is the question. (Pascal Le Merrer)
+Vanilla JS 2019 (Matthieu Lux)
+Du Blue-Green au Canary-Release avec Kubernetes (Mathieu Herbert)
+Et si nous créions le .breizhcamp? (Marc Audefroy, Eric Vergne)
+Scaling Java Application : Vers l’infini et au delà (Julien Roy)
+Craftsmanship  & Shoot-them-up avec LibGDX en Java (François-Xavier Robin)
+UX : Les formulaires (Bruno Sabot)
+"Bogged down in the slime, Busters ?  your python code can run fast !" (Performance e… (Pierre Rust)
+TLS 1.3 arrive!!! Et si on comprenait déjà ce que fait TLS 1.2 ? (Arnaud Locquet)
+Micro Frontend: le casse tête des micro services étendu au FrontEnd ! (Audrey Neveu)
+Programmation par Traits sous l'influence de la gestion mémoire (Didier Plaindoux)
+Git, yet another VCS ou bien plus que ça ? (Loïc Guibert)
+jq, JSON comme un pro (Sébastien LECACHEUR)
+Consul et la dynamique de l'infrastructure (Nicolas Ledez)
+Développeurs et agilité : la guerre est déclarée ? (Cécilia Bossard, Jean Paliès)
+[AndroidRennes] Intégration continue dans un projet Android - Caroline Mouden
+BreizhCamp 2019 en images
+BreizhCamp 2019 - Keynote clôture vendredi soir
+BreizhCamp 2019 - Keynote vendredi matin
+BreizhCamp 2019 - Keynote jeudi soir
+[BreizhJUG] Que se passe-t-il sous le capot ? Exploration au coeur de la JVM - Sylvain Wallez
+BreizhCamp's CodeBusters
+[Lambda Rennes] Nix : Déploiement purement fonctionnel - Gaël Deest
+[BreizhJUG] Upgrader vers Spring Boot 2 - Stéphane Nicoll
+[AndroidRennes] Escaping Callback Hell with coroutines - Louis Cad
+[Rennes DevOps] Quels choix d'hébergement possibles pour des données de santé ?
+[Flutter Rennes] Introduction à Flutter - Romain Rastel et Aloïs Deniel
+Qui c'est qu'on appelle ?
+10 raisons de ne pas faire le BreizhCamp aux Jacobins - la 8ème va vous surprendre !
+[BreizhJUG] Au delà des brokers: un tour de l'environnement Kafka - Florent Ramière
+[BreizhJUG] Mutation Testing for Java - Benoit Baudry
+[Software Crafts·wo·manship] L'enfance perpétuelle... - Laurent Bossavit
+[Software Crafts·wo·manship] OpenSCAD - Guillaume Collic
+[Lambda Rennes] ELM : Goodbye Javascript ! - Pascal Le Merrer
+Jocker, a Java Docker client lib. Où "comment les devs Java aiment se faire mal à… (Nicolas De Loof)
+HTTP/2 en pratique (Alexis Hassler)
+L’Infrastructure as Code avec Terraform (Mathieu Herbert)
+Swagger 2 est mort, vive OpenAPI 3 (Sébastien LECACHEUR, Grégory BLOQUEL)
+Enseigner est apprendre : devenez un·e meilleur·e dev en partageant vos c… (Céline Martinet Sanchez)
+TICK-Tac, il est l'heure de collecter et exploiter vos données temporelles (Nicolas Steinmetz)
+Event sourcing par l’exemple (Loïc Knuchel)
+Donner du sens à vos pages web avec Schema.org (Audrey Garreau)
+JavaScript, GPU et palet breton (Cailly Antoine)
+un Loof ça va, deux Loof bonjour les dégâts ! (Nicolas De Loof, Thomas De Loof)
+De la domotique faite-maison avec Android Things et le Google Assistant (Gautier Mechling)
+Des tests Javascript sans prise de tête avec Jest (Cédric PATCHANE)
+Byte Buddy, la génération de bytecode facile ! (Comet Nicolas)
+Les Vendredis noirs : même pas peur ! (David Pilato)
+Vos applications sous stéroïde avec Otoroshi et Izanami (Alexandre Delègue, Mathieu ANCELIN)
+#ChallengeAccepted Une plateforme moderne pour le groupe SIPA/Ouest-Fr… (Francois-Guillaume Ribreau)
+D'AngularJS + Grunt à VueJS + Webpack : un lifting de votre stack à moindre coût (Cédric Le Gallo)
+Kotlin : Le back du futur - La conf (Gautier de Saint Martin Lacaze, Adrien Pessu)
+Full-remote : guide de survie en environnement distant (Matthias Dugué)
+Prise en main des outils et données OpenStreetMap (Adrien PAVIE)
+Métrologie et Alerting avec Prometheus et Grafana (Yoan Rousseau, Pierre-Yves Aillet)
+JVM & conteneurisation, que se passe -il vraiment? (Yoan Rousseau)
+WebAssembly : de .ASM à .WASM, la performance native dans nos browsers (Antoine Viau)
+BreizhCamp 1888 (Nicolas De Loof, Fabien Tregan)
+Décider sans se faire biaiser (Thomas Fournaise)
+Les mains dans le cambouis de ma blockchain (Fabrice Depaulis, Frederic Chantrel)
+L'open-source à la rescousse de mes APIS: comment les sécuriser … (Guillaume Gillon, David Brassely)
+Les nouveautés de Go 1.10 (a.k.a. En attendant Go2) (Benoît Masson)
+Privacy by design (Matthias Dugué)
+Créer un chatBot en interne sans vendre son âme au diable ? (Cécilia Bossard)
+#RetourAuxSources : Les cookies HTTP (Hubert SABLONNIÈRE)
+À tables ! Router efficacement avec Iproute et Netfilter. (Julien Durillon)
+Node.js et les 3 coquillages (Nicolas Pennec)
+HA et performances (Mathieu POUSSE)
+Démystifier le réactif et l'orchestration de services avec Vert.x, Kubernetes et Kot… (Julien Ponge)
+#serverless - 🛳 mettez-le en œuvre dans votre entre… (Ludovic Piot, Adrien Blind, Laurent Grangeau)
+Machine learning for dummies (Cérès Carton)
+Un monolithe microservices ready™ (Arnaud LEMAIRE)
+Développer un jeu vidéo (quand on n’y connait rien en développement de jeux vidé… (David Wursteisen)
+OpenFaaS : un framework serverless au dessus de Docker et Kubernetes (Laurent Grangeau)
+Rendre ma maison moins bête (Cedric GATAY)
+9 things that will make your Event Sourcing/CQRS journey painful (Clément HELIOU)
+[Software Crafts·wo·manship] Le XXIème siècle sera typé ou ne sera pas - Arnaud Bailly
+BreizhCamp's Seven
+Keynote vendredi soir
+Keynote vendredi matin
+Keynote Jeudi soir
+Keynote Jeudi matin
+[Docker MeetUp] Tour d'horizon de Kubernetes (David Gageot)
+BreizhCamp a 5 ans - funky
+[BreizhJUG] Des builds incroyablement rapides avec Gradle 3 (Cédric Champeau)
+5 ans
+BreizhCamp 2016 trailer
+[Software Crafts·wo·manship] Talk mystère (Florian Strzelecki)
+[Software Crafts·wo·manship] Don't fear the lambda ! (C. Gaudreau et G. Deest)
+[Software Crafts·wo·manship] Work in a Dream Team (Rex et outils pour y parvenir) (David Laizé)
+[Software Crafts·wo·manship] Les dangers de la revue de code (François Gélineau)
+[Software Crafts·wo·manship] Développeurs, arrêtez d'apprendre ! (Pascal Le Merrer)
+[Software Crafts·wo·manship] Introduction à Semantic Versioning (Kévin Le Helley)
+[AndroidRennes] Xamarin : Récit de quatre années d’aventures épiques (R. Boillon et Q. Sallat)
+[Software Crafts·wo·manship] Dette technique et entropie du logiciel (Arnaud Lemaire)
+Breizh to the Camp
+[BreizhJUG] Les nouveautés les plus marquante de Elastic 6.0-6.1 (Camilo Sierra)
+[BreizhJUG] Pourquoi Spring ❤️ Kotlin ? (Sébastien Deleuze)
+[BreizhJUG] Pipeline Jenkins (Nicolas Verlé)
+[BreizhJUG] Nouveautés Jenkins (Y. Dubreuil et N. De Loof)
+[BreizhJUG] Open data avec Neo4j : de l'idée au déploiement (F. Biville et M. Gazanayi)
+[BreizhJUG] Tu modules ? (Rémi Forax)
+[AndroidRennes] Simplifiez vous la base avec SQLDelight et SQLBrite (Julien Banse)
+[Docker Rennes] Windows Containers : qui, pourquoi, comment, wtf ? (JP Gouigoux)
+[BreizhJUG] REX PJ - Les transactions dans une architecture microservices (David De Carvalho)
+[BreizhJUG] Un peu GOR l'exécution de votre outil de load test préféré! (Lucas Pouzac)
+[AndroidRennes] Live coding Kotlin for Android (Arnaud Giuliani)
+[GolangRennes] Enlarge your software ! Architecture modulaire et plugins (François Samin)
+Angular (2) et performances (cyril balit, Wassim Chegham)
+REX : d'un monolithe à des microservices multitenants en Docker (Jean-Philippe Gouigoux)
+JUnit 5 : Tests imbriqués dynamiques (Benoit AVERTY)
+JWT in depth (Mathieu POUSSE)
+Machine Learning at scale: TensorFlow in the Cloud (Yufeng Guo)
+Retour d'expérience: le déploiement continu chez Expedia (Scheibel Guillaume)
+Des applications Angular reactives avec RxJS (Wassim Chegham)
+Le test d’intrusion Red Team : digne successeur de l’audit de sécurité ? (Clément MICHEL)
+Circuit-Breaker: Comment disjoncter pour éviter de "péter les plombs" (Gabriel Magniez)
+Automatiser la gestion de vos environnements avec Ansible (Fabien PAITRY)
+Si t'es pas développeur à 40 ans ... il n'est pas trop tard ! (Eric SIBER)
+Retour sur les panama papers et les bases de donnés graphe (Benoit Simard)
+Introduction à Unikernel (Tomas Rodriguez, Jean-Baptiste Claramonte)
+Apache Spark : Deep dive dans l'API Java pour développeur (Alexandre Dubreuil)
+TypeScript, un ami qui vous veut du bien... ou pas (Vincent Ogloblinsky, Matthieu BRECHET)
+Le design mobile, c'est pas facile ! (Quentin Sallat)
+Créer un bot, pas si simple. Faisons le point. (Stève Sfartz)
+Vue.js, même un dev Java peut en faire ! (Bruno Bonnin)
+La datavisualisation pour les nuls (Thomas Fournaise)
+Million Dollar Logs (Yann Vanderstockt)
+Quand Internet sera gouvernée par les |chats⟩ de Shrödinger (Nicolas De Loof)
+Qu'apprend-on de millions de fichiers dans Github ? (Guillaume Laforge)
+Keynote d'ouverture - Jeudi (Team BreizhCamp)
+Recruteur/Développeur, pour le meilleur et pour le pair (Shirley Almosni Chiche, Nathalie Ikedjian)
+WTFJS!! Comprendre les ambiguïtés de la syntaxe en JavaScript pour éviter les pi… (Grégory Houllier)
+Keynote d'ouverture - Vendredi (Team BreizhCamp)
+Comment les logiciels pourrissent ma vie (Antonin Le Mée)
+Qu’est ce que tu fais dans la vie ? (Cérès Carton)
+Qui veut gagner une carrière de développeur (Jean-François Garreau, CommitStrip)
+Welcome
+[AndroidRennes] Designing Captain Train Mobile Experience (Cyril Mottier)
+Keynote fermeture Breizhcamp 2016
+Keynote ouverture BreizhCamp 2016
+U2F, l'authentification forte pour votre site web
+Closing Keynote CommitStrip
+Spock
+Construire un SaaS dans son propre nuage
+VertX
+SimpleWeb4j
+keynote
+cloud patterns
+Les androïdes rêvent t-il de Gradle ?
+pimp my backend
+Révolution du 9/9 : les lambdas au pouvoir !
+Concilier architecture et agilité
+ALM en action avec TFS 2012
+programmation fonctionnelle en java si, si)
+Scala SBT en entreprise
+crash test à haute vitesse
+papy fait du scala
+Utilisation de python sur le robot humanoïde NAO
+nagare - le développement web facile en python
+web components
+liquibase
+kata soft et hard
+breizhkids
+hands on angular   2
+hands on angular   1
+librairies android
+dartologie
+minitel on the cloud
+Gestion de source
